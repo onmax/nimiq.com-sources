@@ -10,10 +10,8 @@ We are using [Github Actions](.github/workflows/) It will run every Monday, Thur
 
 We like to know what the community is saying about Nimiq. 
 
-#### Code
-
 - [tweets.py](./src/tweets.py)
-
+- [Tweets job](.github/workflows/fetch-data.yml#12)
 
 #### How do we do it?
 
@@ -24,3 +22,14 @@ Then, we filter the tweets using [finiteautomata/bertweet-base-sentiment-analysi
 #### Output
 
 We store two tweets datasets: [All tweets](./assets/tweets/tweets.json) and [Positive tweets](./assets/tweets/positive-tweets.json).
+
+### GitHub Stats
+
+Compute the amount of commits and additions made in the last `N_WEEKS`.
+
+- [stats.py](./src/stats.py)
+- [Stats job](.github/workflows/fetch-data.yml#38)
+
+#### How do we do it?
+
+We use [GitHub's statistics API](https://docs.github.com/en/rest/metrics/statistics) to get the stats of the last year, and then we filter the data to get the stats of the last `N_WEEKS`.

@@ -1,16 +1,13 @@
 """Computes sentiment analysis of tweets."""
 
-import json
 import os
 
 import requests
 from transformers import pipeline
 
-TWITTER_TOKEN = os.environ.get("TWITTER_TOKEN")
+from util import OUTPUT_FOLDER, get_contents, get_variable, set_contents
 
-if TWITTER_TOKEN is None:
-    print("Please set the TWITTER_TOKEN environment variable.")
-    exit(1)
+TWITTER_TOKEN = get_variable("TWITTER_TOKEN")
 
 
 def fetch_tweets() -> list:
@@ -72,13 +69,8 @@ def filter_positive_tweets(
 
 def append_new_items(tweets_list: list, filename: str) -> None:
     """Append new items to the json file."""
-    filename = os.path.join("./output/tweets", filename)
-    old_tweets_list = []
-
-    # Open the file. If file does not exist, create it.
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as fi:
-            old_tweets_list = json.load(fi)
+    filename = os.path.join(f"{OUTPUT_FOLDER}/tweets", filename)
+    old_tweets_list = get_contents(filename)
 
     # Append new items
     old_url = [tweet["tweet"]["url"] for tweet in old_tweets_list]
@@ -86,15 +78,8 @@ def append_new_items(tweets_list: list, filename: str) -> None:
         if tweet["tweet"]["url"] not in old_url:
             old_tweets_list.append(tweet)
 
-    if not os.path.exists("output"):
-        os.makedirs("output")
-    if not os.path.exists("output/tweets"):
-        os.makedirs("output/tweets")
-
-    # Save the new list
-    with open(filename, "w", encoding="utf-8") as fi:
-        print(f"Saving {len(old_tweets_list)} tweets in {filename}")
-        json.dump(old_tweets_list, fi, indent=2)
+    print(f"Saving {len(filename)} tweets in {filename}")
+    set_contents(filename, old_tweets_list)
 
 
 tweets = parse_tweets(fetch_tweets())

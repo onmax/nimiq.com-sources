@@ -1198,5 +1198,65 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1590012671314825219/qBRqUtDp_normal.jpg"
     },
     "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@CryptoGemsCom What is #Nimiq ?",
+      "url": "https://twitter.com/birbalk97528290/status/1590740949570768906",
+      "created_at": "2022-11-10T16:19:31.000Z"
+    },
+    "user": {
+      "username": "birbalk97528290",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1568826102746910726/6Khan4VO_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@CryptoGemsCom #Nimiq is an open source decentralized peer-to-peer payment protocol for the world wide web. The team developed #NimiqOASIS \u2014a decentralised fiat-to-crypto bridge. With this protocol, buying/selling #crypto is now as easy as making a bank transfer. Watch video\ud83d\udc47",
+      "url": "https://twitter.com/rahul99348092/status/1590740948677701633",
+      "created_at": "2022-11-10T16:19:31.000Z"
+    },
+    "user": {
+      "username": "rahul99348092",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1583727504774369281/NUdSc7Yt_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "WL manufacturing @Yung_bld @En_ckmk @CryptoKing215 @tuhin0696 @wrd802 @Demtry0 @nimiq @sas97217 @Akmal7401 @WavemStudios @Eliijahsamurai @libai88821272 @001CTD https://t.co/rwj1bkGi3d",
+      "url": "https://twitter.com/CollLove97/status/1590740484452151299",
+      "created_at": "2022-11-10T16:17:40.000Z"
+    },
+    "user": {
+      "username": "CollLove97",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1567990254178795520/sYvtH5Zi_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq Your keys are only as good as your nodes",
+      "url": "https://twitter.com/PhantzE/status/1590734548077522946",
+      "created_at": "2022-11-10T15:54:05.000Z"
+    },
+    "user": {
+      "username": "PhantzE",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1588348784391643137/t_7QVNLE_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@ilCriptonauta @WOMBO @kofi_button La mia immagine di sfondo profilo, una radura tappezzata di esagoni gialli (#Nimiq), \u00e8 proprio generata con #midjourneyAi",
+      "url": "https://twitter.com/simogattok/status/1590734029954764800",
+      "created_at": "2022-11-10T15:52:01.000Z"
+    },
+    "user": {
+      "username": "simogattok",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1554187757806837767/eHXpPYfl_normal.jpg"
+    },
+    "sentiment": null
   }
 ]

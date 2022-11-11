@@ -1,3 +1,5 @@
+<img src="/icon.svg" alt="Nimiq Stats Logo" />
+
 # Sources for nimiq.com
 
 This repository contains the auto-generated sources that we use in [nimiq.com](https://nimiq.com).
@@ -11,6 +13,10 @@ We are using [Github Actions](.github/workflows/) It will run every Monday, Thur
 We like to know what the community is saying about Nimiq. 
 
 - [tweets.py](./src/tweets.py)
+- [Tweets job](.github/workflows/fetch-data.yml#12)
+
+#### GitHub Action
+
 - [Tweets job](.github/workflows/fetch-data.yml#12)
 
 #### How do we do it?

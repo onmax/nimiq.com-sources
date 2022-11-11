@@ -114,7 +114,7 @@ repo_stats_json = {
     "start_date": start_date.isoformat(),
     "repos": repo_stats
 }
-set_contents(filename_by_repo, repo_stats, remove_old=True)
+set_contents(filename_by_repo, repo_stats_json, remove_old=True)
 
 print(f"Total commits in the last {WEEKS_COUNT} weeks: {commits_count}")
 print(f"Total additions in the last {WEEKS_COUNT} weeks: {additions_count}")

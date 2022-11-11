@@ -57,3 +57,26 @@ jobs:
         with:
           add: "output/stats"
           push: origin main --force
+
+  social_score:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+          cache: "pip"
+      - name: Main script
+        run: |
+          python3 -m pip install requests
+          python3 ./src/social_score.py
+        env:
+          LUNARCRUSH_TOKEN: ${{ secrets.LUNARCRUSH_TOKEN }}
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/stats"
+          push: origin main --force
+

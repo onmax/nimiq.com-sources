@@ -91,10 +91,14 @@ stats = {
     "commits_last_month": commits_count,
     "additions_last_month": additions_count
 }
-filename = os.path.join(f"{OUTPUT_FOLDER}/stats", "stats.json")
 
-print(f"Saving {stats} in {filename}")
-set_contents(filename, stats, remove_old=True)
+filename_stats = os.path.join(f"{OUTPUT_FOLDER}/stats", "stats.json")
+print(f"Saving {stats} in {filename_stats}")
+set_contents(filename_stats, stats, remove_old=True)
+
+filename_by_repo = os.path.join(f"{OUTPUT_FOLDER}/stats", "stats-by-repo.json")
+print(f"Saving stats by repo in {filename_by_repo}")
+set_contents(filename_by_repo, repo_stats, remove_old=True)
 
 print(repo_stats)
 print(f"Total commits in the last {SINCE_DAYS} days: {commits_count}")

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "core-js",
+    "commits": 5,
+    "additions": 71
+  },
+  {
+    "name": "nimiq-demo",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiq-exchange-token",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "jungle-db",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiqode",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "x-element",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "web-share-shim",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "robohash",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "qr-scanner",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "qr-creator",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "elements",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nano-api",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "community",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "backup-file",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "mnemonic-phrase",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "designs",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "identicons",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiq-style",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiq-utils",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiq-activation",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "doc-theme",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "nimiq.github.io",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "build-process",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "boruca-messaging",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "safe",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "keyguard-legacy",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "network",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "keyguard-client-legacy",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "es6-router",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "redux",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "redux-logger",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "deep-object-diff",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "secure-elements",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "secure-utils",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "metrics",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "ledger-api",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "patternLock",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "reselect",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "mining-pool",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "ledger-app-nimiq",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "keyguard",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "hub",
+    "commits": 1,
+    "additions": 7
+  },
+  {
+    "name": "core-types",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "rpc",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "vue-components",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "rpc-events",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "vuejs-redux",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "core-rs",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "woocommerce-gateway-nimiq",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "albatross-simulator",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "browser-warning",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "donation",
+    "commits": 2,
+    "additions": 163
+  },
+  {
+    "name": "php-utils",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "core-rs-albatross",
+    "commits": 49,
+    "additions": 5216
+  },
+  {
+    "name": "php-xpub",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "ens-coincodec",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "app-starter-kit",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "cards",
+    "commits": 3,
+    "additions": 685
+  },
+  {
+    "name": "rfcs",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "webpack-i18n-tools",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "vote",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "web-miner",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "wallet",
+    "commits": 19,
+    "additions": 4171
+  },
+  {
+    "name": "electrum-client",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "jsonrpc",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "merkle-mountain-range",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "fastspot-api",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "frontend-release-notes",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "oasis-watch",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "oasis-api-js",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "libswap-js",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "ed25519-zebra",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "merchant-map-backend",
+    "commits": 45,
+    "additions": 10262
+  },
+  {
+    "name": "cashlink-generator",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "open-log-viewer",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "albatross-doc",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "vue3-components",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "merchant-map-ui",
+    "commits": 21,
+    "additions": 3318
+  },
+  {
+    "name": "ten31-pass-api",
+    "commits": 0,
+    "additions": 0
+  },
+  {
+    "name": "rosetta-nimiq",
+    "commits": 0,
+    "additions": 0
+  }
+]

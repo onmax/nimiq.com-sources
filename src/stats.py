@@ -2,7 +2,7 @@
 
 import datetime
 import os
-from multiprocessing import Pool
+import time
 
 import requests
 
@@ -11,85 +11,96 @@ from util import OUTPUT_FOLDER, get_variable, set_contents
 GITHUB_TOKEN = get_variable("GITHUB_TOKEN")
 
 headers = {
-    "Authorization": f"token {GITHUB_TOKEN}",
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github+json",
 }
 
-# The statitistics will be computed for the last SINCE_DAYS days
-SINCE_DAYS = 30
+WEEKS_COUNT = 52
 
 
-def get_date_ago(days: int) -> datetime.datetime:
-    """Get the date one month ago."""
-    return datetime.datetime.now() - datetime.timedelta(days=days)
+params = {
+    "per_page": 100,
+}
 
 
-def get_additions(org: str, repo_name: str, sha: str) -> int:
-    """Get the number of additions in the given list of commits."""
-    url = f"https://api.github.com/repos/{org}/{repo_name}/commits/{sha}"
-    response = requests.get(url, headers=headers, timeout=10)
-    res = response.json()
-    return res["stats"]["additions"]
+def get(path: str) -> dict:
+    """Make a GET request to the GitHub API."""
+    res = requests.get(f"https://api.github.com{path}",
+                       params=params, headers=headers, timeout=10)
+    return res
 
 
-def get_stats_from_repo_since(
-        org: str, repo_name: str, since: datetime.datetime) -> dict:
-    """Get the number of commits and additions since a date."""
-    # get all repos
-    print(f"Getting stats for {repo_name}")
-    url = f"https://api.github.com/repos/{org}/{repo_name}/commits"
-    params = {
-        "per_page": 100,
-    }
-    response = requests.get(url, params=params, headers=headers, timeout=10)
-    res = response.json()
-
-    commits_since = 0  # total number of commits
-    additions_since = 0  # total additions
-    for commit in res:
-        # commits
-        commit_date = datetime.datetime.strptime(
-            commit["commit"]["author"]["date"], "%Y-%m-%dT%H:%M:%SZ")
-        if commit_date > since:
-            commits_since += 1
-
-            # additions
-            additions_since += get_additions(org, repo_name, commit["sha"])
-
-    return {
-        "name": repo_name,
-        "commits": commits_since,
-        "additions": additions_since,
-    }
-
-
-def get_stats(org: str, since: datetime.datetime) -> int:
-    """Get the number of commits of a user since a date."""
-    # get all repos
-    url = f"https://api.github.com/orgs/{org}/repos"
-    params = {
-        "per_page": 100,
-    }
-    response = requests.get(url, params=params, headers=headers, timeout=10)
-    repos = response.json()
-    print(f"Found {len(repos)} repos for {org}")
-
+def fetch_all(path: str) -> list:
+    """Fetch all results of all pages from GitHub API."""
     results = []
-    with Pool(len(repos)) as pool:
-        results = pool.starmap(
-            get_stats_from_repo_since,
-            [(org, repo["name"], since) for repo in repos],
-        )
 
+    while path:
+        response = get(path)
+        results += response.json()
+        path = response.links.get("next", {}).get("url")
     return results
 
 
-repo_stats = get_stats("nimiq", get_date_ago(30))
-commits_count = sum(stat['commits'] for stat in repo_stats)
+def get_stat(url: str):
+    """Make and check a request to the GitHub API."""
+    request = get(url)
+    res = request.json()
+    if 200 < request.status_code >= 300:
+        return None
+    if request.status_code == 202:
+        time.sleep(1)
+        return get_stat(url)
+    return res
+
+
+def get_stats_from_repo(
+        org: str, repo: str, weeks: int):
+    """Get the number of commits and additions since a date."""
+    # get the number of commits in the last weeks
+    commit_activity = get_stat(f"/repos/{org}/{repo}/stats/commit_activity")
+    repo_commits_count = sum(week['total'] for week in commit_activity[-weeks:]
+                             ) if commit_activity else 0
+
+    code_frequency = get_stat(f"/repos/{org}/{repo}/stats/code_frequency")
+    repo_additions = sum(week[1] for week in code_frequency[-weeks:]
+                         ) if code_frequency else 0
+    # lines removed
+    repo_deletions = sum(week[2] for week in code_frequency[-weeks:]
+                         ) if code_frequency else 0
+    return {
+        "name": repo,
+        "commits_count": repo_commits_count,
+        "additions": repo_additions,
+        "deletions": repo_deletions,
+    }
+
+
+def get_stats(org: str, weeks: int):
+    """Get the number of commits of a user since a date."""
+    # get all repos
+    repos = fetch_all(f"/orgs/{org}/repos")
+    print(f"Found {len(repos)} repos for {org}")
+
+    results = []
+    for repo in repos:
+        results.append(get_stats_from_repo(org, repo["name"], weeks))
+    return results
+
+
+repo_stats = get_stats("nimiq", WEEKS_COUNT)
+
+commits_count = sum(stat["commits_count"] for stat in repo_stats)
 additions_count = sum(stat['additions'] for stat in repo_stats)
+deletions_count = sum(stat['deletions'] for stat in repo_stats)
+start_date = datetime.datetime.now() - datetime.timedelta(weeks=WEEKS_COUNT)
+end_date = datetime.datetime.now()
 
 stats = {
-    "commits_last_month": commits_count,
-    "additions_last_month": additions_count
+    "end_date": end_date.isoformat(),
+    "start_date": start_date.isoformat(),
+    "commits": commits_count,
+    "additions": additions_count,
+    "deletions": deletions_count
 }
 
 filename_stats = os.path.join(f"{OUTPUT_FOLDER}/stats", "stats.json")
@@ -98,8 +109,12 @@ set_contents(filename_stats, stats, remove_old=True)
 
 filename_by_repo = os.path.join(f"{OUTPUT_FOLDER}/stats", "stats-by-repo.json")
 print(f"Saving stats by repo in {filename_by_repo}")
+repo_stats_json = {
+    "end_date": end_date.isoformat(),
+    "start_date": start_date.isoformat(),
+    "repos": repo_stats
+}
 set_contents(filename_by_repo, repo_stats, remove_old=True)
 
-print(repo_stats)
-print(f"Total commits in the last {SINCE_DAYS} days: {commits_count}")
-print(f"Total additions in the last {SINCE_DAYS} days: {additions_count}")
+print(f"Total commits in the last {WEEKS_COUNT} weeks: {commits_count}")
+print(f"Total additions in the last {WEEKS_COUNT} weeks: {additions_count}")

@@ -16,9 +16,7 @@ def get_variable(env_var: str) -> str:
 
 def create_folders(filename: str) -> None:
     """Create the folders for the output."""
-    print(filename)
     dirname = os.path.dirname(filename)
-    print(dirname)
     if not os.path.exists(dirname):
         os.makedirs(dirname)
 

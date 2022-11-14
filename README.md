@@ -1,10 +1,17 @@
 <img src="/icon.svg" alt="Nimiq Stats Logo" />
 
-# Sources for nimiq.com
-
 This repository contains the auto-generated sources that we use in [nimiq.com](https://nimiq.com).
 
 We are using [Github Actions](.github/workflows/) It will run every Monday, Thursday and Saturday at 03:00 UTC.
+
+
+## Requirements
+
+You should have the following environmental variables:
+
+- `GITHUB_TOKEN`: Read [docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+- `TWITTER_TOKEN`: Read [docs](https://github.com/onmax/happy-tweet#twitter-bearer-token).
+- `LUNARCRUSH_TOKEN`: Read [docs](https://lunarcrush.com/developers/api/authentication).
 
 ## What is it being generated?
 

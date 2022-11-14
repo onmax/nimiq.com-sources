@@ -1,12 +1,12 @@
 {
-  "end_date": "2022-11-12T03:54:33.020252",
-  "start_date": "2021-11-13T03:54:33.020146",
+  "end_date": "2022-11-14T04:05:05.844407",
+  "start_date": "2021-11-15T04:05:05.844267",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 34,
       "additions": 751,
-      "deletions": -1036
+      "deletions": -1037
     },
     {
       "name": "nimiq-demo",
@@ -70,9 +70,9 @@
     },
     {
       "name": "nano-api",
-      "commits_count": 5,
-      "additions": 54,
-      "deletions": -40
+      "commits_count": 2,
+      "additions": 23,
+      "deletions": -9
     },
     {
       "name": "community",
@@ -160,9 +160,9 @@
     },
     {
       "name": "network",
-      "commits_count": 6,
-      "additions": 82,
-      "deletions": -48
+      "commits_count": 5,
+      "additions": 76,
+      "deletions": -42
     },
     {
       "name": "keyguard-client-legacy",
@@ -322,9 +322,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 888,
-      "additions": 75184,
-      "deletions": -58398
+      "commits_count": 847,
+      "additions": 72993,
+      "deletions": -56989
     },
     {
       "name": "php-xpub",
@@ -376,9 +376,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 239,
-      "additions": 17432,
-      "deletions": -14894
+      "commits_count": 240,
+      "additions": 17646,
+      "deletions": -15790
     },
     {
       "name": "electrum-client",
@@ -481,6 +481,12 @@
       "commits_count": 29,
       "additions": 9729,
       "deletions": -529
+    },
+    {
+      "name": "oasis-bank-list",
+      "commits_count": 8,
+      "additions": 1325,
+      "deletions": -127
     }
   ]
 }

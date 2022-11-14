@@ -52,7 +52,8 @@ def parse_tweets(res: list) -> list:
 def compute_sentiment(tweets_list: list) -> list:
     """Compute the sentiment analysis."""
     sentiment_pipeline = pipeline(
-        model="finiteautomata/bertweet-base-sentiment-analysis")
+        model="finiteautomata/bertweet-base-sentiment-analysis",
+        truncation=True)
     sentences = [tweet["tweet"]["content"] for tweet in tweets_list]
     return sentiment_pipeline(sentences)
 

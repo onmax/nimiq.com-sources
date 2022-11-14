@@ -11,6 +11,7 @@ on:
 jobs:
   tweets:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
 
     steps:
       - uses: actions/checkout@v2
@@ -38,6 +39,7 @@ jobs:
 
   stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
 
     steps:
       - uses: actions/checkout@v2
@@ -60,6 +62,7 @@ jobs:
 
   social_score:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
 
     steps:
       - uses: actions/checkout@v2

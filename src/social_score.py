@@ -68,5 +68,6 @@ data = {
     "social_score_calc_24h": social_score_calc_24h,
 }
 
-set_contents(f"{OUTPUT_FOLDER}/social-score/social-score.json", data,
-             remove_old=True)
+filename = f"{OUTPUT_FOLDER}/social-score/social-score.json"
+set_contents(filename, data, remove_old=True)
+print(f"Generated output and saved in {filename}", data)

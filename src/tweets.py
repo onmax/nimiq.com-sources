@@ -88,4 +88,4 @@ sentiments = compute_sentiment(tweets)
 positive_tweets = filter_positive_tweets(tweets, sentiments, 0.7)
 
 append_new_items(tweets, "tweets.json")
-append_new_items(positive_tweets, "positives-tweets.json")
+append_new_items(positive_tweets, "positive-tweets.json")

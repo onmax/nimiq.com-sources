@@ -1,12 +1,12 @@
 {
-  "end_date": "2022-11-14T16:38:32.879911",
-  "start_date": "2021-11-15T16:38:32.879804",
+  "end_date": "2022-11-16T23:49:37.509967",
+  "start_date": "2022-10-19T23:49:37.509864",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 34,
-      "additions": 751,
-      "deletions": -1037
+      "commits_count": 6,
+      "additions": 72,
+      "deletions": -52
     },
     {
       "name": "nimiq-demo",
@@ -22,9 +22,9 @@
     },
     {
       "name": "jungle-db",
-      "commits_count": 5,
-      "additions": 28860,
-      "deletions": -35472
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiqode",
@@ -52,9 +52,9 @@
     },
     {
       "name": "qr-scanner",
-      "commits_count": 33,
-      "additions": 4263,
-      "deletions": -3537
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "qr-creator",
@@ -70,9 +70,9 @@
     },
     {
       "name": "nano-api",
-      "commits_count": 2,
-      "additions": 23,
-      "deletions": -9
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "community",
@@ -100,15 +100,15 @@
     },
     {
       "name": "identicons",
-      "commits_count": 7,
-      "additions": 125,
-      "deletions": -63
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-style",
-      "commits_count": 2,
-      "additions": 7,
-      "deletions": -6
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-utils",
@@ -160,9 +160,9 @@
     },
     {
       "name": "network",
-      "commits_count": 5,
-      "additions": 76,
-      "deletions": -42
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard-client-legacy",
@@ -244,15 +244,15 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 9,
-      "additions": 603,
-      "deletions": -1486
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "hub",
-      "commits_count": 39,
-      "additions": 1175,
-      "deletions": -978
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-types",
@@ -268,9 +268,9 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 4,
-      "additions": 110,
-      "deletions": -101
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "rpc-events",
@@ -292,9 +292,9 @@
     },
     {
       "name": "woocommerce-gateway-nimiq",
-      "commits_count": 7,
-      "additions": 495,
-      "deletions": -104
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "albatross-simulator",
@@ -304,15 +304,15 @@
     },
     {
       "name": "browser-warning",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "donation",
-      "commits_count": 3,
-      "additions": 201,
-      "deletions": -38
+      "commits_count": 2,
+      "additions": 163,
+      "deletions": 0
     },
     {
       "name": "php-utils",
@@ -322,9 +322,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 849,
-      "additions": 74065,
-      "deletions": -57899
+      "commits_count": 57,
+      "additions": 5928,
+      "deletions": -3557
     },
     {
       "name": "php-xpub",
@@ -346,9 +346,9 @@
     },
     {
       "name": "cards",
-      "commits_count": 6,
-      "additions": 697,
-      "deletions": -1950
+      "commits_count": 3,
+      "additions": 685,
+      "deletions": -821
     },
     {
       "name": "rfcs",
@@ -370,21 +370,21 @@
     },
     {
       "name": "web-miner",
-      "commits_count": 1,
+      "commits_count": 0,
       "additions": 0,
-      "deletions": -32
+      "deletions": 0
     },
     {
       "name": "wallet",
-      "commits_count": 240,
-      "additions": 17646,
-      "deletions": -15790
+      "commits_count": 12,
+      "additions": 1947,
+      "deletions": -2463
     },
     {
       "name": "electrum-client",
-      "commits_count": 3,
-      "additions": 5,
-      "deletions": -4
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "jsonrpc",
@@ -400,15 +400,15 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 6,
-      "additions": 40,
-      "deletions": -20
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "frontend-release-notes",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "oasis-watch",
@@ -418,45 +418,45 @@
     },
     {
       "name": "oasis-api-js",
-      "commits_count": 7,
-      "additions": 63,
-      "deletions": -29
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "libswap-js",
-      "commits_count": 7,
-      "additions": 23,
-      "deletions": -18
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "ed25519-zebra",
-      "commits_count": 1,
-      "additions": 4,
-      "deletions": -4
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "merchant-map-backend",
-      "commits_count": 137,
-      "additions": 253562,
-      "deletions": -4630
+      "commits_count": 39,
+      "additions": 3810,
+      "deletions": -2281
     },
     {
       "name": "cashlink-generator",
-      "commits_count": 20,
-      "additions": 4852,
-      "deletions": -828
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "open-log-viewer",
-      "commits_count": 23,
-      "additions": 10456,
-      "deletions": -4648
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "albatross-doc",
-      "commits_count": 87,
-      "additions": 26391,
-      "deletions": -8046
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "vue3-components",
@@ -466,21 +466,21 @@
     },
     {
       "name": "merchant-map-ui",
-      "commits_count": 52,
-      "additions": 26194,
-      "deletions": -16709
+      "commits_count": 15,
+      "additions": 1932,
+      "deletions": -794
     },
     {
       "name": "ten31-pass-api",
-      "commits_count": 22,
-      "additions": 1361,
-      "deletions": -349
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "rosetta-nimiq",
-      "commits_count": 29,
-      "additions": 9729,
-      "deletions": -529
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "oasis-bank-list",

@@ -10,7 +10,7 @@ We are using [Github Actions](.github/workflows/) It will run every Monday, Thur
 You should have the following environmental variables:
 
 - `GITHUB_TOKEN`: Read [docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
-- `TWITTER_TOKEN`: Read [docs](https://github.com/onmax/happy-tweet#twitter-bearer-token).
+- `TWITTER_TOKEN`: Read [docs](https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens#:~:text=Login%20to%20your%20Twitter%20account,Bearer%20Token%20on%20this%20page.).
 - `LUNARCRUSH_TOKEN`: Read [docs](https://lunarcrush.com/developers/api/authentication).
 
 ## Run the scripts

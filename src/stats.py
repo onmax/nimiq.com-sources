@@ -15,7 +15,7 @@ headers = {
     "Accept": "application/vnd.github+json",
 }
 
-WEEKS_COUNT = 52
+WEEKS_COUNT = 4
 
 
 params = {

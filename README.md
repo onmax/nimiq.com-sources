@@ -13,6 +13,14 @@ You should have the following environmental variables:
 - `TWITTER_TOKEN`: Read [docs](https://github.com/onmax/happy-tweet#twitter-bearer-token).
 - `LUNARCRUSH_TOKEN`: Read [docs](https://lunarcrush.com/developers/api/authentication).
 
+## Run the scripts
+
+```bash
+python3 ./src/tweets.py
+python3 ./src/stats.py
+python3 ./src/social_score.py
+```
+
 ## What is it being generated?
 
 ### Tweets

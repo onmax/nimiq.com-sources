@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-11-17T03:43:45.078104",
-  "start_date": "2022-10-20T03:43:45.078000",
+  "end_date": "2022-11-19T03:43:41.406346",
+  "start_date": "2022-10-22T03:43:41.406247",
   "repos": [
     {
       "name": "core-js",
@@ -322,9 +322,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 57,
-      "additions": 5928,
-      "deletions": -3557
+      "commits_count": 58,
+      "additions": 6496,
+      "deletions": -4087
     },
     {
       "name": "php-xpub",
@@ -466,9 +466,9 @@
     },
     {
       "name": "merchant-map-ui",
-      "commits_count": 15,
-      "additions": 1932,
-      "deletions": -794
+      "commits_count": 29,
+      "additions": 4314,
+      "deletions": -4359
     },
     {
       "name": "ten31-pass-api",

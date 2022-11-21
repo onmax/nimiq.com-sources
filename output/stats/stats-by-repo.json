@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-11-19T03:43:41.406346",
-  "start_date": "2022-10-22T03:43:41.406247",
+  "end_date": "2022-11-21T15:44:53.619103",
+  "start_date": "2022-10-24T15:44:53.618993",
   "repos": [
     {
       "name": "core-js",
@@ -323,8 +323,8 @@
     {
       "name": "core-rs-albatross",
       "commits_count": 58,
-      "additions": 6496,
-      "deletions": -4087
+      "additions": 6513,
+      "deletions": -4094
     },
     {
       "name": "php-xpub",
@@ -436,9 +436,9 @@
     },
     {
       "name": "merchant-map-backend",
-      "commits_count": 39,
-      "additions": 3810,
-      "deletions": -2281
+      "commits_count": 34,
+      "additions": 2939,
+      "deletions": -2277
     },
     {
       "name": "cashlink-generator",
@@ -466,9 +466,9 @@
     },
     {
       "name": "merchant-map-ui",
-      "commits_count": 29,
-      "additions": 4314,
-      "deletions": -4359
+      "commits_count": 28,
+      "additions": 4283,
+      "deletions": -4340
     },
     {
       "name": "ten31-pass-api",

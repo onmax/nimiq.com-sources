@@ -10,6 +10,10 @@ def get_variable(env_var: str) -> str:
     """Get the value of the environment variable."""
     value = os.environ.get(env_var)
     if value is None:
+        with open(".env", "r") as file_p:
+            for line in file_p:
+                if line.startswith(env_var):
+                    return line.split("=")[1].strip()
         raise ValueError(f"Please set the {env_var} environment variable.")
     return value
 

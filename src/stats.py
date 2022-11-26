@@ -38,6 +38,7 @@ def fetch_all(path: str) -> list:
         response = get(path)
         results += response.json()
         path = response.links.get("next", {}).get("url")
+        time.sleep(0.2)
     return results
 
 
@@ -67,6 +68,9 @@ def get_stats_from_repo(
     # lines removed
     repo_deletions = sum(week[2] for week in code_frequency[-weeks:]
                          ) if code_frequency else 0
+
+    print(f"Found {repo_commits_count} commits and {repo_additions} additions "
+          f"for {org}/{repo}")
     return {
         "name": repo,
         "commits_count": repo_commits_count,
@@ -75,11 +79,20 @@ def get_stats_from_repo(
     }
 
 
-def get_stats(org: str, weeks: int):
+def get_stats(org: str, weeks: int, start_date: datetime.datetime):
     """Get the number of commits of a user since a date."""
-    # get all repos
+    print(f"Getting stats for {org}...")
     repos = fetch_all(f"/orgs/{org}/repos")
-    print(f"Found {len(repos)} repos for {org}")
+    initial_length = len(repos)
+
+    # ignore repos that have not been updated in the COUNT_WEEKS
+    repos = [repo for repo in repos if repo['pushed_at'] >
+             start_date.isoformat()]
+
+    print(
+        f"Found {initial_length} repos, but "
+        f"ignoring {initial_length - len(repos)} repos that have not been "
+        f"pushed in the last {weeks} weeks")
 
     results = []
     for repo in repos:
@@ -87,12 +100,12 @@ def get_stats(org: str, weeks: int):
     return results
 
 
-repo_stats = get_stats("nimiq", WEEKS_COUNT)
+start_date = datetime.datetime.now() - datetime.timedelta(weeks=WEEKS_COUNT)
+repo_stats = get_stats("nimiq", WEEKS_COUNT, start_date)
 
 commits_count = sum(stat["commits_count"] for stat in repo_stats)
 additions_count = sum(stat['additions'] for stat in repo_stats)
 deletions_count = sum(stat['deletions'] for stat in repo_stats)
-start_date = datetime.datetime.now() - datetime.timedelta(weeks=WEEKS_COUNT)
 end_date = datetime.datetime.now()
 
 stats = {

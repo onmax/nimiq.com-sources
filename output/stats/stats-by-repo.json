@@ -1,24 +1,12 @@
 {
-  "end_date": "2022-11-21T15:44:53.619103",
-  "start_date": "2022-10-24T15:44:53.618993",
+  "end_date": "2022-11-28T03:25:44.278306",
+  "start_date": "2022-10-31T03:23:26.802917",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 6,
-      "additions": 72,
-      "deletions": -52
-    },
-    {
-      "name": "nimiq-demo",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq-exchange-token",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "jungle-db",
@@ -27,136 +15,10 @@
       "deletions": 0
     },
     {
-      "name": "nimiqode",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "x-element",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "web-share-shim",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "robohash",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "qr-scanner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "qr-creator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "elements",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nano-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "community",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "backup-file",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "mnemonic-phrase",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "designs",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "identicons",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq-style",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq-activation",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "doc-theme",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq.github.io",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "build-process",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "boruca-messaging",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "safe",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "keyguard-legacy",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 146,
+      "deletions": -91
     },
     {
       "name": "network",
@@ -165,97 +27,13 @@
       "deletions": 0
     },
     {
-      "name": "keyguard-client-legacy",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "es6-router",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "redux",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "redux-logger",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "deep-object-diff",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "secure-elements",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "secure-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "metrics",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ledger-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "patternLock",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "reselect",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "mining-pool",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ledger-app-nimiq",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 61,
+      "deletions": -26
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "core-types",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -268,45 +46,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "rpc-events",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "vuejs-redux",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "core-rs",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 7,
+      "deletions": -7
     },
     {
       "name": "woocommerce-gateway-nimiq",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "albatross-simulator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "browser-warning",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 2985,
+      "deletions": -298
     },
     {
       "name": "donation",
@@ -315,46 +63,16 @@
       "deletions": 0
     },
     {
-      "name": "php-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "core-rs-albatross",
-      "commits_count": 58,
-      "additions": 6513,
-      "deletions": -4094
-    },
-    {
-      "name": "php-xpub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ens-coincodec",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "app-starter-kit",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 50,
+      "additions": 8793,
+      "deletions": -6856
     },
     {
       "name": "cards",
-      "commits_count": 3,
-      "additions": 685,
-      "deletions": -821
-    },
-    {
-      "name": "rfcs",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 4,
+      "additions": 740,
+      "deletions": -870
     },
     {
       "name": "webpack-i18n-tools",
@@ -363,94 +81,16 @@
       "deletions": 0
     },
     {
-      "name": "vote",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "web-miner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "wallet",
-      "commits_count": 12,
-      "additions": 1947,
-      "deletions": -2463
-    },
-    {
-      "name": "electrum-client",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "merkle-mountain-range",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "frontend-release-notes",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "oasis-watch",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "oasis-api-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ed25519-zebra",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 26,
+      "additions": 3672,
+      "deletions": -3316
     },
     {
       "name": "merchant-map-backend",
-      "commits_count": 34,
-      "additions": 2939,
-      "deletions": -2277
-    },
-    {
-      "name": "cashlink-generator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "open-log-viewer",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 5,
+      "additions": 103,
+      "deletions": -794
     },
     {
       "name": "albatross-doc",
@@ -460,27 +100,15 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 63,
+      "additions": 19775,
+      "deletions": -15126
     },
     {
       "name": "merchant-map-ui",
-      "commits_count": 28,
-      "additions": 4283,
-      "deletions": -4340
-    },
-    {
-      "name": "ten31-pass-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "rosetta-nimiq",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 29,
+      "additions": 4070,
+      "deletions": -4173
     },
     {
       "name": "oasis-bank-list",

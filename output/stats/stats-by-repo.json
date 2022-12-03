@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-11-28T03:25:44.278306",
-  "start_date": "2022-10-31T03:23:26.802917",
+  "end_date": "2022-12-03T03:12:03.355501",
+  "start_date": "2022-11-05T03:09:29.810657",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 70,
+      "deletions": -50
     },
     {
       "name": "rpc",
@@ -64,9 +64,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 50,
-      "additions": 8793,
-      "deletions": -6856
+      "commits_count": 73,
+      "additions": 11797,
+      "deletions": -9066
     },
     {
       "name": "cards",
@@ -100,15 +100,21 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 63,
-      "additions": 19775,
-      "deletions": -15126
+      "commits_count": 75,
+      "additions": 19996,
+      "deletions": -15454
     },
     {
-      "name": "merchant-map-ui",
-      "commits_count": 29,
-      "additions": 4070,
-      "deletions": -4173
+      "name": "establishments-map-ui",
+      "commits_count": 57,
+      "additions": 13417,
+      "deletions": -12564
+    },
+    {
+      "name": "nimiq.com-sources",
+      "commits_count": 44,
+      "additions": 20273,
+      "deletions": -3549
     },
     {
       "name": "oasis-bank-list",

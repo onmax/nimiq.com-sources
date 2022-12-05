@@ -1,15 +1,21 @@
 {
-  "end_date": "2022-12-03T03:12:03.355501",
-  "start_date": "2022-11-05T03:09:29.810657",
+  "end_date": "2022-12-05T03:12:54.791146",
+  "start_date": "2022-11-07T03:10:02.114871",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "jungle-db",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "web-share-shim",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -19,6 +25,18 @@
       "commits_count": 2,
       "additions": 146,
       "deletions": -91
+    },
+    {
+      "name": "identicons",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "nimiq-utils",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "network",
@@ -58,21 +76,27 @@
     },
     {
       "name": "donation",
-      "commits_count": 2,
-      "additions": 163,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 73,
-      "additions": 11797,
-      "deletions": -9066
+      "commits_count": 52,
+      "additions": 8115,
+      "deletions": -6593
+    },
+    {
+      "name": "app-starter-kit",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "cards",
-      "commits_count": 4,
-      "additions": 740,
-      "deletions": -870
+      "commits_count": 1,
+      "additions": 55,
+      "deletions": -49
     },
     {
       "name": "webpack-i18n-tools",
@@ -82,15 +106,15 @@
     },
     {
       "name": "wallet",
-      "commits_count": 26,
-      "additions": 3672,
-      "deletions": -3316
+      "commits_count": 14,
+      "additions": 1504,
+      "deletions": -724
     },
     {
       "name": "merchant-map-backend",
-      "commits_count": 5,
-      "additions": 103,
-      "deletions": -794
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "albatross-doc",
@@ -106,21 +130,21 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 57,
-      "additions": 13417,
-      "deletions": -12564
+      "commits_count": 56,
+      "additions": 12657,
+      "deletions": -12538
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 44,
-      "additions": 20273,
-      "deletions": -3549
+      "commits_count": 32,
+      "additions": 19081,
+      "deletions": -2740
     },
     {
       "name": "oasis-bank-list",
-      "commits_count": 8,
-      "additions": 1325,
-      "deletions": -127
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     }
   ]
 }

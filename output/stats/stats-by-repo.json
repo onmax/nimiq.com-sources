@@ -1,15 +1,9 @@
 {
-  "end_date": "2022-12-05T03:12:54.791146",
-  "start_date": "2022-11-07T03:10:02.114871",
+  "end_date": "2022-12-08T03:14:18.068812",
+  "start_date": "2022-11-10T03:12:04.197478",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "jungle-db",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -40,6 +34,12 @@
     },
     {
       "name": "network",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "ledger-api",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -76,15 +76,15 @@
     },
     {
       "name": "donation",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -3
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 52,
-      "additions": 8115,
-      "deletions": -6593
+      "commits_count": 56,
+      "additions": 8604,
+      "deletions": -6906
     },
     {
       "name": "app-starter-kit",
@@ -105,16 +105,16 @@
       "deletions": 0
     },
     {
+      "name": "vote",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "wallet",
       "commits_count": 14,
       "additions": 1504,
       "deletions": -724
-    },
-    {
-      "name": "merchant-map-backend",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "albatross-doc",
@@ -130,15 +130,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 56,
-      "additions": 12657,
-      "deletions": -12538
+      "commits_count": 58,
+      "additions": 12844,
+      "deletions": -12665
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 32,
-      "additions": 19081,
-      "deletions": -2740
+      "commits_count": 34,
+      "additions": 19930,
+      "deletions": -2773
     },
     {
       "name": "oasis-bank-list",

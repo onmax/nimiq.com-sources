@@ -1,9 +1,15 @@
 {
-  "end_date": "2022-12-08T03:14:18.068812",
-  "start_date": "2022-11-10T03:12:04.197478",
+  "end_date": "2022-12-10T03:11:39.808580",
+  "start_date": "2022-11-12T03:09:16.337700",
   "repos": [
     {
       "name": "core-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "jungle-db",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -28,9 +34,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 4,
+      "additions": 56,
+      "deletions": -59
     },
     {
       "name": "network",
@@ -82,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 56,
-      "additions": 8604,
-      "deletions": -6906
+      "commits_count": 65,
+      "additions": 10442,
+      "deletions": -7232
     },
     {
       "name": "app-starter-kit",
@@ -136,9 +142,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 34,
-      "additions": 19930,
-      "deletions": -2773
+      "commits_count": 36,
+      "additions": 22229,
+      "deletions": -2804
     },
     {
       "name": "oasis-bank-list",

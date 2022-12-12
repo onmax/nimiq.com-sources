@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-10T03:11:39.808580",
-  "start_date": "2022-11-12T03:09:16.337700",
+  "end_date": "2022-12-12T03:18:04.018109",
+  "start_date": "2022-11-14T03:15:02.822918",
   "repos": [
     {
       "name": "core-js",
@@ -88,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 65,
-      "additions": 10442,
-      "deletions": -7232
+      "commits_count": 46,
+      "additions": 7174,
+      "deletions": -4850
     },
     {
       "name": "app-starter-kit",
@@ -118,9 +118,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 14,
-      "additions": 1504,
-      "deletions": -724
+      "commits_count": 12,
+      "additions": 1273,
+      "deletions": -616
     },
     {
       "name": "albatross-doc",
@@ -130,27 +130,21 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 75,
-      "additions": 19996,
-      "deletions": -15454
+      "commits_count": 34,
+      "additions": 907,
+      "deletions": -684
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 58,
-      "additions": 12844,
-      "deletions": -12665
+      "commits_count": 44,
+      "additions": 10462,
+      "deletions": -9100
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 36,
-      "additions": 22229,
-      "deletions": -2804
-    },
-    {
-      "name": "oasis-bank-list",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 22,
+      "additions": 17022,
+      "deletions": -566
     }
   ]
 }

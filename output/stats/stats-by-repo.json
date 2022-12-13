@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-12T03:18:04.018109",
-  "start_date": "2022-11-14T03:15:02.822918",
+  "end_date": "2022-12-13T15:34:28.531255",
+  "start_date": "2022-11-15T15:31:35.278610",
   "repos": [
     {
       "name": "core-js",
@@ -52,15 +52,15 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 2,
-      "additions": 61,
-      "deletions": -26
+      "commits_count": 15,
+      "additions": 1004,
+      "deletions": -250
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 70,
-      "deletions": -50
+      "commits_count": 5,
+      "additions": 112,
+      "deletions": -75
     },
     {
       "name": "rpc",
@@ -70,9 +70,9 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 2,
-      "additions": 7,
-      "deletions": -7
+      "commits_count": 6,
+      "additions": 112,
+      "deletions": -21
     },
     {
       "name": "woocommerce-gateway-nimiq",
@@ -88,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 46,
-      "additions": 7174,
-      "deletions": -4850
+      "commits_count": 49,
+      "additions": 7180,
+      "deletions": -4855
     },
     {
       "name": "app-starter-kit",
@@ -118,9 +118,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 12,
-      "additions": 1273,
-      "deletions": -616
+      "commits_count": 13,
+      "additions": 1276,
+      "deletions": -619
     },
     {
       "name": "albatross-doc",
@@ -136,15 +136,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 44,
-      "additions": 10462,
-      "deletions": -9100
+      "commits_count": 61,
+      "additions": 10610,
+      "deletions": -9507
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 22,
-      "additions": 17022,
-      "deletions": -566
+      "commits_count": 26,
+      "additions": 18822,
+      "deletions": -596
     }
   ]
 }

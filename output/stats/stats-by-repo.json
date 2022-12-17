@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-15T03:16:45.490516",
-  "start_date": "2022-11-17T03:14:20.481623",
+  "end_date": "2022-12-17T03:11:56.220929",
+  "start_date": "2022-11-19T03:09:01.339568",
   "repos": [
     {
       "name": "core-js",
@@ -25,6 +25,12 @@
       "commits_count": 2,
       "additions": 146,
       "deletions": -91
+    },
+    {
+      "name": "qr-creator",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "identicons",
@@ -88,9 +94,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 51,
-      "additions": 7252,
-      "deletions": -4945
+      "commits_count": 57,
+      "additions": 7989,
+      "deletions": -5259
     },
     {
       "name": "app-starter-kit",
@@ -118,9 +124,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 13,
-      "additions": 1276,
-      "deletions": -619
+      "commits_count": 14,
+      "additions": 1278,
+      "deletions": -620
     },
     {
       "name": "albatross-doc",
@@ -142,9 +148,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 26,
-      "additions": 17602,
-      "deletions": -624
+      "commits_count": 28,
+      "additions": 19777,
+      "deletions": -639
     }
   ]
 }

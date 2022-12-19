@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-17T03:11:56.220929",
-  "start_date": "2022-11-19T03:09:01.339568",
+  "end_date": "2022-12-19T03:12:32.294424",
+  "start_date": "2022-11-21T03:09:44.155019",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "qr-scanner",
-      "commits_count": 2,
-      "additions": 146,
-      "deletions": -91
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "qr-creator",
@@ -58,15 +58,15 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 15,
+      "commits_count": 14,
       "additions": 1004,
-      "deletions": -250
+      "deletions": -206
     },
     {
       "name": "hub",
-      "commits_count": 5,
-      "additions": 112,
-      "deletions": -75
+      "commits_count": 6,
+      "additions": 127,
+      "deletions": -77
     },
     {
       "name": "rpc",
@@ -76,15 +76,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 6,
-      "additions": 112,
-      "deletions": -21
+      "commits_count": 4,
+      "additions": 105,
+      "deletions": -14
     },
     {
       "name": "woocommerce-gateway-nimiq",
-      "commits_count": 2,
-      "additions": 2985,
-      "deletions": -298
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "donation",
@@ -94,9 +94,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 57,
-      "additions": 7989,
-      "deletions": -5259
+      "commits_count": 44,
+      "additions": 4657,
+      "deletions": -2148
     },
     {
       "name": "app-starter-kit",
@@ -106,12 +106,6 @@
     },
     {
       "name": "cards",
-      "commits_count": 1,
-      "additions": 55,
-      "deletions": -49
-    },
-    {
-      "name": "webpack-i18n-tools",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -124,9 +118,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 14,
-      "additions": 1278,
-      "deletions": -620
+      "commits_count": 3,
+      "additions": 18,
+      "deletions": -4
     },
     {
       "name": "albatross-doc",
@@ -136,21 +130,21 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 34,
-      "additions": 907,
-      "deletions": -684
+      "commits_count": 12,
+      "additions": 221,
+      "deletions": -328
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 66,
-      "additions": 10963,
-      "deletions": -9607
+      "commits_count": 53,
+      "additions": 10391,
+      "deletions": -9317
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 28,
-      "additions": 19777,
-      "deletions": -639
+      "commits_count": 20,
+      "additions": 13364,
+      "deletions": -608
     }
   ]
 }

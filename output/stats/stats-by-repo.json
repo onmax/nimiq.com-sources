@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-19T03:12:32.294424",
-  "start_date": "2022-11-21T03:09:44.155019",
+  "end_date": "2022-12-22T03:12:30.849897",
+  "start_date": "2022-11-24T03:09:43.188148",
   "repos": [
     {
       "name": "core-js",
@@ -81,12 +81,6 @@
       "deletions": -14
     },
     {
-      "name": "woocommerce-gateway-nimiq",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "donation",
       "commits_count": 1,
       "additions": 3,
@@ -94,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 44,
-      "additions": 4657,
-      "deletions": -2148
+      "commits_count": 45,
+      "additions": 4658,
+      "deletions": -2149
     },
     {
       "name": "app-starter-kit",
@@ -142,9 +136,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 13364,
-      "deletions": -608
+      "commits_count": 22,
+      "additions": 13952,
+      "deletions": -650
     }
   ]
 }

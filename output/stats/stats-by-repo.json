@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-26T03:11:14.612517",
-  "start_date": "2022-11-28T03:10:03.720530",
+  "end_date": "2022-12-29T03:11:22.637390",
+  "start_date": "2022-12-01T03:09:43.928073",
   "repos": [
     {
       "name": "core-js",
@@ -88,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 24,
-      "additions": 2802,
-      "deletions": -800
+      "commits_count": 27,
+      "additions": 2872,
+      "deletions": -866
     },
     {
       "name": "app-starter-kit",
@@ -123,12 +123,6 @@
       "deletions": 0
     },
     {
-      "name": "vue3-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "establishments-map-ui",
       "commits_count": 25,
       "additions": 808,
@@ -136,9 +130,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 12810,
-      "deletions": -240
+      "commits_count": 22,
+      "additions": 13630,
+      "deletions": -268
     }
   ]
 }

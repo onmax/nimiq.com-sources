@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-29T03:11:22.637390",
-  "start_date": "2022-12-01T03:09:43.928073",
+  "end_date": "2022-12-31T03:12:02.442604",
+  "start_date": "2022-12-03T03:09:34.365305",
   "repos": [
     {
       "name": "core-js",
@@ -88,9 +88,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 27,
-      "additions": 2872,
-      "deletions": -866
+      "commits_count": 28,
+      "additions": 2879,
+      "deletions": -872
     },
     {
       "name": "app-starter-kit",
@@ -124,15 +124,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 25,
-      "additions": 808,
-      "deletions": -675
+      "commits_count": 34,
+      "additions": 1358,
+      "deletions": -961
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 22,
-      "additions": 13630,
-      "deletions": -268
+      "commits_count": 24,
+      "additions": 15479,
+      "deletions": -287
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "end_date": "2022-12-31T03:12:02.442604",
-  "start_date": "2022-12-03T03:09:34.365305",
+  "end_date": "2023-01-05T03:11:55.743540",
+  "start_date": "2022-12-08T03:09:22.959974",
   "repos": [
     {
       "name": "core-js",
@@ -10,12 +10,6 @@
     },
     {
       "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "web-share-shim",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -40,33 +34,27 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 4,
-      "additions": 56,
-      "deletions": -59
-    },
-    {
-      "name": "network",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
-      "name": "ledger-api",
+      "name": "mining-pool",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
       "name": "keyguard",
-      "commits_count": 7,
-      "additions": 230,
-      "deletions": -111
+      "commits_count": 5,
+      "additions": 157,
+      "deletions": -60
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 57,
-      "deletions": -27
+      "commits_count": 2,
+      "additions": 18,
+      "deletions": -5
     },
     {
       "name": "rpc",
@@ -88,9 +76,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 2879,
-      "deletions": -872
+      "commits_count": 29,
+      "additions": 1497,
+      "deletions": -836
     },
     {
       "name": "app-starter-kit",
@@ -125,14 +113,14 @@
     {
       "name": "establishments-map-ui",
       "commits_count": 34,
-      "additions": 1358,
-      "deletions": -961
+      "additions": 1272,
+      "deletions": -883
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 24,
-      "additions": 15479,
-      "deletions": -287
+      "commits_count": 21,
+      "additions": 13381,
+      "deletions": -223
     }
   ]
 }

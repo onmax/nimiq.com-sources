@@ -1,21 +1,9 @@
 {
-  "end_date": "2023-01-05T03:11:55.743540",
-  "start_date": "2022-12-08T03:09:22.959974",
+  "end_date": "2023-01-07T03:11:51.562777",
+  "start_date": "2022-12-10T03:09:31.591496",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "qr-scanner",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -76,9 +64,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 29,
-      "additions": 1497,
-      "deletions": -836
+      "commits_count": 36,
+      "additions": 1546,
+      "deletions": -875
     },
     {
       "name": "app-starter-kit",
@@ -88,6 +76,12 @@
     },
     {
       "name": "cards",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "webpack-i18n-tools",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -118,9 +112,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 21,
-      "additions": 13381,
-      "deletions": -223
+      "commits_count": 23,
+      "additions": 14903,
+      "deletions": -257
     }
   ]
 }

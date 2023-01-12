@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-09T03:12:00.377835",
-  "start_date": "2022-12-12T03:09:38.876971",
+  "end_date": "2023-01-12T03:11:24.919549",
+  "start_date": "2022-12-15T03:09:34.921666",
   "repos": [
     {
       "name": "core-js",
@@ -64,9 +64,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 783,
-      "deletions": -519
+      "commits_count": 47,
+      "additions": 4256,
+      "deletions": -2269
     },
     {
       "name": "webpack-i18n-tools",
@@ -75,15 +75,15 @@
       "deletions": 0
     },
     {
-      "name": "vote",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "wallet",
       "commits_count": 1,
       "additions": 13,
+      "deletions": 0
+    },
+    {
+      "name": "jsonrpc",
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 17,
-      "additions": 11845,
-      "deletions": -193
+      "commits_count": 19,
+      "additions": 12695,
+      "deletions": -239
     }
   ]
 }

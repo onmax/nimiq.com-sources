@@ -23254,5 +23254,593 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1036584305093369857/NM41g8dh_normal.jpg"
     },
     "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@elianaranjo A la orden. Abrite un wallet con @nimiq para empezar, es muy f\u00e1cil",
+      "url": "https://twitter.com/adriangarciaeth/status/1614063275737579521",
+      "created_at": "2023-01-14T00:54:07.000Z"
+    },
+    "user": {
+      "username": "adriangarciaeth",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1601770403621474306/e_ICsHCI_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq It says under maintenance for me for the past 2 months \ud83d\ude15",
+      "url": "https://twitter.com/NewFutureIdeas/status/1614029382552805377",
+      "created_at": "2023-01-13T22:39:26.000Z"
+    },
+    "user": {
+      "username": "NewFutureIdeas",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1516739946089955328/PubystnA_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "El d\u00eda martes 17 de enero, tendremos un invitado especial, Ricardo Barquero, quien es Communication Manager de la empresa @nimiq\n\nAdem\u00e1s, les recordamos que estamos en nuestro mes de aniversario, por lo que tendremos sorpresas durante el programa. \n#blockchain #tecnolog\u00eda https://t.co/TRtRQXoBSL",
+      "url": "https://twitter.com/CriptoCRcr/status/1614020924008984576",
+      "created_at": "2023-01-13T22:05:49.000Z"
+    },
+    "user": {
+      "username": "CriptoCRcr",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1466109929597677582/oq0tmKn__normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@pranksy https://t.co/CwKz5f5lHO @nimiq",
+      "url": "https://twitter.com/ey3k0nagent111/status/1613959673618616323",
+      "created_at": "2023-01-13T18:02:26.000Z"
+    },
+    "user": {
+      "username": "ey3k0nagent111",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1585905966004027392/QZE7tHJp_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "GET HERE FREE $100 CashApp\nYou can get $100 CashApp\nVisit:\ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb https://t.co/vQyinGpz05\n\ud83d\udecd https://t.co/8T24zckJVc",
+      "url": "https://twitter.com/roniri1981/status/1613936146379161600",
+      "created_at": "2023-01-13T16:28:57.000Z"
+    },
+    "user": {
+      "username": "roniri1981",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1605550937480765440/RcOCIv5j_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "I like this one :) https://t.co/HpwOfscn3t",
+      "url": "https://twitter.com/FonsLe/status/1613935193429282818",
+      "created_at": "2023-01-13T16:25:10.000Z"
+    },
+    "user": {
+      "username": "FonsLe",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1247498292121960448/_DadUoEA_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq So where do you guys stand in all of this",
+      "url": "https://twitter.com/jivy76/status/1613931182839975936",
+      "created_at": "2023-01-13T16:09:14.000Z"
+    },
+    "user": {
+      "username": "jivy76",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/873284260404264965/JKYOUDNm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq When you don\u2019t trust your countries inflation. When you don\u2019t want your funds seized. When your country starts limiting the amount you can take out of the bank. When you realize there is more debt in the world than money printed.",
+      "url": "https://twitter.com/sman4321/status/1613920927401578496",
+      "created_at": "2023-01-13T15:28:28.000Z"
+    },
+    "user": {
+      "username": "sman4321",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1130155150138589185/PZ3lWVVh_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@BitkubOfficial Nimiq is the one. So easy to use",
+      "url": "https://twitter.com/NimCrypto/status/1613916462074183681",
+      "created_at": "2023-01-13T15:10:44.000Z"
+    },
+    "user": {
+      "username": "NimCrypto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1614027186398175237/BdPln-a1_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq Correct. If you are developers or you're building your #ecommerce business, what about adding the plugins to accep #cryptocurrencies? You know in the long term #Bitcoin and #Cryptos never fail, right? Only way to beat #inflation . #businesstips. \ud83d\ude09\n\nhttps://t.co/1uazq8gS1o",
+      "url": "https://twitter.com/Fratta21/status/1613913802638065665",
+      "created_at": "2023-01-13T15:00:10.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "https://t.co/dtt0TFyFHx https://t.co/er74nEMuuk",
+      "url": "https://twitter.com/AlanaKe93564606/status/1613910831506554883",
+      "created_at": "2023-01-13T14:48:21.000Z"
+    },
+    "user": {
+      "username": "AlanaKe93564606",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1613545727795527680/XLUUsbwj_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "https://t.co/CvVzl9mg3f https://t.co/4EyfxDIpCe",
+      "url": "https://twitter.com/Ernesti50304011/status/1613909752505069569",
+      "created_at": "2023-01-13T14:44:04.000Z"
+    },
+    "user": {
+      "username": "Ernesti50304011",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1589933655677317121/gwlht2vv_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq Hit me up with your cash tag and get spoil",
+      "url": "https://twitter.com/otilro78/status/1613909611978825730",
+      "created_at": "2023-01-13T14:43:31.000Z"
+    },
+    "user": {
+      "username": "otilro78",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1613573333596999694/8BpmRSc__normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "3/ Fiat-crypto atomic swaps (on-off ramps - https://t.co/4yFtpM8ulL).",
+      "url": "https://twitter.com/nimiq/status/1613909493502578689",
+      "created_at": "2023-01-13T14:43:02.000Z"
+    },
+    "user": {
+      "username": "nimiq",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054378419067252737/EV8PZ5bx_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "True adoption will take place when everyday humans realize how crypto can solve real-world problems.\n\nHere are 7 real-world use-cases that Nimiq solves.\n\n\ud83d\udc47",
+      "url": "https://twitter.com/nimiq/status/1613909486984364036",
+      "created_at": "2023-01-13T14:43:01.000Z"
+    },
+    "user": {
+      "username": "nimiq",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054378419067252737/EV8PZ5bx_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@simogattok @ociswap @fuserleer @DefiPlaza You're right, just tried to buy some more and this is what I see. Would probably take months for another project to successfully integrate it though anyway, so possibly not a problem? Any official update on the timeline? I didn't see anything on @nimiq Twitter. https://t.co/aaCoMaLBI6",
+      "url": "https://twitter.com/CoinSherlock/status/1613854610418008065",
+      "created_at": "2023-01-13T11:04:57.000Z"
+    },
+    "user": {
+      "username": "CoinSherlock",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379711321671933953/baRbWDwm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@CoinSherlock @ociswap @fuserleer @DefiPlaza As far as I know, #Nimiq Oasis is in a prolongued maintenance until a new market making provider compatible with german law gets selected. It could take several months or even next year for it to comeback.",
+      "url": "https://twitter.com/simogattok/status/1613852581176172550",
+      "created_at": "2023-01-13T10:56:53.000Z"
+    },
+    "user": {
+      "username": "simogattok",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1599813006199820289/sSx84TLz_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@ociswap @fuserleer @DefiPlaza 1/ From what I understand, they also allow other projects integrate (they just use nimiq for fees). So you can do EUR &gt; BTC swap or ETH &gt; USD swap already, for example, and they collect fees in $nim. The benefit would be, if somehow $oci or $xrd could be integrated with them?",
+      "url": "https://twitter.com/CoinSherlock/status/1613851824867385344",
+      "created_at": "2023-01-13T10:53:53.000Z"
+    },
+    "user": {
+      "username": "CoinSherlock",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379711321671933953/baRbWDwm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@CoinSherlock @fuserleer @DefiPlaza Hi thanks for your suggestion!\nThis service seems to be related to the NIMIQ blockchain where do you see the benefit for Radix?",
+      "url": "https://twitter.com/ociswap/status/1613850797825040385",
+      "created_at": "2023-01-13T10:49:48.000Z"
+    },
+    "user": {
+      "username": "ociswap",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1555153509355511809/yiIU25Gw_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@fuserleer @ociswap @DefiPlaza Guys would it be at all possible to make use of this API (https://t.co/GFOst8Mkcw) to enable USD/EUR &gt; $XRD / $dfp2 / $oci atomic swaps (and the other way)? #Nimiq team enabled this for $BTC and $NIM already, $ETH coming up.",
+      "url": "https://twitter.com/CoinSherlock/status/1613844759952646144",
+      "created_at": "2023-01-13T10:25:49.000Z"
+    },
+    "user": {
+      "username": "CoinSherlock",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379711321671933953/baRbWDwm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@Barn82571540 @fuserleer Yeah looks similar! Nimiq has a flat 1% fee, so in this sense Pelerin can be cheaper if you have tokens or do high volumes. But I don't see them opening up the API like Nimiq did (https://t.co/GFOst8LMmY). Basically any other project can integrate Nimiq swaps into their DEX.",
+      "url": "https://twitter.com/CoinSherlock/status/1613841718729736193",
+      "created_at": "2023-01-13T10:13:44.000Z"
+    },
+    "user": {
+      "username": "CoinSherlock",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379711321671933953/baRbWDwm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@ayjoevote @cardano_whale @_CryptoCurator @nimiq Thanks for supporting us \ud83d\udd25",
+      "url": "https://twitter.com/MoonXBT_Global/status/1613805130679480322",
+      "created_at": "2023-01-13T07:48:20.000Z"
+    },
+    "user": {
+      "username": "MoonXBT_Global",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1608393207997698049/syLGDdFB_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq I am using it and works amazing! Love to finally have a solution to easily buy and sell your #crypto in Costa Rica \ud83d\ude0d",
+      "url": "https://twitter.com/ricardobarq/status/1613661874637209601",
+      "created_at": "2023-01-12T22:19:05.000Z"
+    },
+    "user": {
+      "username": "ricardobarq",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1536138859855204353/5sOHGFTj_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq \ud83d\udd38 Check out #ShibiumFinance and their Autostaking Protocol.\ud83d\udc40Previous project did 20x @ ATH, 1000 holders, and 12 million USD in trading volume.\n\nIt's not one to miss. \n\n\ud83d\udd25Presale : https://t.co/9NlC2geEWa\n\n\ud83d\udd25Telegram: https://t.co/1XqV4dXTM5\n\ud83d\udd25 Twitter: https://t.co/xALoNyYsW7",
+      "url": "https://twitter.com/Max263297452/status/1613643654421168129",
+      "created_at": "2023-01-12T21:06:41.000Z"
+    },
+    "user": {
+      "username": "Max263297452",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1613957105374855174/nK1a88l9_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@fuserleer I'm mostly in $xrd, but besides that I think $nim #nimiq is onto something with fiat-crypto atomic swaps (https://t.co/E3neweqDPE). Works flawlessly with  instant SEPA transfers, honestly, nothing else comes close. If this was somehow implemented on #radix it would be a huge win.",
+      "url": "https://twitter.com/CoinSherlock/status/1613627661661921280",
+      "created_at": "2023-01-12T20:03:08.000Z"
+    },
+    "user": {
+      "username": "CoinSherlock",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379711321671933953/baRbWDwm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\u23f1\ufe0f Coin of the month 2023 / Round 1 - Cela vous prendra seulement 30 petites secondes de voter pour #Nimiq  ici\ud83d\udc47\n\nCoin Of The Month 2023 Round 1 -&gt; Which Coin do yo... - Enqu\u00eate en ligne - https://t.co/bBlOSU3nv7",
+      "url": "https://twitter.com/NimiqF/status/1613627345843232768",
+      "created_at": "2023-01-12T20:01:53.000Z"
+    },
+    "user": {
+      "username": "NimiqF",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1346385046433914880/k8976X0U_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimiq \u2013 Nimiq and Coinpay join forces to increase Crypto adoption https://t.co/SDjmsykipK",
+      "url": "https://twitter.com/Unicryptoverse/status/1613625187152297985",
+      "created_at": "2023-01-12T19:53:18.000Z"
+    },
+    "user": {
+      "username": "Unicryptoverse",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1610008108813762562/uc1v-knP_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "As you see the potential of https://t.co/Jv2SNOeHaQ is limitless. The #crypto revolution is starting and now everyone can accept #Bitcoin #Nimiq \ud83e\udd1d #Ethereum wherever he wants. It couldn't be any easier! $NIM #entrepreneurs \n\nTo watch the whole video:\nhttps://t.co/UFE0nb3378 \nEND",
+      "url": "https://twitter.com/Fratta21/status/1613625023079583759",
+      "created_at": "2023-01-12T19:52:39.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "It's not over yet, as if you own a restaurant, hotel, shop, anything..And you work with employees, you can easily send employee links to your staff members. So they will be able to collect #crypto #payments from the customers and send them to your account. #Nimiq \ud83e\udd1d $NIM \n5/",
+      "url": "https://twitter.com/Fratta21/status/1613624596674056195",
+      "created_at": "2023-01-12T19:50:58.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "This is already possible by https://t.co/Jv2SNOeHaQ powered by #Nimiq \ud83e\udd1d. No downloads required. Simple and user friendly. Also free, of course. #crypto is everyone's right and nobody should pay for it.\nAs you see from the video above, new features has been added. $NIM \n2/",
+      "url": "https://twitter.com/Fratta21/status/1613623659855233024",
+      "created_at": "2023-01-12T19:47:14.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Watch and educate yourself about future... @nimiq https://t.co/HAFdZykjKY",
+      "url": "https://twitter.com/Babescu3/status/1613618303695454208",
+      "created_at": "2023-01-12T19:25:57.000Z"
+    },
+    "user": {
+      "username": "Babescu3",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1418885274352893965/q1E_lN1V_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@fuserleer #Nimiq! Hold, receive and send crypto, all within a webbrowser. You can even send cash links Hier is je Nimiq Cashlink! https://t.co/ui67PGLYBt",
+      "url": "https://twitter.com/Wekkel/status/1613607979785256963",
+      "created_at": "2023-01-12T18:44:56.000Z"
+    },
+    "user": {
+      "username": "Wekkel",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1155488258786287622/3CCR8a2D_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Here more technical details about the coming #Nimiq \ud83e\udd1d2.0. #NimiqCommunity \u2665\ufe0f, I love you and I know waiting is not always easy..I understand your feelings. But I promise it will be worth it. We all know the new #staking algorithm is gonna be something never seen before. $NIM \ud83d\udca3 https://t.co/kmlQKenbRe",
+      "url": "https://twitter.com/Fratta21/status/1613601209281282049",
+      "created_at": "2023-01-12T18:18:02.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq I do not know what nim is and you do not have my consent to use my name, likeness, or content to promote your product. Delete, cease, and desist immediately.",
+      "url": "https://twitter.com/BitcoinErrorLog/status/1613584025083588609",
+      "created_at": "2023-01-12T17:09:45.000Z"
+    },
+    "user": {
+      "username": "BitcoinErrorLog",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1601964735016177676/c1mAfspt_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@julian_liniger @btc_cards @CoinbitsApp @relai_app @nimiq Now  I am hyped! \u270a\ud83c\udffc\ud83e\udd19\ud83c\udffc",
+      "url": "https://twitter.com/YarakObama11/status/1613584015147110407",
+      "created_at": "2023-01-12T17:09:42.000Z"
+    },
+    "user": {
+      "username": "YarakObama11",
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq https://t.co/oM8LfKTLtt",
+      "url": "https://twitter.com/Dragneaalexand5/status/1613583009915207680",
+      "created_at": "2023-01-12T17:05:43.000Z"
+    },
+    "user": {
+      "username": "Dragneaalexand5",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1356489038841151488/spQdO_tz_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@julian_liniger @YarakObama11 @btc_cards @CoinbitsApp @relai_app @nimiq Indeed a hard working team , community pushing hard NFT P2E GALAXY PETS CHARACTERS Galaxy Pets Staking live \n\nFriday 13 January on Sphynx Labs. \nBe sure catch  high APR  to their loyal investors. \n\nTwitter:https://t.co/7iDTDmsTdh #GPS #BNB #GPS\n\nTelegram: https://t.co/uh0K5wzX2i",
+      "url": "https://twitter.com/Jamson52/status/1613580802494799873",
+      "created_at": "2023-01-12T16:56:56.000Z"
+    },
+    "user": {
+      "username": "Jamson52",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1611439874007044116/_yCo0-D1_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@YarakObama11 @btc_cards @CoinbitsApp @relai_app @nimiq in the works!\ud83d\udc4d",
+      "url": "https://twitter.com/julian_liniger/status/1613580407278080000",
+      "created_at": "2023-01-12T16:55:22.000Z"
+    },
+    "user": {
+      "username": "julian_liniger",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1581894891826724864/CapSb1tc_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@AltCryptoGems I use the coingecko app to check the price of my favorite altcoins which includes #Nimiq, and @ElectraProtocol $xep",
+      "url": "https://twitter.com/Crypto_Clan_/status/1613552690847522816",
+      "created_at": "2023-01-12T15:05:14.000Z"
+    },
+    "user": {
+      "username": "Crypto_Clan_",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1572925585503952896/MOGw-V88_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @BitcoinErrorLog @tuzi2023\n\nWe saw this kind of chart before. New launch and team keeps pushing on marketing  and brings the x100 on the project.\n\n\u2705Safe invest!\n\u2705Contract renounce\n\u2705Active Developer\n\nGet in before listed on @cmclistings and @coingecko\n\nhttps://t.co/3oU1Eryzfx #265 https://t.co/ersHtn2Lri",
+      "url": "https://twitter.com/jimehre/status/1613551383395074050",
+      "created_at": "2023-01-12T15:00:02.000Z"
+    },
+    "user": {
+      "username": "jimehre",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1608534632550785026/iyPsA0pr_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "To our Latin American community, have you had a chance to check out Coinpay yet?\n\n#CryptoLatinAmerica #Nimiq #Crypto https://t.co/dLT6Nkd0Mj",
+      "url": "https://twitter.com/nimiq/status/1613544471534211078",
+      "created_at": "2023-01-12T14:32:34.000Z"
+    },
+    "user": {
+      "username": "nimiq",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054378419067252737/EV8PZ5bx_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Hey guys &amp; girls = Please vote for Nimiq here:\n\nhttps://t.co/tMx6aO2Aau\n\n#LFG #Nimiq",
+      "url": "https://twitter.com/NimCrypto/status/1613543152912064514",
+      "created_at": "2023-01-12T14:27:20.000Z"
+    },
+    "user": {
+      "username": "NimCrypto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1614027186398175237/BdPln-a1_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@julian_liniger @YarakObama11 @btc_cards @CoinbitsApp @relai_app @nimiq \"credit card, apple pay and google pay\"\n\nIt sounds like KYC",
+      "url": "https://twitter.com/simogattok/status/1613507355932499968",
+      "created_at": "2023-01-12T12:05:05.000Z"
+    },
+    "user": {
+      "username": "simogattok",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1599813006199820289/sSx84TLz_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@julian_liniger @btc_cards @CoinbitsApp @relai_app @nimiq We need Instant SEPA not every bank support apple pay and google pay at least not in Germany, mine doesnt unfortunately, otherwise i would be the happiest person on earth \ud83e\udd1e\ud83c\udffb",
+      "url": "https://twitter.com/YarakObama11/status/1613505264933543937",
+      "created_at": "2023-01-12T11:56:47.000Z"
+    },
+    "user": {
+      "username": "YarakObama11",
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udc8eThe biggest #NIMIQ Airdrop with instant pay\ud83d\udc8e\n\n\ud83d\udcafCompletely valid and guaranteed\ud83d\udcaf\n\n\ud83d\udcb5Already listdet on:  _ Hotbit _ Coinex _ HitBTC ... \nhttps://t.co/UgyYRDTRC4 https://t.co/jOVsLIJheI",
+      "url": "https://twitter.com/12_Ro1/status/1613499667244883968",
+      "created_at": "2023-01-12T11:34:32.000Z"
+    },
+    "user": {
+      "username": "12_Ro1",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1609530947698888704/9z7SuieU_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udc8eThe biggest #NIMIQ Airdrop with instant pay\ud83d\udc8e\n\n\ud83d\udcafCompletely valid and guaranteed\ud83d\udcaf\n\n\ud83d\udcb5Already listdet on:  _ Hotbit _ Coinex _ HitBTC ... \nhttps://t.co/owr6Lo7zqw",
+      "url": "https://twitter.com/reem57368728/status/1613499467864342528",
+      "created_at": "2023-01-12T11:33:45.000Z"
+    },
+    "user": {
+      "username": "reem57368728",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1507339622677991450/enm7X0qg_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@wauwda Check out @nimiq $nim",
+      "url": "https://twitter.com/backingtimes/status/1613475116418990085",
+      "created_at": "2023-01-12T09:56:59.000Z"
+    },
+    "user": {
+      "username": "backingtimes",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1604091037017935873/nz7nS-nl_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Still looking for #free assets, #cryptocommunity ? Great!\n\nDo you all know #NimTris? Start playing now and use your ability to earn $NIM. Very funny. Below the link. Enjoy it. No downloads required of course.\n#PlayToEarn #Nimiq \ud83e\udd1d\n\n\ud83e\udd20\ud83d\udc47\ud83c\udffc\nhttps://t.co/PzhwlHF7a4 https://t.co/7stuHsedyM",
+      "url": "https://twitter.com/Fratta21/status/1613456897272586242",
+      "created_at": "2023-01-12T08:44:35.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udfe8 Un nouveau #PlayToEarn d\u00e9barque sur #Nimiq !\nDans HexTank, vous pouvez mettre en jeu quelques $NIM et affronter d\u2019autres joueurs pour remporter la mise.\ud83c\udfae\n\n\ud83d\udc49https://t.co/iCZ1hSCbAV\n\n#blockchain #CryptoForHumans https://t.co/bmEiMl5giQ",
+      "url": "https://twitter.com/NimiqF/status/1613443173925142529",
+      "created_at": "2023-01-12T07:50:03.000Z"
+    },
+    "user": {
+      "username": "NimiqF",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1346385046433914880/k8976X0U_normal.jpg"
+    },
+    "sentiment": null
   }
 ]

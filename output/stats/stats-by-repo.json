@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-12T03:11:24.919549",
-  "start_date": "2022-12-15T03:09:34.921666",
+  "end_date": "2023-01-14T03:11:33.548419",
+  "start_date": "2022-12-17T03:09:36.557655",
   "repos": [
     {
       "name": "core-js",
@@ -10,12 +10,6 @@
     },
     {
       "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "qr-creator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -64,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 47,
-      "additions": 4256,
-      "deletions": -2269
+      "commits_count": 57,
+      "additions": 5140,
+      "deletions": -2756
     },
     {
       "name": "webpack-i18n-tools",
@@ -100,9 +94,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 19,
-      "additions": 12695,
-      "deletions": -239
+      "commits_count": 21,
+      "additions": 13938,
+      "deletions": -258
     }
   ]
 }

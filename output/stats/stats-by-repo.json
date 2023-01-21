@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-16T03:11:09.476918",
-  "start_date": "2022-12-19T03:09:45.166604",
+  "end_date": "2023-01-21T03:11:25.629521",
+  "start_date": "2022-12-24T03:09:30.695868",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 7,
+      "additions": 325,
+      "deletions": -137
     },
     {
       "name": "ledger-api",
@@ -40,9 +40,9 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 0,
+      "commits_count": 1,
       "additions": 0,
-      "deletions": 0
+      "deletions": -3
     },
     {
       "name": "hub",
@@ -52,15 +52,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 16,
+      "additions": 1218,
+      "deletions": -1053
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 56,
-      "additions": 5139,
-      "deletions": -2755
+      "commits_count": 71,
+      "additions": 8074,
+      "deletions": -4257
     },
     {
       "name": "webpack-i18n-tools",
@@ -70,9 +70,9 @@
     },
     {
       "name": "web-miner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 18,
+      "deletions": -29
     },
     {
       "name": "wallet",
@@ -94,15 +94,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 16,
-      "additions": 815,
-      "deletions": -455
+      "commits_count": 20,
+      "additions": 846,
+      "deletions": -476
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 17,
-      "additions": 11096,
-      "deletions": -206
+      "commits_count": 20,
+      "additions": 14543,
+      "deletions": -227
     }
   ]
 }

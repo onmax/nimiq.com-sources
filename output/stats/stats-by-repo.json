@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-21T03:11:25.629521",
-  "start_date": "2022-12-24T03:09:30.695868",
+  "end_date": "2023-01-23T03:12:22.915358",
+  "start_date": "2022-12-26T03:09:42.322776",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 7,
-      "additions": 325,
-      "deletions": -137
+      "commits_count": 6,
+      "additions": 254,
+      "deletions": -76
     },
     {
       "name": "ledger-api",
@@ -58,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 71,
-      "additions": 8074,
-      "deletions": -4257
+      "commits_count": 63,
+      "additions": 5725,
+      "deletions": -3459
     },
     {
       "name": "webpack-i18n-tools",
@@ -94,15 +94,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 20,
-      "additions": 846,
-      "deletions": -476
+      "commits_count": 11,
+      "additions": 296,
+      "deletions": -190
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 14543,
-      "deletions": -227
+      "commits_count": 16,
+      "additions": 11297,
+      "deletions": -191
     }
   ]
 }

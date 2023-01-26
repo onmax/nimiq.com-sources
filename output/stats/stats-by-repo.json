@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-23T03:12:22.915358",
-  "start_date": "2022-12-26T03:09:42.322776",
+  "end_date": "2023-01-26T03:13:17.656495",
+  "start_date": "2022-12-29T03:10:51.415987",
   "repos": [
     {
       "name": "core-js",
@@ -58,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 63,
-      "additions": 5725,
-      "deletions": -3459
+      "commits_count": 86,
+      "additions": 10634,
+      "deletions": -7267
     },
     {
       "name": "webpack-i18n-tools",
@@ -94,15 +94,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 11,
-      "additions": 296,
-      "deletions": -190
+      "commits_count": 12,
+      "additions": 320,
+      "deletions": -201
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 16,
-      "additions": 11297,
-      "deletions": -191
+      "commits_count": 18,
+      "additions": 12192,
+      "deletions": -210
     }
   ]
 }

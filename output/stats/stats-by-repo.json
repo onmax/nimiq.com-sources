@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-26T03:13:17.656495",
-  "start_date": "2022-12-29T03:10:51.415987",
+  "end_date": "2023-01-30T03:12:22.699785",
+  "start_date": "2023-01-02T03:09:55.879461",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 6,
-      "additions": 254,
-      "deletions": -76
+      "commits_count": 4,
+      "additions": 98,
+      "deletions": -55
     },
     {
       "name": "ledger-api",
@@ -52,15 +52,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 16,
-      "additions": 1218,
-      "deletions": -1053
+      "commits_count": 17,
+      "additions": 1015,
+      "deletions": -1059
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 86,
-      "additions": 10634,
-      "deletions": -7267
+      "commits_count": 76,
+      "additions": 10187,
+      "deletions": -7216
     },
     {
       "name": "webpack-i18n-tools",
@@ -93,16 +93,22 @@
       "deletions": 0
     },
     {
+      "name": "vue3-components",
+      "commits_count": 18,
+      "additions": 1052,
+      "deletions": -1059
+    },
+    {
       "name": "establishments-map-ui",
-      "commits_count": 12,
-      "additions": 320,
-      "deletions": -201
+      "commits_count": 9,
+      "additions": 99,
+      "deletions": -111
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 18,
-      "additions": 12192,
-      "deletions": -210
+      "commits_count": 16,
+      "additions": 13055,
+      "deletions": -167
     }
   ]
 }

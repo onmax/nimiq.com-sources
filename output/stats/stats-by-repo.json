@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-01-30T03:12:22.699785",
-  "start_date": "2023-01-02T03:09:55.879461",
+  "end_date": "2023-02-02T03:12:35.970951",
+  "start_date": "2023-01-05T03:10:37.475249",
   "repos": [
     {
       "name": "core-js",
@@ -10,12 +10,6 @@
     },
     {
       "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "identicons",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -58,9 +52,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 76,
-      "additions": 10187,
-      "deletions": -7216
+      "commits_count": 92,
+      "additions": 10680,
+      "deletions": -7444
     },
     {
       "name": "webpack-i18n-tools",
@@ -87,6 +81,18 @@
       "deletions": 0
     },
     {
+      "name": "fastspot-api",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "libswap-js",
+      "commits_count": 2,
+      "additions": 5,
+      "deletions": -7
+    },
+    {
       "name": "albatross-doc",
       "commits_count": 0,
       "additions": 0,
@@ -106,9 +112,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 16,
-      "additions": 13055,
-      "deletions": -167
+      "commits_count": 18,
+      "additions": 15327,
+      "deletions": -189
     }
   ]
 }

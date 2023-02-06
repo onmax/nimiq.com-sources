@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-02-04T03:11:49.203553",
-  "start_date": "2023-01-07T03:10:00.196604",
+  "end_date": "2023-02-06T03:10:34.120091",
+  "start_date": "2023-01-09T03:09:43.854169",
   "repos": [
     {
       "name": "core-js",
@@ -16,21 +16,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 4,
-      "additions": 98,
-      "deletions": -55
-    },
-    {
-      "name": "ledger-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "mining-pool",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 28,
+      "deletions": -27
     },
     {
       "name": "keyguard",
@@ -46,15 +34,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 17,
-      "additions": 1015,
-      "deletions": -1059
+      "commits_count": 13,
+      "additions": 933,
+      "deletions": -966
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 92,
-      "additions": 10680,
-      "deletions": -7444
+      "commits_count": 60,
+      "additions": 4708,
+      "deletions": -3778
     },
     {
       "name": "web-miner",
@@ -94,21 +82,21 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 18,
-      "additions": 1052,
-      "deletions": -1059
+      "commits_count": 14,
+      "additions": 970,
+      "deletions": -966
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 9,
-      "additions": 99,
-      "deletions": -111
+      "commits_count": 7,
+      "additions": 78,
+      "deletions": -96
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 17272,
-      "deletions": -208
+      "commits_count": 16,
+      "additions": 16319,
+      "deletions": -143
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-02-09T03:15:05.102865",
-  "start_date": "2023-01-12T03:13:07.833064",
+  "end_date": "2023-02-11T03:10:47.596978",
+  "start_date": "2023-01-14T03:09:31.465520",
   "repos": [
     {
       "name": "core-js",
@@ -40,9 +40,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 70,
-      "additions": 17513,
-      "deletions": -15964
+      "commits_count": 73,
+      "additions": 17706,
+      "deletions": -16067
     },
     {
       "name": "web-miner",
@@ -88,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 18,
-      "additions": 18420,
-      "deletions": -180
+      "commits_count": 20,
+      "additions": 20635,
+      "deletions": -205
     }
   ]
 }

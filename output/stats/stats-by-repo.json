@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-02-13T03:16:42.328962",
-  "start_date": "2023-01-16T03:15:09.184005",
+  "end_date": "2023-02-16T03:15:11.023744",
+  "start_date": "2023-01-19T03:13:14.073059",
   "repos": [
     {
       "name": "core-js",
@@ -13,6 +13,12 @@
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
+    },
+    {
+      "name": "community",
+      "commits_count": 1,
+      "additions": 0,
+      "deletions": -159
     },
     {
       "name": "nimiq-utils",
@@ -40,9 +46,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 57,
-      "additions": 16133,
-      "deletions": -14831
+      "commits_count": 58,
+      "additions": 16156,
+      "deletions": -14832
     },
     {
       "name": "web-miner",
@@ -58,9 +64,9 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 49,
+      "deletions": -25
     },
     {
       "name": "libswap-js",
@@ -88,9 +94,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 17,
-      "additions": 18434,
-      "deletions": -170
+      "commits_count": 19,
+      "additions": 20612,
+      "deletions": -200
     }
   ]
 }

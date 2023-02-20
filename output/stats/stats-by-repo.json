@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-02-18T03:11:18.774376",
-  "start_date": "2023-01-21T03:09:56.301793",
+  "end_date": "2023-02-20T03:17:19.544241",
+  "start_date": "2023-01-23T03:15:40.163114",
   "repos": [
     {
       "name": "core-js",
@@ -34,15 +34,15 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 4,
-      "additions": 312,
-      "deletions": -51
+      "commits_count": 2,
+      "additions": 265,
+      "deletions": -2
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 74,
-      "additions": 17756,
-      "deletions": -15330
+      "commits_count": 45,
+      "additions": 14928,
+      "deletions": -13002
     },
     {
       "name": "wallet",
@@ -70,21 +70,21 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 6,
-      "additions": 355,
-      "deletions": -57
+      "commits_count": 3,
+      "additions": 271,
+      "deletions": -8
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 3,
-      "additions": 248,
-      "deletions": -174
+      "commits_count": 2,
+      "additions": 224,
+      "deletions": -163
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 21,
-      "additions": 22770,
-      "deletions": -216
+      "commits_count": 18,
+      "additions": 18326,
+      "deletions": -212
     }
   ]
 }

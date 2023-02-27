@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-02-25T03:15:36.540426",
-  "start_date": "2023-01-28T03:13:40.287690",
+  "end_date": "2023-02-27T03:16:51.901160",
+  "start_date": "2023-01-30T03:15:30.996266",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 8,
-      "additions": 949,
-      "deletions": -935
+      "commits_count": 1,
+      "additions": 710,
+      "deletions": -703
     },
     {
       "name": "vue-components",
@@ -46,9 +46,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 59,
-      "additions": 16338,
-      "deletions": -13672
+      "commits_count": 42,
+      "additions": 11129,
+      "deletions": -8858
     },
     {
       "name": "wallet",
@@ -64,15 +64,15 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 3,
-      "additions": 49,
-      "deletions": -25
+      "commits_count": 2,
+      "additions": 23,
+      "deletions": -8
     },
     {
       "name": "libswap-js",
-      "commits_count": 2,
-      "additions": 5,
-      "deletions": -7
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "albatross-doc",
@@ -94,9 +94,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 22,
-      "additions": 20671,
-      "deletions": -259
+      "commits_count": 18,
+      "additions": 15038,
+      "deletions": -218
     }
   ]
 }

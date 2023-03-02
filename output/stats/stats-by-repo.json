@@ -1,12 +1,18 @@
 {
-  "end_date": "2023-02-27T03:16:51.901160",
-  "start_date": "2023-01-30T03:15:30.996266",
+  "end_date": "2023-03-02T03:20:48.231158",
+  "start_date": "2023-02-02T03:18:38.481059",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 3,
-      "additions": 32,
-      "deletions": -32
+      "commits_count": 8,
+      "additions": 86,
+      "deletions": -93
+    },
+    {
+      "name": "qr-creator",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "community",
@@ -46,9 +52,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 42,
-      "additions": 11129,
-      "deletions": -8858
+      "commits_count": 59,
+      "additions": 11832,
+      "deletions": -9336
     },
     {
       "name": "wallet",
@@ -58,9 +64,9 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 11,
-      "additions": 2964,
-      "deletions": -2859
+      "commits_count": 12,
+      "additions": 3035,
+      "deletions": -2871
     },
     {
       "name": "fastspot-api",
@@ -94,9 +100,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 18,
-      "additions": 15038,
-      "deletions": -218
+      "commits_count": 20,
+      "additions": 15792,
+      "deletions": -240
     }
   ]
 }

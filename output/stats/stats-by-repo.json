@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-03-02T03:20:48.231158",
-  "start_date": "2023-02-02T03:18:38.481059",
+  "end_date": "2023-03-04T03:13:12.123763",
+  "start_date": "2023-02-04T03:10:58.903250",
   "repos": [
     {
       "name": "core-js",
@@ -27,6 +27,12 @@
       "deletions": -13
     },
     {
+      "name": "ledger-api",
+      "commits_count": 7,
+      "additions": 152,
+      "deletions": -60
+    },
+    {
       "name": "keyguard",
       "commits_count": 0,
       "additions": 0,
@@ -34,9 +40,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 1,
-      "additions": 710,
-      "deletions": -703
+      "commits_count": 2,
+      "additions": 1012,
+      "deletions": -824
     },
     {
       "name": "vue-components",
@@ -52,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 59,
-      "additions": 11832,
-      "deletions": -9336
+      "commits_count": 68,
+      "additions": 12427,
+      "deletions": -9562
     },
     {
       "name": "wallet",
@@ -100,9 +106,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 15792,
-      "deletions": -240
+      "commits_count": 22,
+      "additions": 16717,
+      "deletions": -259
     }
   ]
 }

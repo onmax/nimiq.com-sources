@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-03-04T03:13:12.123763",
-  "start_date": "2023-02-04T03:10:58.903250",
+  "end_date": "2023-03-06T03:18:21.311249",
+  "start_date": "2023-02-06T03:16:24.679563",
   "repos": [
     {
       "name": "core-js",
@@ -40,9 +40,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 1012,
-      "deletions": -824
+      "commits_count": 1,
+      "additions": 302,
+      "deletions": -121
     },
     {
       "name": "vue-components",
@@ -58,9 +58,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 68,
-      "additions": 12427,
-      "deletions": -9562
+      "commits_count": 57,
+      "additions": 4331,
+      "deletions": -1873
+    },
+    {
+      "name": "webpack-i18n-tools",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
@@ -76,9 +82,9 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 2,
-      "additions": 23,
-      "deletions": -8
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "libswap-js",
@@ -100,15 +106,15 @@
     },
     {
       "name": "establishments-map-ui",
-      "commits_count": 4,
-      "additions": 232,
-      "deletions": -170
+      "commits_count": 2,
+      "additions": 8,
+      "deletions": -7
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 22,
-      "additions": 16717,
-      "deletions": -259
+      "commits_count": 18,
+      "additions": 11354,
+      "deletions": -200
     }
   ]
 }

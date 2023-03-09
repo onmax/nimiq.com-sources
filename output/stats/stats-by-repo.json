@@ -1,12 +1,18 @@
 {
-  "end_date": "2023-03-06T03:18:21.311249",
-  "start_date": "2023-02-06T03:16:24.679563",
+  "end_date": "2023-03-09T03:20:27.866116",
+  "start_date": "2023-02-09T03:18:01.782367",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 8,
       "additions": 86,
       "deletions": -93
+    },
+    {
+      "name": "qr-scanner",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "qr-creator",
@@ -57,10 +63,16 @@
       "deletions": -1
     },
     {
+      "name": "browser-warning",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "core-rs-albatross",
-      "commits_count": 57,
-      "additions": 4331,
-      "deletions": -1873
+      "commits_count": 70,
+      "additions": 4854,
+      "deletions": -2059
     },
     {
       "name": "webpack-i18n-tools",
@@ -112,9 +124,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 18,
-      "additions": 11354,
-      "deletions": -200
+      "commits_count": 20,
+      "additions": 11970,
+      "deletions": -222
     }
   ]
 }

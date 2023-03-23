@@ -1,12 +1,12 @@
 {
-  "end_date": "2023-03-09T03:20:27.866116",
-  "start_date": "2023-02-09T03:18:01.782367",
+  "end_date": "2023-03-23T03:10:58.106103",
+  "start_date": "2023-02-23T03:09:03.810847",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 8,
-      "additions": 86,
-      "deletions": -93
+      "commits_count": 7,
+      "additions": 66,
+      "deletions": -68
     },
     {
       "name": "qr-scanner",
@@ -21,16 +21,10 @@
       "deletions": 0
     },
     {
-      "name": "community",
-      "commits_count": 1,
-      "additions": 0,
-      "deletions": -159
-    },
-    {
-      "name": "nimiq-style",
-      "commits_count": 3,
-      "additions": 18,
-      "deletions": -13
+      "name": "nimiq-utils",
+      "commits_count": 2,
+      "additions": 9,
+      "deletions": -9
     },
     {
       "name": "ledger-api",
@@ -46,21 +40,21 @@
     },
     {
       "name": "hub",
-      "commits_count": 1,
-      "additions": 302,
-      "deletions": -121
+      "commits_count": 11,
+      "additions": 933,
+      "deletions": -638
     },
     {
       "name": "vue-components",
-      "commits_count": 3,
-      "additions": 272,
-      "deletions": -7
+      "commits_count": 4,
+      "additions": 28,
+      "deletions": -12
     },
     {
       "name": "core-rs",
-      "commits_count": 1,
-      "additions": 2,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "browser-warning",
@@ -70,9 +64,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 70,
-      "additions": 4854,
-      "deletions": -2059
+      "commits_count": 153,
+      "additions": 18260,
+      "deletions": -13781
     },
     {
       "name": "webpack-i18n-tools",
@@ -82,21 +76,15 @@
     },
     {
       "name": "wallet",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 114,
+      "additions": 10641,
+      "deletions": -6477
     },
     {
       "name": "jsonrpc",
-      "commits_count": 12,
-      "additions": 3035,
-      "deletions": -2871
-    },
-    {
-      "name": "fastspot-api",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 3,
+      "additions": 81,
+      "deletions": -18
     },
     {
       "name": "libswap-js",
@@ -112,21 +100,15 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 4,
-      "additions": 278,
-      "deletions": -13
-    },
-    {
-      "name": "establishments-map-ui",
-      "commits_count": 2,
-      "additions": 8,
-      "deletions": -7
+      "commits_count": 3,
+      "additions": 24,
+      "deletions": -10
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 11970,
-      "deletions": -222
+      "commits_count": 15,
+      "additions": 8498,
+      "deletions": -92
     }
   ]
 }

@@ -38350,5 +38350,125 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1486666001286680579/y3VBMeow_normal.jpg"
     },
     "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "nimiq.btc has been registered https://t.co/jtnWv3szed",
+      "url": "https://twitter.com/bns_bot/status/1640067245542891521",
+      "created_at": "2023-03-26T19:04:36.000Z"
+    },
+    "user": {
+      "username": "bns_bot",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1500452756968116227/HoUParyp_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@paddi_hansen @nimiq do SEPA bank swaps",
+      "url": "https://twitter.com/PhantzE/status/1639984602092564482",
+      "created_at": "2023-03-26T13:36:13.000Z"
+    },
+    "user": {
+      "username": "PhantzE",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1616970005261819904/9ECh0msZ_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@revolution_coin #Nimiq",
+      "url": "https://twitter.com/BtcKiem/status/1639818832398385152",
+      "created_at": "2023-03-26T02:37:30.000Z"
+    },
+    "user": {
+      "username": "BtcKiem",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1639851532131893248/keD4B70__normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@revolution_coin #nimiq",
+      "url": "https://twitter.com/refik09212918/status/1639784841435660292",
+      "created_at": "2023-03-26T00:22:26.000Z"
+    },
+    "user": {
+      "username": "refik09212918",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1615128672536600581/jV_UGFGg_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@rovercrc #nimiq",
+      "url": "https://twitter.com/Smartie83906909/status/1639647827952390145",
+      "created_at": "2023-03-25T15:18:00.000Z"
+    },
+    "user": {
+      "username": "Smartie83906909",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1504924337421361157/0eVD_xzC_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Something major is happening soon at #Nimiq\ud83e\udd1d \nand I can't wait that it happens! \ud83d\ude31\ud83e\udd2b \n\nStay tuned for my upcoming tweets or head over to https://t.co/9bNLbrVTO1 to be in the know. \ud83d\udce2\ud83d\udc40 \n\nYou won't want to miss this! \n\n$Nim ?Testnet! SooN ? #KucoinGem @nimiq https://t.co/M7W9HC7UIm",
+      "url": "https://twitter.com/revolution_coin/status/1639595561463545856",
+      "created_at": "2023-03-25T11:50:18.000Z"
+    },
+    "user": {
+      "username": "revolution_coin",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1582140625318707200/J5Wk-pot_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udfe8 La nouvelle fonctionnalit\u00e9 de \"Gas-abstracted USDC transactions\" propos\u00e9e sur @0xPolygon par #Nimiq a \u00e9t\u00e9 largement salu\u00e9e par les m\u00e9dias cryptos.\n\nPourtant Nimiq reste sous les radars c\u00f4t\u00e9 FR\ud83c\uddeb\ud83c\uddf7, dommage !\n\n@CryptoastMedia @LeJournalDuCoin @TheBigWhale_ \n@BaleineFR https://t.co/2kAFTIB0r8",
+      "url": "https://twitter.com/NimiqF/status/1639575353957003266",
+      "created_at": "2023-03-25T10:30:00.000Z"
+    },
+    "user": {
+      "username": "NimiqF",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1346385046433914880/k8976X0U_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon it's great to see you're still working",
+      "url": "https://twitter.com/Misantrop_fst/status/1639557329367584769",
+      "created_at": "2023-03-25T09:18:23.000Z"
+    },
+    "user": {
+      "username": "Misantrop_fst",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1600208268898537478/_iosV9Ce_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "The faucet will now drip to your @nimiq wallet automatically. No more need to manually withdraw your !balance :o\n\nTo start earning from the faucet, visit the stream and nominate an address for the $NIM to be sent to.\n\nAs an example:\nType: !nominate\u2026 https://t.co/j8WHbPot9V",
+      "url": "https://twitter.com/NimiqLive/status/1639529011964706817",
+      "created_at": "2023-03-25T07:25:52.000Z"
+    },
+    "user": {
+      "username": "NimiqLive",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1419183526373519360/sD7Zkuz0_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Hey all, we are testing a work around to the faucet - there is a necessity to !nominate a Nimiq wallet address.\n\nView the pinned message on https://t.co/9e7M2z55aq for more information on how to test the experimental faucet.",
+      "url": "https://twitter.com/NimiqLive/status/1639497089116938241",
+      "created_at": "2023-03-25T05:19:01.000Z"
+    },
+    "user": {
+      "username": "NimiqLive",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1419183526373519360/sD7Zkuz0_normal.png"
+    },
+    "sentiment": null
   }
 ]

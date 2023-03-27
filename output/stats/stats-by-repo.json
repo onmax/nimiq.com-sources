@@ -1,12 +1,12 @@
 {
-  "end_date": "2023-03-23T03:10:58.106103",
-  "start_date": "2023-02-23T03:09:03.810847",
+  "end_date": "2023-03-27T03:11:55.568648",
+  "start_date": "2023-02-27T03:09:33.236122",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 7,
-      "additions": 66,
-      "deletions": -68
+      "commits_count": 2,
+      "additions": 12,
+      "deletions": -7
     },
     {
       "name": "qr-scanner",
@@ -28,9 +28,9 @@
     },
     {
       "name": "ledger-api",
-      "commits_count": 7,
-      "additions": 152,
-      "deletions": -60
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -40,21 +40,15 @@
     },
     {
       "name": "hub",
-      "commits_count": 11,
-      "additions": 933,
-      "deletions": -638
+      "commits_count": 8,
+      "additions": 530,
+      "deletions": -475
     },
     {
       "name": "vue-components",
-      "commits_count": 4,
-      "additions": 28,
-      "deletions": -12
-    },
-    {
-      "name": "core-rs",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 9,
+      "additions": 431,
+      "deletions": -233
     },
     {
       "name": "browser-warning",
@@ -64,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 153,
-      "additions": 18260,
-      "deletions": -13781
+      "commits_count": 162,
+      "additions": 20160,
+      "deletions": -14386
     },
     {
       "name": "webpack-i18n-tools",
@@ -76,27 +70,21 @@
     },
     {
       "name": "wallet",
-      "commits_count": 114,
-      "additions": 10641,
-      "deletions": -6477
+      "commits_count": 82,
+      "additions": 3903,
+      "deletions": -2899
     },
     {
       "name": "jsonrpc",
-      "commits_count": 3,
-      "additions": 81,
-      "deletions": -18
+      "commits_count": 2,
+      "additions": 10,
+      "deletions": -6
     },
     {
       "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "albatross-doc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 5,
+      "additions": 11,
+      "deletions": -9
     },
     {
       "name": "vue3-components",
@@ -106,9 +94,15 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 15,
-      "additions": 8498,
-      "deletions": -92
+      "commits_count": 12,
+      "additions": 9511,
+      "deletions": -91
+    },
+    {
+      "name": "albatross-monkey-chaos",
+      "commits_count": 10,
+      "additions": 2666,
+      "deletions": -1058
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-03-27T03:11:55.568648",
-  "start_date": "2023-02-27T03:09:33.236122",
+  "end_date": "2023-03-30T03:11:12.992697",
+  "start_date": "2023-03-02T03:09:35.714039",
   "repos": [
     {
       "name": "core-js",
@@ -10,12 +10,6 @@
     },
     {
       "name": "qr-scanner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "qr-creator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -58,9 +52,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 162,
-      "additions": 20160,
-      "deletions": -14386
+      "commits_count": 200,
+      "additions": 21536,
+      "deletions": -14773
     },
     {
       "name": "webpack-i18n-tools",
@@ -70,9 +64,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 82,
-      "additions": 3903,
-      "deletions": -2899
+      "commits_count": 84,
+      "additions": 4009,
+      "deletions": -2990
     },
     {
       "name": "jsonrpc",
@@ -82,9 +76,9 @@
     },
     {
       "name": "libswap-js",
-      "commits_count": 5,
-      "additions": 11,
-      "deletions": -9
+      "commits_count": 6,
+      "additions": 14,
+      "deletions": -16
     },
     {
       "name": "vue3-components",
@@ -94,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 12,
-      "additions": 9511,
-      "deletions": -91
+      "commits_count": 14,
+      "additions": 9875,
+      "deletions": -137
     },
     {
       "name": "albatross-monkey-chaos",

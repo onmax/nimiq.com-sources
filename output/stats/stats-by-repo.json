@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-03-30T03:11:12.992697",
-  "start_date": "2023-03-02T03:09:35.714039",
+  "end_date": "2023-04-01T03:10:55.914709",
+  "start_date": "2023-03-04T03:08:50.967230",
   "repos": [
     {
       "name": "core-js",
@@ -19,12 +19,6 @@
       "commits_count": 2,
       "additions": 9,
       "deletions": -9
-    },
-    {
-      "name": "ledger-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -52,9 +46,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 200,
-      "additions": 21536,
-      "deletions": -14773
+      "commits_count": 201,
+      "additions": 21546,
+      "deletions": -14775
     },
     {
       "name": "webpack-i18n-tools",
@@ -88,9 +82,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 14,
-      "additions": 9875,
-      "deletions": -137
+      "commits_count": 16,
+      "additions": 12138,
+      "deletions": -162
     },
     {
       "name": "albatross-monkey-chaos",

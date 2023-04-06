@@ -1,18 +1,12 @@
 {
-  "end_date": "2023-04-03T03:10:26.629244",
-  "start_date": "2023-03-06T03:08:44.350108",
+  "end_date": "2023-04-06T03:10:11.384510",
+  "start_date": "2023-03-09T03:08:44.570096",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 2,
       "additions": 12,
       "deletions": -7
-    },
-    {
-      "name": "qr-scanner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "nimiq-utils",
@@ -39,16 +33,10 @@
       "deletions": -225
     },
     {
-      "name": "browser-warning",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "core-rs-albatross",
-      "commits_count": 156,
-      "additions": 13576,
-      "deletions": -6644
+      "commits_count": 158,
+      "additions": 13720,
+      "deletions": -6696
     },
     {
       "name": "wallet",
@@ -76,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 13,
-      "additions": 11714,
-      "deletions": -146
+      "commits_count": 15,
+      "additions": 13926,
+      "deletions": -180
     },
     {
       "name": "albatross-monkey-chaos",

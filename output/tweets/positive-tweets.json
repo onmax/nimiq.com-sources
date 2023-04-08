@@ -42538,5 +42538,701 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
     },
     "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@juno_uhuy @Hissan54235771 @BTCTammy https://t.co/w43PAzrlfJ",
+      "url": "https://twitter.com/elgatoBTC/status/1644538129641078786",
+      "created_at": "2023-04-08T03:10:18.000Z"
+    },
+    "user": {
+      "username": "elgatoBTC",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1639274409176211456/o74ZOdup_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon @consensus2023 @CoinDesk 0x0363b80148D0122E7cdEc55fEde4F0Dde2EB449C",
+      "url": "https://twitter.com/elgatoBTC/status/1644537264138072076",
+      "created_at": "2023-04-08T03:06:52.000Z"
+    },
+    "user": {
+      "username": "elgatoBTC",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1639274409176211456/o74ZOdup_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@maemultichain hacete una prueba con @nimiq wallet",
+      "url": "https://twitter.com/adriangarciaeth/status/1644515358781440002",
+      "created_at": "2023-04-08T01:39:49.000Z"
+    },
+    "user": {
+      "username": "adriangarciaeth",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1628861940087894016/qrGZ4cMB_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@kucoincom #nimiq is my bet!  However, I would love to see #prco #ProcyonCoin list and moon!  For the raccoons \ud83e\udd9d of course\ud83e\udd2a #KuCoinSpotlight I\u2019m lookin at you \ud83d\ude09",
+      "url": "https://twitter.com/LDIOSMiner/status/1644514068030521344",
+      "created_at": "2023-04-08T01:34:42.000Z"
+    },
+    "user": {
+      "username": "LDIOSMiner",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1413002520440582147/XcNx5aua_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq Thank you for the update, it was a pleasure to help testing the first round. \n\nHappy to enjoy soon the #Nimiq \ud83e\udd1d testnet again.",
+      "url": "https://twitter.com/revolution_coin/status/1644432672670863360",
+      "created_at": "2023-04-07T20:11:15.000Z"
+    },
+    "user": {
+      "username": "revolution_coin",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1582140625318707200/J5Wk-pot_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Sizi geli\u015fmelerden haberdar edece\u011fiz ve son kullan\u0131c\u0131lar\u0131n test etmeye ne zaman devam edebilece\u011fini size bildirece\u011fiz.\n\nDevam eden deste\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz.  \ud83e\udd1d\n\n#Nimiq #PoS",
+      "url": "https://twitter.com/NimiqTR/status/1644428218210873359",
+      "created_at": "2023-04-07T19:53:33.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimiq Proof of Stake Teknik G\u00fcncellemesi:\n\nBu hafta bizim i\u00e7in \u00e7ok de\u011ferliydi \u00e7\u00fcnk\u00fc Nimiq PoS Testnet'in zorlu ortamda nas\u0131l performans g\u00f6sterdi\u011fine dair i\u00e7g\u00f6r\u00fcler toplayabildik.\n\nNimiq Core ve Community Devs, \u00e7e\u015fitli senaryolar\u0131 test etmek i\u00e7in birlikte \u00e7al\u0131\u015fmaya devam ediyor.",
+      "url": "https://twitter.com/NimiqTR/status/1644428039353167872",
+      "created_at": "2023-04-07T19:52:51.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq great, keep building \ud83d\udcaa",
+      "url": "https://twitter.com/CryptoCappex/status/1644424869906378778",
+      "created_at": "2023-04-07T19:40:15.000Z"
+    },
+    "user": {
+      "username": "CryptoCappex",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1640431846562340871/0P5kAVF0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq We are in this together. #NimiqCommunity \ud83e\udd1d",
+      "url": "https://twitter.com/Fratta21/status/1644417091716489216",
+      "created_at": "2023-04-07T19:09:21.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimiq Proof of Stake Technical Update:\n\nThis week has been very valuable for us because we were able to gather insights on how the Nimiq PoS Testnet performs in the wild.\n\nNimiq Core and Community Devs continue working together to test various scenarios. \n\nWe will keep you\u2026 https://t.co/3551hT9w5i",
+      "url": "https://twitter.com/nimiq/status/1644415671130890242",
+      "created_at": "2023-04-07T19:03:42.000Z"
+    },
+    "user": {
+      "username": "nimiq",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1054378419067252737/EV8PZ5bx_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@100xAltcoinGems #nimiq",
+      "url": "https://twitter.com/cryptoDude117/status/1644390678841917454",
+      "created_at": "2023-04-07T17:24:23.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimiq\u2019le Oyun Zaman\u0131 Etkinli\u011finin Kazanan Talihlisi\u2b07\ufe0f\n\n800 $NIM Nimiq Cashlink arac\u0131l\u0131\u011f\u0131yla kazanan talihliye ula\u015ft\u0131r\u0131lacakt\u0131r. https://t.co/7faSKljx5o",
+      "url": "https://twitter.com/NimiqTR/status/1644382839478026244",
+      "created_at": "2023-04-07T16:53:14.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@DanielleKKTV @nimiq @BTC_RATexe Can you retweet my NFT post?",
+      "url": "https://twitter.com/Aref_Afsharpour/status/1644354806927048712",
+      "created_at": "2023-04-07T15:01:51.000Z"
+    },
+    "user": {
+      "username": "Aref_Afsharpour",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643527052111355905/Ycw2NVcA_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@DanielleKKTV @nimiq @BTC_RATexe Done sir...\n\nAll tweet Notif activate https://t.co/LcR8BCTZdE",
+      "url": "https://twitter.com/Mang_deden29/status/1644354180327559168",
+      "created_at": "2023-04-07T14:59:21.000Z"
+    },
+    "user": {
+      "username": "Mang_deden29",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1629716530677305349/QgFF-iBY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@krakenfx #nimiq",
+      "url": "https://twitter.com/cryptoDude117/status/1644337385595863044",
+      "created_at": "2023-04-07T13:52:37.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @NimiqTR #Nimiq https://t.co/YUIg03KDVR",
+      "url": "https://twitter.com/bakuamadevasa/status/1644336858770407425",
+      "created_at": "2023-04-07T13:50:32.000Z"
+    },
+    "user": {
+      "username": "bakuamadevasa",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1622590488963428358/iS_e_kk8_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@_snuppy08 @nimiq @0xPolygon NIM is becoming stronger, I am sure that the future development of nim will be even more amazing, and it will also be listed on top exchanges in the future",
+      "url": "https://twitter.com/wangye07752259/status/1644333218769039363",
+      "created_at": "2023-04-07T13:36:04.000Z"
+    },
+    "user": {
+      "username": "wangye07752259",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1490525228472016897/JJ6pHo2__normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@berrynutzx @CryptoEmdarks $BabyBNBTiger giving you the keys to closed doors #BabyBNBTiger #gem #bscgem #NEWSHIBA #newshibabsc @EverRise @nimiq https://t.co/uLZHrhdSe4",
+      "url": "https://twitter.com/CryptooKings/status/1644325326829281280",
+      "created_at": "2023-04-07T13:04:42.000Z"
+    },
+    "user": {
+      "username": "CryptooKings",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1641763230581227521/Fb7tFOji_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@crypto_charger @nimiq @0xPolygon @consensus2023 @CoinDesk @HodlPolkadex @traceon_trac Reported for spam.",
+      "url": "https://twitter.com/DegenHao/status/1644314390982971392",
+      "created_at": "2023-04-07T12:21:15.000Z"
+    },
+    "user": {
+      "username": "DegenHao",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1626106289616220161/fUKhH5pV_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@cryptoDude117 @MEXC_Global @Myria @nimiq i think the devs has to reach out to @MEXC_Global if they want their token to be listed in their platform. but rooting for your project to be on board! they are known to list low cap tokens with high potential.",
+      "url": "https://twitter.com/ens_yoya/status/1644262336763674625",
+      "created_at": "2023-04-07T08:54:24.000Z"
+    },
+    "user": {
+      "username": "ens_yoya",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1615945268326981634/TUyBftzS_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@NimiqTR @nimiq #Nimiq https://t.co/NOA9sCxqnl",
+      "url": "https://twitter.com/fattteeeh/status/1644234925795573760",
+      "created_at": "2023-04-07T07:05:29.000Z"
+    },
+    "user": {
+      "username": "fattteeeh",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1412024709508653056/vBcd28y8_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq awesome project i have tried all the features. I hope this project can be even better when mainnet arrives. need to improve like UI/UX or other menu. I believe in the dev and team behind all of this! warm greetings from me. https://t.co/Ln1EfVq4D0",
+      "url": "https://twitter.com/soepriadi57/status/1644218545981775874",
+      "created_at": "2023-04-07T06:00:24.000Z"
+    },
+    "user": {
+      "username": "soepriadi57",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1630590530362183682/imxQszZw_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "#NIM $NIM: Nimiq is a blockchain platform that's designed for easy and fast cryptocurrency transactions. Learn how to use NIM to send and receive payments with high speed and low fees.",
+      "url": "https://twitter.com/Crypto3Quant/status/1644191916269920257",
+      "created_at": "2023-04-07T04:14:35.000Z"
+    },
+    "user": {
+      "username": "Crypto3Quant",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643206097954562051/dN_XbWSK_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq POS this month! \u2694\ufe0f\ud83c\udf7b",
+      "url": "https://twitter.com/Vikings_for_ADA/status/1644134659121463298",
+      "created_at": "2023-04-07T00:27:03.000Z"
+    },
+    "user": {
+      "username": "Vikings_for_ADA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1235298505909993473/XgwnCIhm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimiq is the Future Top Class Payments software https://t.co/E5rXlWoKIv",
+      "url": "https://twitter.com/Cryptomaher007/status/1644078979320619010",
+      "created_at": "2023-04-06T20:45:48.000Z"
+    },
+    "user": {
+      "username": "Cryptomaher007",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1479615517333807105/z1_mDSCy_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon @consensus2023 @CoinDesk 0xbeb300d120788880451eBF8Ed4c33D0b07F302F7",
+      "url": "https://twitter.com/LahiruRavinath/status/1644059154057777179",
+      "created_at": "2023-04-06T19:27:02.000Z"
+    },
+    "user": {
+      "username": "LahiruRavinath",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1496884477703831553/abSSjbsY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon @web3dailyco 0xbeb300d120788880451eBF8Ed4c33D0b07F302F7",
+      "url": "https://twitter.com/LahiruRavinath/status/1644058747159838721",
+      "created_at": "2023-04-06T19:25:25.000Z"
+    },
+    "user": {
+      "username": "LahiruRavinath",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1496884477703831553/abSSjbsY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon @consensus2023 @CoinDesk \ud83d\udcf7\ud83d\udcf7 CONTEST ANNOUNCEMENT \ud83d\udcf7\ud83d\udcf7good project. Join this project that has the potential to grow in the future.\n@AlyssaBorcky\n@MazeFit33\n@ekonomikocu",
+      "url": "https://twitter.com/LahiruRavinath/status/1644058078436810752",
+      "created_at": "2023-04-06T19:22:45.000Z"
+    },
+    "user": {
+      "username": "LahiruRavinath",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1496884477703831553/abSSjbsY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udcf7\ud83d\udcf7 CONTEST ANNOUNCEMENT \ud83d\udcf7\ud83d\udcf7\ngood project. Join this project that has the potential to grow in the future. @AlyssaBorcky @MazeFit33  @ekonomikocu https://t.co/FsYwmioFmQ",
+      "url": "https://twitter.com/LahiruRavinath/status/1644057946052067330",
+      "created_at": "2023-04-06T19:22:14.000Z"
+    },
+    "user": {
+      "username": "LahiruRavinath",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1496884477703831553/abSSjbsY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq @0xPolygon @consensus2023 @CoinDesk 0xbeb300d120788880451eBF8Ed4c33D0b07F302F7",
+      "url": "https://twitter.com/LahiruRavinath/status/1644057108961284115",
+      "created_at": "2023-04-06T19:18:54.000Z"
+    },
+    "user": {
+      "username": "LahiruRavinath",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1496884477703831553/abSSjbsY_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udfe8 Le Hackaton #Nimiq de mars a pris fin il y a quelques jours et a tenu toutes ses promesses:\n\n\ud83d\udc49 int\u00e9gration d\u2019 $USDC au wallet\n\ud83d\udc49 sortie du Testnet de Nimiq PoS\n\n\ud83d\udcc6 Un nouvel hackaton aura lieu dans quelques semaines avec en ligne de mire le Mainnet.\ud83e\udd29\n\nhttps://t.co/NAYEQqz4Kc https://t.co/tWK9ABgDZz",
+      "url": "https://twitter.com/NimiqF/status/1644042021181730816",
+      "created_at": "2023-04-06T18:18:57.000Z"
+    },
+    "user": {
+      "username": "NimiqF",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1346385046433914880/k8976X0U_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Team is doing great! @DensYannick @12398fishing @BlingMpire @005_cz @Donnie25171585 @pablo__BCN @snv7737 @KayeEspina2 @curlybhoy @Max_Nimiq @Sam87162567 @BillCrypto6 @Makavelli2214 @kelseyshitpost https://t.co/nU0XvBDQM0",
+      "url": "https://twitter.com/jashaylawren/status/1644041364953264135",
+      "created_at": "2023-04-06T18:16:20.000Z"
+    },
+    "user": {
+      "username": "jashaylawren",
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "And done. \u2705\n\nCould take some minutes but no worries. It's ok. Eventually you will get #ETH on the ETH Mainnet from #USDC you had on your #Nimiq wallet (Polygon). \n\nCheck the networks you are moving from and to before any operations please, carefully.\n\n5/",
+      "url": "https://twitter.com/Fratta21/status/1644027253389418496",
+      "created_at": "2023-04-06T17:20:16.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "- Now you are ready to send your #USDC from the #Nimiq wallet to #Metamask through #Polygon of course.\n\n- Swap USDC to #WETH. \n\nThe final step is the crosschain one. This is the link you need by using #Multichain:\nhttps://t.co/leDFZHdLJI\n\n4/",
+      "url": "https://twitter.com/Fratta21/status/1644027250616983552",
+      "created_at": "2023-04-06T17:20:15.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "If you want cash out your #USDC from the @Nimiq wallet to #Ethereum #ETH for example you can move your tokens from the #Polygon network, easily.\n\nHow can you do that?\nHere four simple steps to follow.\n\n2/ https://t.co/byynSeV9Ox",
+      "url": "https://twitter.com/Fratta21/status/1644027244568780802",
+      "created_at": "2023-04-06T17:20:14.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@NimiqTR @nimiq #Nimiq https://t.co/NydibTGEeT",
+      "url": "https://twitter.com/PioXRaV/status/1644021912467546119",
+      "created_at": "2023-04-06T16:59:03.000Z"
+    },
+    "user": {
+      "username": "PioXRaV",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1617636324697161728/UhwhgKgH_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Nimtris \u00c7ok g\u00fczel\n\n@NimiqTR @nimiq #Nimiq https://t.co/wfJhCyroEt",
+      "url": "https://twitter.com/Muhamme23583870/status/1644020054319673347",
+      "created_at": "2023-04-06T16:51:40.000Z"
+    },
+    "user": {
+      "username": "Muhamme23583870",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1474835787158106123/Cox2waAd_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83c\udf811 \u015eansl\u0131 ki\u015fi 800 NIM kazanacak. \u00d6d\u00fcl Nimiq Cashlink halinde Twitter \u00fczerinden kazanan ki\u015fiye ula\u015ft\u0131r\u0131lacakt\u0131r.\n\n\u26a0\ufe0fEtkinli\u011fe kat\u0131lan ki\u015filer @NimiqTR ve @Nimiq Twitter hesaplar\u0131n\u0131 takip etmesi zorunlu.",
+      "url": "https://twitter.com/NimiqTR/status/1644003876696203265",
+      "created_at": "2023-04-06T15:47:22.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83c\udfaeNimiq Sunset Cyberspace, Nimtris, Hextank oyunlar\u0131ndan birini oynarken oyun i\u00e7i ekran g\u00f6r\u00fcnt\u00fcs\u00fc al\u0131p Twitter\u2019da @NimiqTR @Nimiq #Nimiq etiketilerini kullanarak payla\u015fman\u0131z gereklidir.",
+      "url": "https://twitter.com/NimiqTR/status/1644003721481781248",
+      "created_at": "2023-04-06T15:46:45.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "\ud83d\udcabNimiq\u2019le Oyun Zaman\u0131 Etkinli\u011fi\n\nNimiq topluluk oyunlar\u0131n\u0131 oynarken ekran g\u00f6r\u00fcnt\u00fcs\u00fc al\u0131p Twitter\u2019da payla\u015f\u0131n ve 800 NIM (25TL) kazan\u0131n.",
+      "url": "https://twitter.com/NimiqTR/status/1644003605983248385",
+      "created_at": "2023-04-06T15:46:18.000Z"
+    },
+    "user": {
+      "username": "NimiqTR",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1643310800126332928/79xEWMQb_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@DanielleKKTV @nimiq @BTC_RATexe My collection this metaverse NFT. Very interesting?\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d\ud83d\udd3d\nhttps://t.co/CYnCwRNpuJ",
+      "url": "https://twitter.com/DMaskevic/status/1644000250741284866",
+      "created_at": "2023-04-06T15:32:58.000Z"
+    },
+    "user": {
+      "username": "DMaskevic",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1619707947486945280/88hYYrxg_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@bitpanda @Galxe When @nimiq",
+      "url": "https://twitter.com/Babescu3/status/1643983748139188227",
+      "created_at": "2023-04-06T14:27:23.000Z"
+    },
+    "user": {
+      "username": "Babescu3",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1622178823734272000/uecb9cLS_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Art\u00edculo sobre Criptomoneda Nimiq https://t.co/C3t5aejQLM",
+      "url": "https://twitter.com/soloutil/status/1643973179810119689",
+      "created_at": "2023-04-06T13:45:24.000Z"
+    },
+    "user": {
+      "username": "soloutil",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1633438215095873539/VqPfybKz_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@simogattok @nimiq Here the link if you wish to read more. \n\n\ud83d\ude09\ud83d\udc47\ud83c\udffc\nhttps://t.co/RaCzVs8noh",
+      "url": "https://twitter.com/Fratta21/status/1643972433547005963",
+      "created_at": "2023-04-06T13:42:26.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@simogattok @nimiq Great food for thought. Thanks for sharing @simogattok . \ud83e\udd14\n\n#Nimiq has a very unique vision and ambition road map.. And the Mainnet is gonna melt many faces, imo. Why? Nobody does the same.\n\nIf you are a #crypto maxi you understand what I mean.\n\n$NIM 2.0 \ud83d\udd25 https://t.co/wXzpO5rNG6",
+      "url": "https://twitter.com/Fratta21/status/1643971880989392897",
+      "created_at": "2023-04-06T13:40:14.000Z"
+    },
+    "user": {
+      "username": "Fratta21",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1602229102639030272/jivgGaNW_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Can you beat my score of 2732 points at Nimtris? Play it here at: https://t.co/RfBmbcXL1T #nimtris #nimiq #NIM",
+      "url": "https://twitter.com/alirezagx00/status/1643971034331185152",
+      "created_at": "2023-04-06T13:36:52.000Z"
+    },
+    "user": {
+      "username": "alirezagx00",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1623043514790514693/ZQn1PKyH_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@DianaSanchez_04 #nimiq",
+      "url": "https://twitter.com/cryptoDude117/status/1643953731199746048",
+      "created_at": "2023-04-06T12:28:07.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@MEXC_Global @Myria Please consider listing @nimiq",
+      "url": "https://twitter.com/cryptoDude117/status/1643953536537878529",
+      "created_at": "2023-04-06T12:27:20.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@TrustWallet @RampNetwork @moonpay How about partnering with #nimiq?",
+      "url": "https://twitter.com/cryptoDude117/status/1643953216592175105",
+      "created_at": "2023-04-06T12:26:04.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@amonbuy #nimiq",
+      "url": "https://twitter.com/cryptoDude117/status/1643953029945630722",
+      "created_at": "2023-04-06T12:25:20.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "$Nim @nimiq will bounce first here, as the most decentralized PoS coin, once the transition from PoW will be done. You heard it first by me.\nThe higher Nakamoto coefficient, the more decentralized.\n\nhttps://t.co/qCjQvugshU https://t.co/InDQxYIqzX",
+      "url": "https://twitter.com/simogattok/status/1643935461960818688",
+      "created_at": "2023-04-06T11:15:31.000Z"
+    },
+    "user": {
+      "username": "simogattok",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1599813006199820289/sSx84TLz_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq God Bless team @nimiq $NIM is truly the glue binding the blockchain space together; thank you so much for all the work &amp; updates",
+      "url": "https://twitter.com/BTC_RATexe/status/1643933297016291329",
+      "created_at": "2023-04-06T11:06:55.000Z"
+    },
+    "user": {
+      "username": "BTC_RATexe",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1560638240738123776/tGd1zW_D_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@BitMartExchange @nimiq @graphprotocol @ankr",
+      "url": "https://twitter.com/cryptoDude117/status/1643928529380229122",
+      "created_at": "2023-04-06T10:47:58.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@HuobiGlobal Partner with @nimiq \n\n#Huobi @HuobiGlobal",
+      "url": "https://twitter.com/cryptoDude117/status/1643928072410808322",
+      "created_at": "2023-04-06T10:46:09.000Z"
+    },
+    "user": {
+      "username": "cryptoDude117",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1379970013768126470/QpczPjw0_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@AskAscendEX  Are $NIM (Nimiq) transactions down? My miner hasn't stopped working and yet you guys haven't accepted a deposit since March 27",
+      "url": "https://twitter.com/sunlesswindow/status/1643886164452188161",
+      "created_at": "2023-04-06T07:59:38.000Z"
+    },
+    "user": {
+      "username": "sunlesswindow",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1603449187701751808/zoSIU9Cm_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "$NIM  H1 \u2600\ufe0f\ud83d\ude0d\n\n#NIMUSDT #nimiq\n\nEntry Signal Time: 28/03/2023\n\nDirection: Long\n% move: 24%\n\n#Binance #Crypto #CryptoTwitter #cryptocurrency #cryptomarket #cryptotrading #KuCoin \n\nhttps://t.co/sKiZwpLqHX https://t.co/GzGzYHycAo",
+      "url": "https://twitter.com/bti_trading/status/1643880086750351360",
+      "created_at": "2023-04-06T07:35:29.000Z"
+    },
+    "user": {
+      "username": "bti_trading",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1315602313281765377/2Ejdav7b_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "@nimiq \ud83d\udc4b 0xAa031165bA4e2F908308cB382410165e7868b3D4",
+      "url": "https://twitter.com/hemp_pizza/status/1643826764047605760",
+      "created_at": "2023-04-06T04:03:36.000Z"
+    },
+    "user": {
+      "username": "hemp_pizza",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1631826929329242113/zUrqhAmf_normal.jpg"
+    },
+    "sentiment": null
+  },
+  {
+    "tweet": {
+      "content": "Bullish on @nimiq \u2728 $NIM \ud83d\ude80\n\n@heynati506\n@muguika\n@MentaJengibre2 https://t.co/66ce2qepi6",
+      "url": "https://twitter.com/hemp_pizza/status/1643826026235981825",
+      "created_at": "2023-04-06T04:00:40.000Z"
+    },
+    "user": {
+      "username": "hemp_pizza",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1631826929329242113/zUrqhAmf_normal.jpg"
+    },
+    "sentiment": null
   }
 ]

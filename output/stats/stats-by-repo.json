@@ -1,12 +1,12 @@
 {
-  "end_date": "2023-04-08T03:09:55.002673",
-  "start_date": "2023-03-11T03:08:42.536697",
+  "end_date": "2023-04-10T03:09:52.608728",
+  "start_date": "2023-03-13T03:08:50.975328",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 2,
-      "additions": 12,
-      "deletions": -7
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -16,27 +16,27 @@
     },
     {
       "name": "hub",
-      "commits_count": 6,
-      "additions": 178,
-      "deletions": -176
+      "commits_count": 4,
+      "additions": 10,
+      "deletions": -10
     },
     {
       "name": "vue-components",
-      "commits_count": 7,
-      "additions": 409,
-      "deletions": -225
+      "commits_count": 5,
+      "additions": 206,
+      "deletions": -141
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 159,
-      "additions": 13732,
-      "deletions": -6705
+      "commits_count": 99,
+      "additions": 6337,
+      "deletions": -2705
     },
     {
       "name": "wallet",
-      "commits_count": 54,
-      "additions": 1859,
-      "deletions": -1577
+      "commits_count": 45,
+      "additions": 1518,
+      "deletions": -1243
     },
     {
       "name": "jsonrpc",
@@ -51,22 +51,16 @@
       "deletions": -16
     },
     {
-      "name": "vue3-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "nimiq.com-sources",
-      "commits_count": 17,
-      "additions": 16171,
-      "deletions": -205
+      "commits_count": 16,
+      "additions": 15707,
+      "deletions": -227
     },
     {
       "name": "albatross-monkey-chaos",
-      "commits_count": 10,
-      "additions": 2666,
-      "deletions": -1058
+      "commits_count": 11,
+      "additions": 4057,
+      "deletions": -1668
     }
   ]
 }

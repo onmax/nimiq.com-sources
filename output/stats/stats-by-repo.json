@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-04-15T03:09:33.710419",
-  "start_date": "2023-03-18T03:08:23.523761",
+  "end_date": "2023-04-17T03:10:03.739121",
+  "start_date": "2023-03-20T03:08:58.265442",
   "repos": [
     {
       "name": "keyguard",
@@ -10,51 +10,51 @@
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 10,
-      "deletions": -10
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "vue-components",
-      "commits_count": 5,
-      "additions": 206,
-      "deletions": -141
+      "commits_count": 1,
+      "additions": 2,
+      "deletions": -2
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 107,
-      "additions": 6687,
-      "deletions": -2774
+      "commits_count": 44,
+      "additions": 1264,
+      "deletions": -395
     },
     {
       "name": "wallet",
-      "commits_count": 45,
-      "additions": 1518,
-      "deletions": -1243
+      "commits_count": 4,
+      "additions": 354,
+      "deletions": -340
     },
     {
       "name": "jsonrpc",
-      "commits_count": 2,
-      "additions": 10,
-      "deletions": -6
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "libswap-js",
-      "commits_count": 6,
-      "additions": 14,
-      "deletions": -16
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -7
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 20,
-      "additions": 19327,
-      "deletions": -283
+      "commits_count": 18,
+      "additions": 16782,
+      "deletions": -240
     },
     {
       "name": "albatross-monkey-chaos",
-      "commits_count": 12,
-      "additions": 4372,
-      "deletions": -1839
+      "commits_count": 2,
+      "additions": 1706,
+      "deletions": -781
     }
   ]
 }

@@ -3,6 +3,7 @@
 import os
 
 import requests
+import argparse
 from transformers import pipeline
 
 from util import OUTPUT_FOLDER, get_contents, get_variable, set_contents
@@ -10,12 +11,12 @@ from util import OUTPUT_FOLDER, get_contents, get_variable, set_contents
 TWITTER_TOKEN = get_variable("TWITTER_TOKEN")
 
 
-def fetch_tweets() -> list:
+def fetch_tweets(query: str) -> list:
     """Fetch tweets from Twitter API."""
     url = "https://api.twitter.com/2/tweets/search/recent"
     params = {
         "max_results": 100,
-        "query": "nimiq -is:retweet",
+        "query": query,
         "tweet.fields": "created_at",
         "expansions": "author_id",
         "user.fields": "profile_image_url",
@@ -70,7 +71,6 @@ def filter_positive_tweets(
 
 def append_new_items(tweets_list: list, filename: str) -> None:
     """Append new items to the json file."""
-    filename = os.path.join(f"{OUTPUT_FOLDER}/tweets", filename)
     old_tweets_list = get_contents(filename)
 
     # Append new items
@@ -82,10 +82,27 @@ def append_new_items(tweets_list: list, filename: str) -> None:
     print(f"Saving {len(filename)} tweets in {filename}")
     set_contents(filename, old_tweets_list)
 
+def main(query: str, output: str):
+    if "-is:retweet" not in query:
+        query += " -is:retweet"
 
-tweets = parse_tweets(fetch_tweets())
-sentiments = compute_sentiment(tweets)
-positive_tweets = filter_positive_tweets(tweets, sentiments, 0.7)
+    tweets = parse_tweets(fetch_tweets(query))
+    sentiments = compute_sentiment(tweets)
+    for tweet, sentiment in zip(tweets, sentiments):
+        tweet["sentiment"] = sentiment
+    positive_tweets = filter_positive_tweets(tweets, sentiments, 0.7)
 
-append_new_items(tweets, "tweets.json")
-append_new_items(positive_tweets, "positive-tweets.json")
+    filename_tweets = os.path.join(OUTPUT_FOLDER, output, "tweets.json")
+    append_new_items(tweets, filename_tweets)
+
+    filename_positive = os.path.join(OUTPUT_FOLDER, output, "positive-tweets.json")
+    append_new_items(positive_tweets, filename_positive)
+
+parser = argparse.ArgumentParser(
+    prog='Tweets Fetcher',
+    description='Fetch tweets from Twitter API and compute sentiment analysis.',
+    epilog='Enjoy the program! :)')
+parser.add_argument('-q', '--query', required=True, help='Query to search for')
+parser.add_argument('-o', '--output', required=True, help='Output folder under output/')
+args = parser.parse_args()
+main(args.query, args.output)

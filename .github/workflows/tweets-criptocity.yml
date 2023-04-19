@@ -1,11 +1,11 @@
-name: Tweets
+name: Tweets criptocity
 
 on:
   push:
     branches: [main]
   schedule:
-    # Run at 3am on Monday, Thursday, and Saturday
-    - cron: "0 3 * * 1,4,6"
+    # Run at 3am on Tuesday
+    - cron: "0 3 * * 2"
   workflow_dispatch:
 
 jobs:
@@ -28,11 +28,11 @@ jobs:
       - name: Main script
         run: |
           python3 -m pip install -r requirements.txt
-          python3 ./src/tweets.py -q "nimiq" -o "tweets"
+          python3 ./src/tweets.py -q "criptociudad" -o "criptocity/san-jose"
         env:
           TWITTER_TOKEN: ${{ secrets.TWITTER_TOKEN }}
       - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
-          add: "output/tweets"
+          add: "output/criptocity"
           push: origin main --force

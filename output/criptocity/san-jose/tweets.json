@@ -1,0 +1,32 @@
+[
+  {
+    "tweet": {
+      "content": "\u00a1Atenci\u00f3n peque\u00f1os empresarios! \n\nNos invitarte a nuestro seminario web:\n\nC\u00f3mo Ganar M\u00e1s Clientes Aceptando Criptomonedas En Su Negocio\n\n\u00a1Los primeros 20 comerciantes que se registren y asistan recibir\u00e1n $20!\n\n\ud83d\uddd3\ufe0f21 de abril, 12:00 pm CT\ud83d\uddd3\ufe0f\n\nReg\u00edstrate aqu\u00ed: https://t.co/UEBjFp3Y2o https://t.co/mgZpPh3mHJ",
+      "url": "https://twitter.com/criptociudad/status/1648680094792294408",
+      "created_at": "2023-04-19T13:29:00.000Z"
+    },
+    "user": {
+      "username": "criptociudad",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1626572707264339968/o4UGodJq_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9654917120933533
+    }
+  },
+  {
+    "tweet": {
+      "content": "@CakeDaoSwap @Coredao_Org @Core_002 @Coredao_Eco @CoreDAODailyTW @Coredao_ng @CoreDao_Es @shibawhalesArmy @aveaiofficial @LFGBrothers @Peluti442029 @Aracelly1112 @criptociudad \n\n$CDAO #CORE #CakeDaoSwap",
+      "url": "https://twitter.com/MatarritaJohnny/status/1646393457739440128",
+      "created_at": "2023-04-13T06:02:43.000Z"
+    },
+    "user": {
+      "username": "MatarritaJohnny",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1251674475508183041/V_-_ToS-_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9632856249809265
+    }
+  }
+]

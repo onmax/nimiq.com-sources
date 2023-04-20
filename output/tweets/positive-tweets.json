@@ -1153,5 +1153,95 @@
       "label": "POS",
       "score": 0.992872953414917
     }
+  },
+  {
+    "tweet": {
+      "content": "@NimiqLive @NimiqTR #Nimiq",
+      "url": "https://twitter.com/crismo17/status/1648885062740451329",
+      "created_at": "2023-04-20T03:03:28.000Z"
+    },
+    "user": {
+      "username": "crismo17",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1626480532123971584/vvCMSiuG_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9692139625549316
+    }
+  },
+  {
+    "tweet": {
+      "content": "@nimiq next to where I can take the faucet I did not find ?.....\n\nMy wallet adress:  NQ79 D8UV DBEH 12YN 6M92 FPDD LNKG VQRU K6DA",
+      "url": "https://twitter.com/editing321/status/1648860321199816706",
+      "created_at": "2023-04-20T01:25:09.000Z"
+    },
+    "user": {
+      "username": "editing321",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1631538043558699008/fy6mfVwD_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.7476250529289246
+    }
+  },
+  {
+    "tweet": {
+      "content": "@Crypto_Bull91 @nimiq \u2705 Haven't you bought BabyBNBTiger yet? \ud83d\udc2f\n\n@BabyBNBTiger today I broke a new ATH!\n\nWhile you're waiting, opportunities are going away.\n\nhttps://t.co/0cweOktwVd\n\n\ud83e\udd8aDEXTOOLS\ud83e\udd8a\n\nhttps://t.co/z0PDDZmxzi\n\n\u2705 TELEGRAM \u2705\n\nhttps://t.co/EVuC0lYN1Y\n#589 https://t.co/BFQVex1a10",
+      "url": "https://twitter.com/iyachi002/status/1648814118499938307",
+      "created_at": "2023-04-19T22:21:33.000Z"
+    },
+    "user": {
+      "username": "iyachi002",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1648356870313132033/JuCkUzXN_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.7922813892364502
+    }
+  },
+  {
+    "tweet": {
+      "content": "Sliding all-day with @nimiq https://t.co/JKwbWK6cv7",
+      "url": "https://twitter.com/thats_overnice/status/1648806930326990851",
+      "created_at": "2023-04-19T21:53:00.000Z"
+    },
+    "user": {
+      "username": "thats_overnice",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1648309316263313408/WcSqauPX_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9299669861793518
+    }
+  },
+  {
+    "tweet": {
+      "content": "@SB15920827 Depends a bit about what a time frame we are talking. \n$Nim has released their testnet and I think in q3 Oder q4 we could see the mainnet for #Nimiq 2.0\n\n$Sclp should also release the mainnet for the L1 chain in q3/4\n\nAnd to be honest I am bullish about all the projects because\u2026 https://t.co/uGBtr6XdrU",
+      "url": "https://twitter.com/revolution_coin/status/1648795645849870337",
+      "created_at": "2023-04-19T21:08:09.000Z"
+    },
+    "user": {
+      "username": "revolution_coin",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1582140625318707200/J5Wk-pot_normal.jpg"
+    },
+    "sentiment": {
+      "label": "POS",
+      "score": 0.7116833329200745
+    }
+  },
+  {
+    "tweet": {
+      "content": "@simogattok @cryptogatto2 @coinkit_ @nimiq I didn't know you could do this with #nimiq interesting \ud83e\udd14",
+      "url": "https://twitter.com/naxno_io/status/1648752695656734722",
+      "created_at": "2023-04-19T18:17:29.000Z"
+    },
+    "user": {
+      "username": "naxno_io",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1564353235435114496/qg5kMkg2_normal.jpg"
+    },
+    "sentiment": {
+      "label": "POS",
+      "score": 0.9699305295944214
+    }
   }
 ]

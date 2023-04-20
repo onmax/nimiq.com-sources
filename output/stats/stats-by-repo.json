@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-04-19T18:07:40.911784",
-  "start_date": "2023-03-22T18:06:53.242004",
+  "end_date": "2023-04-20T03:09:45.817159",
+  "start_date": "2023-03-23T03:08:51.232900",
   "repos": [
     {
       "name": "keyguard",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 45,
-      "additions": 1266,
-      "deletions": -397
+      "commits_count": 47,
+      "additions": 1283,
+      "deletions": -411
     },
     {
       "name": "wallet",
@@ -40,9 +40,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 21,
-      "additions": 20033,
-      "deletions": -103220
+      "commits_count": 22,
+      "additions": 20049,
+      "deletions": -103242
     },
     {
       "name": "albatross-monkey-chaos",

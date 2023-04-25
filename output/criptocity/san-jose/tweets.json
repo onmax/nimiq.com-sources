@@ -28,5 +28,35 @@
       "label": "NEU",
       "score": 0.9632856249809265
     }
+  },
+  {
+    "tweet": {
+      "content": "\u00a1\u00daltima oportunidad!\n\n\u00a1Los primeros 20 comerciantes que se registren y asistan recibir\u00e1n $20!  \n\nC\u00f3mo Ganar M\u00e1s Clientes Aceptando Criptomonedas En Su Negocio \n\nReg\u00edstrate aqu\u00ed: https://t.co/UEBjFp3qcQ https://t.co/3tIUIM8K3t",
+      "url": "https://twitter.com/criptociudad/status/1649417759862792192",
+      "created_at": "2023-04-21T14:20:13.000Z"
+    },
+    "user": {
+      "username": "criptociudad",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1626572707264339968/o4UGodJq_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9693220257759094
+    }
+  },
+  {
+    "tweet": {
+      "content": "\u00a1Los primeros 20 comerciantes que se registren y asistan recibir\u00e1n $20!\n\nC\u00f3mo Ganar M\u00e1s Clientes Aceptando Criptomonedas En Su Negocio\n\nReg\u00edstrate aqu\u00ed: https://t.co/UEBjFp3Y2o https://t.co/3tIUIM9hT1",
+      "url": "https://twitter.com/criptociudad/status/1649051803542224898",
+      "created_at": "2023-04-20T14:06:02.000Z"
+    },
+    "user": {
+      "username": "criptociudad",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1626572707264339968/o4UGodJq_normal.jpg"
+    },
+    "sentiment": {
+      "label": "NEU",
+      "score": 0.9744689464569092
+    }
   }
 ]

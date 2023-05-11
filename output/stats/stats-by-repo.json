@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-05-08T03:09:50.418613",
-  "start_date": "2023-04-10T03:08:37.643571",
+  "end_date": "2023-05-11T03:09:32.157481",
+  "start_date": "2023-04-13T03:08:48.305149",
   "repos": [
     {
       "name": "hub",
@@ -10,9 +10,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 55,
-      "additions": 4929,
-      "deletions": -3248
+      "commits_count": 57,
+      "additions": 4968,
+      "deletions": -3259
     },
     {
       "name": "webpack-i18n-tools",
@@ -34,9 +34,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 16,
-      "additions": 6014,
-      "deletions": -103145
+      "commits_count": 17,
+      "additions": 6030,
+      "deletions": -103161
     },
     {
       "name": "albatross-monkey-chaos",

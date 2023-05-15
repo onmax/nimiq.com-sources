@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-05-13T03:09:16.544565",
-  "start_date": "2023-04-15T03:08:25.953427",
+  "end_date": "2023-05-15T03:09:46.483372",
+  "start_date": "2023-04-17T03:09:03.453773",
   "repos": [
     {
       "name": "hub",
@@ -10,9 +10,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 60,
-      "additions": 5046,
-      "deletions": -3302
+      "commits_count": 43,
+      "additions": 2185,
+      "deletions": -1063
     },
     {
       "name": "webpack-i18n-tools",
@@ -22,9 +22,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 21,
-      "additions": 1412,
-      "deletions": -1311
+      "commits_count": 13,
+      "additions": 1278,
+      "deletions": -1140
     },
     {
       "name": "jsonrpc",
@@ -34,9 +34,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 18,
-      "additions": 6043,
-      "deletions": -103174
+      "commits_count": 11,
+      "additions": 1539,
+      "deletions": -165
     },
     {
       "name": "albatross-monkey-chaos",

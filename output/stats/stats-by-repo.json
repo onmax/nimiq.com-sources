@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-06-01T03:28:16.017590",
-  "start_date": "2023-05-04T03:27:08.576921",
+  "end_date": "2023-06-03T03:09:22.975977",
+  "start_date": "2023-05-06T03:08:23.044518",
   "repos": [
     {
       "name": "core-js",
@@ -52,9 +52,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 173,
-      "deletions": -161
+      "commits_count": 10,
+      "additions": 189,
+      "deletions": -177
     }
   ]
 }

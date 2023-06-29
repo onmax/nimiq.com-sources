@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-06-26T03:28:31.178225",
-  "start_date": "2023-05-29T03:27:26.050089",
+  "end_date": "2023-06-29T03:19:22.669425",
+  "start_date": "2023-06-01T03:18:08.343070",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -16,27 +16,27 @@
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 121,
-      "deletions": -890
+      "commits_count": 9,
+      "additions": 455,
+      "deletions": -1153
     },
     {
       "name": "vue-components",
-      "commits_count": 1,
-      "additions": 97,
-      "deletions": -1559
+      "commits_count": 3,
+      "additions": 123,
+      "deletions": -1568
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 2769,
-      "deletions": -2787
+      "commits_count": 36,
+      "additions": 2873,
+      "deletions": -2890
     },
     {
       "name": "php-xpub",
-      "commits_count": 4,
-      "additions": 125,
-      "deletions": -40
+      "commits_count": 12,
+      "additions": 288,
+      "deletions": -100
     },
     {
       "name": "wallet",
@@ -64,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 178,
-      "deletions": -172
+      "commits_count": 10,
+      "additions": 196,
+      "deletions": -184
     }
   ]
 }

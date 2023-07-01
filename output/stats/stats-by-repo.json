@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-06-29T03:19:22.669425",
-  "start_date": "2023-06-01T03:18:08.343070",
+  "end_date": "2023-07-01T03:29:47.909553",
+  "start_date": "2023-06-03T03:28:29.237255",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 36,
-      "additions": 2873,
-      "deletions": -2890
+      "commits_count": 44,
+      "additions": 3023,
+      "deletions": -2933
     },
     {
       "name": "php-xpub",
@@ -64,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 196,
-      "deletions": -184
+      "commits_count": 11,
+      "additions": 218,
+      "deletions": -206
     }
   ]
 }

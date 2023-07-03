@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-07-01T03:29:47.909553",
-  "start_date": "2023-06-03T03:28:29.237255",
+  "end_date": "2023-07-03T03:21:17.321521",
+  "start_date": "2023-06-05T03:20:01.100535",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -16,9 +16,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 9,
-      "additions": 455,
-      "deletions": -1153
+      "commits_count": 6,
+      "additions": 441,
+      "deletions": -1139
     },
     {
       "name": "vue-components",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 44,
-      "additions": 3023,
-      "deletions": -2933
+      "commits_count": 32,
+      "additions": 724,
+      "deletions": -613
     },
     {
       "name": "php-xpub",
@@ -40,9 +40,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 8,
-      "additions": 196,
-      "deletions": -1263
+      "commits_count": 3,
+      "additions": 143,
+      "deletions": -1231
     },
     {
       "name": "jsonrpc",
@@ -58,15 +58,15 @@
     },
     {
       "name": "ten31-pass-api",
-      "commits_count": 1,
-      "additions": 5,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 218,
-      "deletions": -206
+      "commits_count": 9,
+      "additions": 171,
+      "deletions": -165
     }
   ]
 }

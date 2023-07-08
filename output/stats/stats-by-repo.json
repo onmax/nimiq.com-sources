@@ -1,9 +1,15 @@
 {
-  "end_date": "2023-07-06T03:25:42.796809",
-  "start_date": "2023-06-08T03:24:34.356478",
+  "end_date": "2023-07-08T03:24:16.355363",
+  "start_date": "2023-06-10T03:23:21.971947",
   "repos": [
     {
       "name": "nimiq-demo",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "qr-scanner",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -28,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 54,
-      "additions": 5552,
-      "deletions": -4938
+      "commits_count": 62,
+      "additions": 6280,
+      "deletions": -5343
     },
     {
       "name": "php-xpub",
@@ -58,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 192,
-      "deletions": -186
+      "commits_count": 11,
+      "additions": 208,
+      "deletions": -208
     }
   ]
 }

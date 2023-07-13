@@ -1,7 +1,13 @@
 {
-  "end_date": "2023-07-10T03:25:04.025181",
-  "start_date": "2023-06-12T03:24:05.309522",
+  "end_date": "2023-07-13T03:23:52.994249",
+  "start_date": "2023-06-15T03:22:12.762936",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
     {
       "name": "nimiq-demo",
       "commits_count": 0,
@@ -10,6 +16,24 @@
     },
     {
       "name": "qr-scanner",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "nano-api",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "nimiq-utils",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "network",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -34,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 55,
-      "additions": 6023,
-      "deletions": -5074
+      "commits_count": 70,
+      "additions": 23035,
+      "deletions": -6149
     },
     {
       "name": "php-xpub",
@@ -51,12 +75,6 @@
       "deletions": -1459
     },
     {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "establishments-map-ui",
       "commits_count": 0,
       "additions": 0,
@@ -64,9 +82,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 167,
-      "deletions": -161
+      "commits_count": 10,
+      "additions": 186,
+      "deletions": -180
     }
   ]
 }

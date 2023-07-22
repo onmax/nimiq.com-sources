@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-07-20T03:10:31.429395",
-  "start_date": "2023-06-22T03:08:48.057414",
+  "end_date": "2023-07-22T03:09:53.925114",
+  "start_date": "2023-06-24T03:08:24.009331",
   "repos": [
     {
       "name": "core-js",
@@ -47,7 +47,7 @@
     {
       "name": "vue-components",
       "commits_count": 5,
-      "additions": 270,
+      "additions": 269,
       "deletions": -28
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 209,
-      "deletions": -179
+      "commits_count": 11,
+      "additions": 225,
+      "deletions": -201
     }
   ]
 }

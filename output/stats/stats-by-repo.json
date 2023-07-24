@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-07-22T03:09:53.925114",
-  "start_date": "2023-06-24T03:08:24.009331",
+  "end_date": "2023-07-24T03:11:12.585681",
+  "start_date": "2023-06-26T03:09:14.043314",
   "repos": [
     {
       "name": "core-js",
@@ -40,39 +40,45 @@
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 331,
-      "deletions": -260
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "vue-components",
-      "commits_count": 5,
-      "additions": 269,
-      "deletions": -28
+      "commits_count": 3,
+      "additions": 243,
+      "deletions": -19
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 69,
-      "additions": 22806,
-      "deletions": -5998
+      "commits_count": 47,
+      "additions": 18299,
+      "deletions": -1738
     },
     {
       "name": "php-xpub",
-      "commits_count": 12,
-      "additions": 288,
-      "deletions": -100
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 5,
-      "additions": 1068,
-      "deletions": -759
+      "commits_count": 2,
+      "additions": 54,
+      "deletions": -22
     },
     {
       "name": "wallet",
       "commits_count": 8,
       "additions": 363,
       "deletions": -280
+    },
+    {
+      "name": "vue3-components",
+      "commits_count": 3,
+      "additions": 362,
+      "deletions": -22
     },
     {
       "name": "crypto-map",
@@ -82,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 225,
-      "deletions": -201
+      "commits_count": 9,
+      "additions": 183,
+      "deletions": -165
     }
   ]
 }

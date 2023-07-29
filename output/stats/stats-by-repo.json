@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-07-27T03:09:51.194264",
-  "start_date": "2023-06-29T03:08:36.020790",
+  "end_date": "2023-07-29T03:09:19.887600",
+  "start_date": "2023-07-01T03:07:52.918827",
   "repos": [
     {
       "name": "core-js",
@@ -52,9 +52,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 72,
-      "additions": 28199,
-      "deletions": -7380
+      "commits_count": 82,
+      "additions": 28476,
+      "deletions": -7484
     },
     {
       "name": "webpack-i18n-tools",
@@ -88,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 214,
-      "deletions": -190
+      "commits_count": 11,
+      "additions": 236,
+      "deletions": -212
     }
   ]
 }

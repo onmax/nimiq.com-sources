@@ -1,15 +1,9 @@
 {
-  "end_date": "2023-08-03T03:10:42.788604",
-  "start_date": "2023-07-06T03:08:28.855641",
+  "end_date": "2023-08-05T03:10:26.490198",
+  "start_date": "2023-07-08T03:08:27.927953",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "qr-scanner",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -52,9 +46,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 60,
-      "additions": 22309,
-      "deletions": -2902
+      "commits_count": 75,
+      "additions": 23768,
+      "deletions": -4060
     },
     {
       "name": "webpack-i18n-tools",
@@ -69,10 +63,16 @@
       "deletions": -7
     },
     {
-      "name": "jsonrpc",
+      "name": "electrum-client",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
+    },
+    {
+      "name": "jsonrpc",
+      "commits_count": 5,
+      "additions": 298,
+      "deletions": -46
     },
     {
       "name": "vue3-components",
@@ -88,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 209,
-      "deletions": -185
+      "commits_count": 11,
+      "additions": 228,
+      "deletions": -198
     },
     {
       "name": "powersoftau",

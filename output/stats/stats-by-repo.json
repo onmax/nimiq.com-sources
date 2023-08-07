@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-05T03:10:26.490198",
-  "start_date": "2023-07-08T03:08:27.927953",
+  "end_date": "2023-08-07T03:10:17.951932",
+  "start_date": "2023-07-10T03:08:42.314339",
   "repos": [
     {
       "name": "core-js",
@@ -40,21 +40,21 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 3,
-      "additions": 243,
-      "deletions": -19
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 75,
-      "additions": 23768,
-      "deletions": -4060
+      "commits_count": 52,
+      "additions": 3890,
+      "deletions": -2904
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 2,
-      "additions": 54,
-      "deletions": -22
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
@@ -88,9 +88,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 228,
-      "deletions": -198
+      "commits_count": 9,
+      "additions": 170,
+      "deletions": -164
     },
     {
       "name": "powersoftau",

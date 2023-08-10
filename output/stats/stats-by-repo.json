@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-07T03:10:17.951932",
-  "start_date": "2023-07-10T03:08:42.314339",
+  "end_date": "2023-08-10T03:10:12.281807",
+  "start_date": "2023-07-13T03:08:48.716878",
   "repos": [
     {
       "name": "core-js",
@@ -9,19 +9,7 @@
       "deletions": 0
     },
     {
-      "name": "nano-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "network",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -34,9 +22,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 6,
+      "deletions": -6
     },
     {
       "name": "vue-components",
@@ -46,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 52,
-      "additions": 3890,
-      "deletions": -2904
+      "commits_count": 68,
+      "additions": 5789,
+      "deletions": -4422
     },
     {
       "name": "webpack-i18n-tools",
@@ -58,9 +46,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 2,
-      "additions": 17,
-      "deletions": -7
+      "commits_count": 7,
+      "additions": 533,
+      "deletions": -890
     },
     {
       "name": "electrum-client",
@@ -88,12 +76,18 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 170,
-      "deletions": -164
+      "commits_count": 10,
+      "additions": 189,
+      "deletions": -183
     },
     {
       "name": "powersoftau",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "snark-setup",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

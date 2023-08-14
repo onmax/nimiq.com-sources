@@ -1,9 +1,15 @@
 {
-  "end_date": "2023-08-12T03:09:56.463210",
-  "start_date": "2023-07-15T03:08:09.698693",
+  "end_date": "2023-08-14T03:10:03.630777",
+  "start_date": "2023-07-17T03:08:19.711234",
   "repos": [
     {
       "name": "core-js",
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -3
+    },
+    {
+      "name": "jungle-db",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -22,9 +28,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 6,
-      "deletions": -6
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -3
     },
     {
       "name": "vue-components",
@@ -34,15 +40,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 71,
-      "additions": 5814,
-      "deletions": -4441
+      "commits_count": 61,
+      "additions": 4435,
+      "deletions": -3457
     },
     {
       "name": "wallet",
-      "commits_count": 7,
-      "additions": 533,
-      "deletions": -890
+      "commits_count": 5,
+      "additions": 516,
+      "deletions": -883
     },
     {
       "name": "electrum-client",
@@ -58,9 +64,9 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 4,
-      "additions": 366,
-      "deletions": -23
+      "commits_count": 1,
+      "additions": 4,
+      "deletions": -1
     },
     {
       "name": "crypto-map",
@@ -70,9 +76,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 214,
-      "deletions": -214
+      "commits_count": 9,
+      "additions": 178,
+      "deletions": -178
     },
     {
       "name": "powersoftau",

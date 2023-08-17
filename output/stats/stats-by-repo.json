@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-14T03:10:03.630777",
-  "start_date": "2023-07-17T03:08:19.711234",
+  "end_date": "2023-08-17T03:09:50.837479",
+  "start_date": "2023-07-20T03:08:20.042030",
   "repos": [
     {
       "name": "core-js",
@@ -10,12 +10,6 @@
     },
     {
       "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "nimiq-utils",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -40,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 61,
-      "additions": 4435,
-      "deletions": -3457
+      "commits_count": 68,
+      "additions": 6035,
+      "deletions": -4331
     },
     {
       "name": "wallet",
@@ -76,9 +70,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 178,
-      "deletions": -178
+      "commits_count": 10,
+      "additions": 206,
+      "deletions": -200
     },
     {
       "name": "powersoftau",

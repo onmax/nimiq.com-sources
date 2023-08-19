@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-17T03:09:50.837479",
-  "start_date": "2023-07-20T03:08:20.042030",
+  "end_date": "2023-08-19T03:10:50.171390",
+  "start_date": "2023-07-22T03:08:38.035314",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 68,
-      "additions": 6035,
-      "deletions": -4331
+      "commits_count": 79,
+      "additions": 9378,
+      "deletions": -5018
     },
     {
       "name": "wallet",
@@ -70,9 +70,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 206,
-      "deletions": -200
+      "commits_count": 11,
+      "additions": 219,
+      "deletions": -219
     },
     {
       "name": "powersoftau",
@@ -82,6 +82,12 @@
     },
     {
       "name": "snark-setup",
+      "commits_count": 8,
+      "additions": 5311,
+      "deletions": -4248
+    },
+    {
+      "name": "snark-setup-operator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

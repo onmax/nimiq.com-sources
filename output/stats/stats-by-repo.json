@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-19T03:10:50.171390",
-  "start_date": "2023-07-22T03:08:38.035314",
+  "end_date": "2023-08-21T03:10:34.619630",
+  "start_date": "2023-07-24T03:08:30.568804",
   "repos": [
     {
       "name": "core-js",
@@ -10,6 +10,12 @@
     },
     {
       "name": "jungle-db",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "qr-scanner",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -34,9 +40,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 79,
-      "additions": 9378,
-      "deletions": -5018
+      "commits_count": 49,
+      "additions": 8468,
+      "deletions": -4411
     },
     {
       "name": "wallet",
@@ -52,15 +58,15 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 5,
-      "additions": 298,
-      "deletions": -46
+      "commits_count": 4,
+      "additions": 297,
+      "deletions": -45
     },
     {
       "name": "vue3-components",
-      "commits_count": 1,
-      "additions": 4,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "crypto-map",
@@ -70,9 +76,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 219,
-      "deletions": -219
+      "commits_count": 9,
+      "additions": 172,
+      "deletions": -172
     },
     {
       "name": "powersoftau",

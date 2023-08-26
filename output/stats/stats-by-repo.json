@@ -1,18 +1,18 @@
 {
-  "end_date": "2023-08-24T03:10:26.685789",
-  "start_date": "2023-07-27T03:08:26.653071",
+  "end_date": "2023-08-26T03:10:40.824320",
+  "start_date": "2023-07-29T03:08:10.350931",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 4,
+      "additions": 86,
+      "deletions": -15
     },
     {
       "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 7477,
+      "deletions": -6940
     },
     {
       "name": "qr-scanner",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 70,
-      "additions": 8939,
-      "deletions": -4709
+      "commits_count": 78,
+      "additions": 9267,
+      "deletions": -4967
     },
     {
       "name": "webpack-i18n-tools",
@@ -70,9 +70,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 197,
-      "deletions": -191
+      "commits_count": 11,
+      "additions": 230,
+      "deletions": -224
     },
     {
       "name": "powersoftau",
@@ -88,15 +88,15 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 6,
-      "additions": 2996,
-      "deletions": -3525
+      "commits_count": 7,
+      "additions": 3004,
+      "deletions": -3529
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 4,
-      "additions": 17928,
-      "deletions": -2827
+      "commits_count": 9,
+      "additions": 17993,
+      "deletions": -2874
     }
   ]
 }

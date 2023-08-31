@@ -1,12 +1,12 @@
 {
-  "end_date": "2023-08-28T03:10:48.485274",
-  "start_date": "2023-07-31T03:09:05.920024",
+  "end_date": "2023-08-31T03:10:03.919308",
+  "start_date": "2023-08-03T03:08:28.023887",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 6,
+      "additions": 2747,
+      "deletions": -2466
     },
     {
       "name": "jungle-db",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 61,
-      "additions": 7575,
-      "deletions": -3558
+      "commits_count": 81,
+      "additions": 8687,
+      "deletions": -4193
     },
     {
       "name": "webpack-i18n-tools",
@@ -70,9 +70,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 200,
-      "deletions": -200
+      "commits_count": 10,
+      "additions": 219,
+      "deletions": -219
     },
     {
       "name": "powersoftau",

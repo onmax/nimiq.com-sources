@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-08-31T03:10:03.919308",
-  "start_date": "2023-08-03T03:08:28.023887",
+  "end_date": "2023-09-02T03:09:53.020168",
+  "start_date": "2023-08-05T03:08:04.637447",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 81,
-      "additions": 8687,
-      "deletions": -4193
+      "commits_count": 82,
+      "additions": 8689,
+      "deletions": -4195
     },
     {
       "name": "webpack-i18n-tools",
@@ -51,18 +51,6 @@
       "deletions": -1712
     },
     {
-      "name": "electrum-client",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "crypto-map",
       "commits_count": 0,
       "additions": 0,
@@ -70,15 +58,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 219,
-      "deletions": -219
-    },
-    {
-      "name": "powersoftau",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 11,
+      "additions": 235,
+      "deletions": -235
     },
     {
       "name": "snark-setup",

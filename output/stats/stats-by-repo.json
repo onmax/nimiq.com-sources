@@ -1,12 +1,12 @@
 {
-  "end_date": "2023-09-11T03:10:24.693848",
-  "start_date": "2023-08-14T03:08:45.327208",
+  "end_date": "2023-09-14T03:10:28.168708",
+  "start_date": "2023-08-17T03:08:26.326281",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 5,
-      "additions": 2744,
-      "deletions": -2463
+      "commits_count": 6,
+      "additions": 2749,
+      "deletions": -2468
     },
     {
       "name": "jungle-db",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 60,
-      "additions": 3628,
-      "deletions": -1511
+      "commits_count": 89,
+      "additions": 6666,
+      "deletions": -4122
     },
     {
       "name": "webpack-i18n-tools",
@@ -64,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 200,
-      "deletions": -206
+      "commits_count": 10,
+      "additions": 222,
+      "deletions": -228
     },
     {
       "name": "snark-setup",
@@ -76,9 +76,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 6,
-      "additions": 214,
-      "deletions": -789
+      "commits_count": 8,
+      "additions": 332,
+      "deletions": -909
     },
     {
       "name": "snark-setup-coordinator",

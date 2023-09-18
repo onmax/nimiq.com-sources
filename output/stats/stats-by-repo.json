@@ -1,18 +1,18 @@
 {
-  "end_date": "2023-09-16T03:09:54.804137",
-  "start_date": "2023-08-19T03:08:12.817482",
+  "end_date": "2023-09-18T03:10:36.205341",
+  "start_date": "2023-08-21T03:08:54.859151",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 6,
-      "additions": 2749,
-      "deletions": -2468
+      "commits_count": 5,
+      "additions": 2745,
+      "deletions": -2464
     },
     {
       "name": "jungle-db",
-      "commits_count": 3,
-      "additions": 7477,
-      "deletions": -6940
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "qr-scanner",
@@ -28,21 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 91,
-      "additions": 6672,
-      "deletions": -4142
+      "commits_count": 55,
+      "additions": 4701,
+      "deletions": -3037
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
-      "commits_count": 7,
-      "additions": 502,
-      "deletions": -775
+      "commits_count": 5,
+      "additions": 411,
+      "deletions": -505
     },
     {
       "name": "jsonrpc",
@@ -64,27 +64,27 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 241,
-      "deletions": -247
+      "commits_count": 9,
+      "additions": 171,
+      "deletions": -183
     },
     {
       "name": "snark-setup",
-      "commits_count": 2,
-      "additions": 78,
-      "deletions": -658
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 8,
-      "additions": 332,
-      "deletions": -909
+      "commits_count": 2,
+      "additions": 118,
+      "deletions": -120
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 9,
-      "additions": 17993,
-      "deletions": -2874
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     }
   ]
 }

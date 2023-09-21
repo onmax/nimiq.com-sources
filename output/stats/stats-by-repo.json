@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-09-18T03:10:36.205341",
-  "start_date": "2023-08-21T03:08:54.859151",
+  "end_date": "2023-09-21T03:09:53.292742",
+  "start_date": "2023-08-24T03:08:31.715821",
   "repos": [
     {
       "name": "core-js",
@@ -15,12 +15,6 @@
       "deletions": 0
     },
     {
-      "name": "qr-scanner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "hub",
       "commits_count": 1,
       "additions": 3,
@@ -28,15 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 55,
-      "additions": 4701,
-      "deletions": -3037
-    },
-    {
-      "name": "webpack-i18n-tools",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 61,
+      "additions": 8890,
+      "deletions": -7230
     },
     {
       "name": "wallet",
@@ -52,9 +40,9 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 1,
-      "additions": 4,
-      "deletions": -1
+      "commits_count": 2,
+      "additions": 5,
+      "deletions": -2
     },
     {
       "name": "crypto-map",
@@ -64,15 +52,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 171,
-      "deletions": -183
-    },
-    {
-      "name": "snark-setup",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 10,
+      "additions": 205,
+      "deletions": -217
     },
     {
       "name": "snark-setup-operator",

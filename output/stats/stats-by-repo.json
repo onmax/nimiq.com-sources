@@ -1,18 +1,12 @@
 {
-  "end_date": "2023-09-25T03:09:59.102726",
-  "start_date": "2023-08-28T03:08:50.720820",
+  "end_date": "2023-09-28T03:09:54.600384",
+  "start_date": "2023-08-31T03:08:49.516310",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 1,
       "additions": 6,
       "deletions": -6
-    },
-    {
-      "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "hub",
@@ -22,9 +16,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 56,
-      "additions": 8122,
-      "deletions": -7109
+      "commits_count": 61,
+      "additions": 8520,
+      "deletions": -7349
     },
     {
       "name": "wallet",
@@ -52,21 +46,21 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 189,
-      "deletions": -201
+      "commits_count": 10,
+      "additions": 205,
+      "deletions": -217
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 118,
-      "deletions": -120
+      "commits_count": 3,
+      "additions": 205,
+      "deletions": -228
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 70,
+      "deletions": -65
     }
   ]
 }

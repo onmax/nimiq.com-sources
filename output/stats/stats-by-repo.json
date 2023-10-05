@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-02T03:10:05.617270",
-  "start_date": "2023-09-04T03:09:02.417156",
+  "end_date": "2023-10-05T03:10:05.464719",
+  "start_date": "2023-09-07T03:08:37.801714",
   "repos": [
     {
       "name": "core-js",
@@ -33,12 +33,6 @@
       "deletions": 0
     },
     {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "vue3-components",
       "commits_count": 1,
       "additions": 1,
@@ -46,15 +40,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 76,
+      "additions": 6278,
+      "deletions": -5469
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 168,
-      "deletions": -192
+      "commits_count": 10,
+      "additions": 202,
+      "deletions": -220
     },
     {
       "name": "snark-setup-operator",

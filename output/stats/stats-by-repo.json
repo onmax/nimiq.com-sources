@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-09T03:09:44.157552",
-  "start_date": "2023-09-11T03:08:51.519355",
+  "end_date": "2023-10-12T03:09:33.411286",
+  "start_date": "2023-09-14T03:08:47.659580",
   "repos": [
     {
       "name": "core-js",
@@ -15,22 +15,10 @@
       "deletions": -29
     },
     {
-      "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "core-rs-albatross",
-      "commits_count": 14,
-      "additions": 4225,
-      "deletions": -4219
-    },
-    {
-      "name": "wallet",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 27,
+      "additions": 4789,
+      "deletions": -4344
     },
     {
       "name": "vue3-components",
@@ -46,9 +34,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 174,
-      "deletions": -198
+      "commits_count": 10,
+      "additions": 199,
+      "deletions": -223
     },
     {
       "name": "snark-setup-operator",

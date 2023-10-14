@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-12T03:09:33.411286",
-  "start_date": "2023-09-14T03:08:47.659580",
+  "end_date": "2023-10-14T03:09:26.550806",
+  "start_date": "2023-09-16T03:08:26.078887",
   "repos": [
     {
       "name": "core-js",
@@ -15,10 +15,16 @@
       "deletions": -29
     },
     {
+      "name": "keyguard",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "core-rs-albatross",
-      "commits_count": 27,
-      "additions": 4789,
-      "deletions": -4344
+      "commits_count": 28,
+      "additions": 4795,
+      "deletions": -4350
     },
     {
       "name": "vue3-components",
@@ -28,15 +34,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 53,
-      "additions": 4421,
-      "deletions": -3389
+      "commits_count": 55,
+      "additions": 4439,
+      "deletions": -3391
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 199,
-      "deletions": -223
+      "commits_count": 11,
+      "additions": 212,
+      "deletions": -248
     },
     {
       "name": "snark-setup-operator",

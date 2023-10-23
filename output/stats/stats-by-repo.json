@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-21T03:10:32.271005",
-  "start_date": "2023-09-23T03:08:48.591325",
+  "end_date": "2023-10-23T03:10:37.191090",
+  "start_date": "2023-09-25T03:09:04.014318",
   "repos": [
     {
       "name": "core-js",
@@ -10,33 +10,33 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 5,
-      "additions": 91,
-      "deletions": -29
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 28,
+      "additions": 494,
+      "deletions": -33729
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 154,
+      "deletions": -24
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 1334,
-      "deletions": -954
+      "commits_count": 23,
+      "additions": 1272,
+      "deletions": -315
     },
     {
       "name": "wallet",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 10,
+      "additions": 364,
+      "deletions": -189
     },
     {
       "name": "vue3-components",
@@ -46,15 +46,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 46,
-      "additions": 2910,
-      "deletions": -2166
+      "commits_count": 31,
+      "additions": 1334,
+      "deletions": -768
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 221,
-      "deletions": -221
+      "commits_count": 9,
+      "additions": 192,
+      "deletions": -180
     },
     {
       "name": "snark-setup",

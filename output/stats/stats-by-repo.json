@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-26T03:09:46.645604",
-  "start_date": "2023-09-28T03:08:45.464695",
+  "end_date": "2023-10-28T03:09:40.398768",
+  "start_date": "2023-09-30T03:08:48.643824",
   "repos": [
     {
       "name": "core-js",
@@ -46,27 +46,27 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 220,
-      "deletions": -208
+      "commits_count": 11,
+      "additions": 239,
+      "deletions": -233
     },
     {
       "name": "snark-setup",
-      "commits_count": 3,
-      "additions": 232,
-      "deletions": -234
+      "commits_count": 9,
+      "additions": 708,
+      "deletions": -604
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 1750,
+      "deletions": -1555
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 453,
+      "deletions": -17074
     }
   ]
 }

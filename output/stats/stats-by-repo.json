@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-10-30T03:10:03.746919",
-  "start_date": "2023-10-02T03:09:11.185850",
+  "end_date": "2023-11-02T03:10:21.830410",
+  "start_date": "2023-10-05T03:09:05.746871",
   "repos": [
     {
       "name": "core-js",
@@ -10,27 +10,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 28,
-      "additions": 494,
-      "deletions": -33729
+      "commits_count": 31,
+      "additions": 627,
+      "deletions": -33813
     },
     {
       "name": "hub",
-      "commits_count": 3,
-      "additions": 154,
-      "deletions": -24
+      "commits_count": 5,
+      "additions": 220,
+      "deletions": -49
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 18,
-      "additions": 992,
-      "deletions": -207
+      "commits_count": 24,
+      "additions": 1031,
+      "deletions": -246
     },
     {
       "name": "wallet",
-      "commits_count": 11,
-      "additions": 427,
-      "deletions": -216
+      "commits_count": 22,
+      "additions": 1656,
+      "deletions": -877
     },
     {
       "name": "crypto-map",
@@ -40,9 +40,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 198,
-      "deletions": -192
+      "commits_count": 10,
+      "additions": 214,
+      "deletions": -214
     },
     {
       "name": "snark-setup",

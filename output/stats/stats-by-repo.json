@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-11-06T03:10:18.057373",
-  "start_date": "2023-10-09T03:09:16.246492",
+  "end_date": "2023-11-09T03:10:00.220907",
+  "start_date": "2023-10-12T03:08:48.626295",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 16,
-      "additions": 109,
-      "deletions": -91
+      "commits_count": 30,
+      "additions": 484,
+      "deletions": -389
     },
     {
       "name": "wallet",
@@ -33,16 +33,22 @@
       "deletions": -784
     },
     {
+      "name": "cashlink-generator",
+      "commits_count": 3,
+      "additions": 48,
+      "deletions": -348
+    },
+    {
       "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 13,
+      "additions": 1626,
+      "deletions": -1061
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 192,
-      "deletions": -186
+      "commits_count": 10,
+      "additions": 214,
+      "deletions": -208
     },
     {
       "name": "snark-setup",
@@ -52,9 +58,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 1750,
-      "deletions": -1555
+      "commits_count": 3,
+      "additions": 1926,
+      "deletions": -1612
     },
     {
       "name": "snark-setup-coordinator",

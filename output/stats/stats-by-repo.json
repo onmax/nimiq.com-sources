@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-11-11T03:12:52.264749",
-  "start_date": "2023-10-14T03:12:00.416443",
+  "end_date": "2023-11-13T03:10:22.974693",
+  "start_date": "2023-10-16T03:09:17.900200",
   "repos": [
     {
       "name": "core-js",
@@ -22,21 +22,27 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 53,
-      "additions": 1326,
-      "deletions": -1044
+      "commits_count": 49,
+      "additions": 1288,
+      "deletions": -1014
     },
     {
       "name": "wallet",
-      "commits_count": 20,
-      "additions": 1501,
-      "deletions": -784
+      "commits_count": 19,
+      "additions": 1374,
+      "deletions": -779
     },
     {
       "name": "cashlink-generator",
       "commits_count": 3,
       "additions": 48,
       "deletions": -348
+    },
+    {
+      "name": "vue3-components",
+      "commits_count": 2,
+      "additions": 6,
+      "deletions": -9
     },
     {
       "name": "crypto-map",
@@ -46,27 +52,27 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 239,
-      "deletions": -227
+      "commits_count": 9,
+      "additions": 183,
+      "deletions": -189
     },
     {
       "name": "snark-setup",
-      "commits_count": 9,
-      "additions": 708,
-      "deletions": -604
+      "commits_count": 10,
+      "additions": 837,
+      "deletions": -575
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 3,
-      "additions": 1926,
-      "deletions": -1612
+      "commits_count": 7,
+      "additions": 378,
+      "deletions": -86
     },
     {
       "name": "snark-setup-coordinator",
       "commits_count": 10,
-      "additions": 560,
-      "deletions": -17097
+      "additions": 125,
+      "deletions": -277
     }
   ]
 }

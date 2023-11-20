@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-11-18T03:10:39.201555",
-  "start_date": "2023-10-21T03:08:59.948263",
+  "end_date": "2023-11-20T03:11:52.290455",
+  "start_date": "2023-10-23T03:09:33.695788",
   "repos": [
     {
       "name": "core-js",
@@ -10,27 +10,33 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 16,
-      "additions": 236,
-      "deletions": -280
+      "commits_count": 3,
+      "additions": 81,
+      "deletions": -211
     },
     {
       "name": "hub",
-      "commits_count": 5,
-      "additions": 220,
-      "deletions": -49
+      "commits_count": 1,
+      "additions": 13,
+      "deletions": -13
+    },
+    {
+      "name": "vue-components",
+      "commits_count": 1,
+      "additions": 2,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 81,
-      "additions": 5284,
-      "deletions": -2643
+      "commits_count": 97,
+      "additions": 5469,
+      "deletions": -2800
     },
     {
       "name": "wallet",
-      "commits_count": 21,
-      "additions": 1751,
-      "deletions": -1096
+      "commits_count": 10,
+      "additions": 1329,
+      "deletions": -888
     },
     {
       "name": "jsonrpc",
@@ -58,27 +64,27 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 231,
-      "deletions": -231
+      "commits_count": 9,
+      "additions": 193,
+      "deletions": -181
     },
     {
       "name": "snark-setup",
-      "commits_count": 12,
-      "additions": 854,
-      "deletions": -578
+      "commits_count": 4,
+      "additions": 198,
+      "deletions": -13
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 7,
-      "additions": 378,
-      "deletions": -86
+      "commits_count": 6,
+      "additions": 372,
+      "deletions": -80
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 10,
-      "additions": 125,
-      "deletions": -277
+      "commits_count": 8,
+      "additions": 108,
+      "deletions": -24
     }
   ]
 }

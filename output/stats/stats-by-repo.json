@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-11-23T03:10:23.228421",
-  "start_date": "2023-10-26T03:09:01.980546",
+  "end_date": "2023-11-25T03:10:46.757059",
+  "start_date": "2023-10-28T03:09:14.033866",
   "repos": [
     {
       "name": "core-js",
@@ -10,15 +10,15 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 3,
-      "additions": 81,
-      "deletions": -211
+      "commits_count": 4,
+      "additions": 169,
+      "deletions": -283
     },
     {
       "name": "hub",
-      "commits_count": 1,
-      "additions": 13,
-      "deletions": -13
+      "commits_count": 5,
+      "additions": 562,
+      "deletions": -247
     },
     {
       "name": "vue-components",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 129,
-      "additions": 10253,
-      "deletions": -5667
+      "commits_count": 139,
+      "additions": 10857,
+      "deletions": -6201
     },
     {
       "name": "wallet",
@@ -52,8 +52,8 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 2,
-      "additions": 6,
+      "commits_count": 3,
+      "additions": 8,
       "deletions": -9
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 230,
-      "deletions": -212
+      "commits_count": 11,
+      "additions": 246,
+      "deletions": -228
     },
     {
       "name": "snark-setup",

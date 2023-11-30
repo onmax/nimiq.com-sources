@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-11-27T03:11:13.257564",
-  "start_date": "2023-10-30T03:09:20.293138",
+  "end_date": "2023-11-30T03:10:21.125149",
+  "start_date": "2023-11-02T03:09:10.341824",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 132,
-      "additions": 11262,
-      "deletions": -6413
+      "commits_count": 137,
+      "additions": 11305,
+      "deletions": -6468
     },
     {
       "name": "wallet",
@@ -64,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 213,
-      "deletions": -189
+      "commits_count": 10,
+      "additions": 233,
+      "deletions": -209
     },
     {
       "name": "snark-setup",
@@ -85,6 +85,12 @@
       "commits_count": 8,
       "additions": 108,
       "deletions": -24
+    },
+    {
+      "name": "ceremony-attestations",
+      "commits_count": 2,
+      "additions": 25,
+      "deletions": -1
     }
   ]
 }

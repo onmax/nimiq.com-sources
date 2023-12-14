@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-12-11T03:11:10.030590",
-  "start_date": "2023-11-13T03:09:48.754342",
+  "end_date": "2023-12-14T03:10:59.761769",
+  "start_date": "2023-11-16T03:09:22.344447",
   "repos": [
     {
       "name": "core-js",
@@ -28,15 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 58,
-      "additions": 3751,
-      "deletions": -2803
+      "commits_count": 74,
+      "additions": 6800,
+      "deletions": -4715
+    },
+    {
+      "name": "webpack-i18n-tools",
+      "commits_count": 3,
+      "additions": 172,
+      "deletions": -47
     },
     {
       "name": "wallet",
-      "commits_count": 1,
-      "additions": 8,
-      "deletions": -11
+      "commits_count": 3,
+      "additions": 13,
+      "deletions": -13
     },
     {
       "name": "jsonrpc",
@@ -58,9 +64,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 180,
-      "deletions": -174
+      "commits_count": 10,
+      "additions": 212,
+      "deletions": -206
     },
     {
       "name": "snark-setup",

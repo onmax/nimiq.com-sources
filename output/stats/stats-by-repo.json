@@ -1,36 +1,24 @@
 {
-  "end_date": "2023-12-16T03:11:45.687103",
-  "start_date": "2023-11-18T03:09:25.404508",
+  "end_date": "2023-12-18T03:10:56.819975",
+  "start_date": "2023-11-20T03:09:36.383808",
   "repos": [
     {
-      "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "keyguard",
-      "commits_count": 3,
-      "additions": 95,
-      "deletions": -79
+      "commits_count": 2,
+      "additions": 7,
+      "deletions": -7
     },
     {
       "name": "hub",
-      "commits_count": 5,
-      "additions": 560,
-      "deletions": -242
-    },
-    {
-      "name": "vue-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 11,
+      "deletions": -8
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 78,
-      "additions": 6815,
-      "deletions": -4726
+      "commits_count": 44,
+      "additions": 3377,
+      "deletions": -2656
     },
     {
       "name": "webpack-i18n-tools",
@@ -40,9 +28,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 4,
-      "additions": 157,
-      "deletions": -154
+      "commits_count": 2,
+      "additions": 148,
+      "deletions": -142
     },
     {
       "name": "jsonrpc",
@@ -52,15 +40,15 @@
     },
     {
       "name": "vue3-components",
-      "commits_count": 1,
-      "additions": 2,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 234,
-      "deletions": -222
+      "commits_count": 9,
+      "additions": 176,
+      "deletions": -176
     },
     {
       "name": "snark-setup",
@@ -70,9 +58,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 4,
-      "additions": 283,
-      "deletions": -215
+      "commits_count": 2,
+      "additions": 10,
+      "deletions": -18
     },
     {
       "name": "snark-setup-coordinator",

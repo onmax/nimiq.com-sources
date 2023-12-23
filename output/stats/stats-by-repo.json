@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-12-21T03:11:01.103634",
-  "start_date": "2023-11-23T03:09:23.724632",
+  "end_date": "2023-12-23T03:09:56.194592",
+  "start_date": "2023-11-25T03:08:51.090981",
   "repos": [
     {
       "name": "keyguard",
@@ -16,9 +16,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 53,
-      "additions": 3592,
-      "deletions": -2859
+      "commits_count": 60,
+      "additions": 4487,
+      "deletions": -3651
     },
     {
       "name": "webpack-i18n-tools",
@@ -39,16 +39,10 @@
       "deletions": 0
     },
     {
-      "name": "vue3-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 203,
-      "deletions": -215
+      "commits_count": 11,
+      "additions": 216,
+      "deletions": -228
     },
     {
       "name": "snark-setup",

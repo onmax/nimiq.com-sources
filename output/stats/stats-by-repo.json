@@ -1,24 +1,24 @@
 {
-  "end_date": "2023-12-23T03:09:56.194592",
-  "start_date": "2023-11-25T03:08:51.090981",
+  "end_date": "2023-12-25T03:10:47.722120",
+  "start_date": "2023-11-27T03:09:24.317406",
   "repos": [
     {
       "name": "keyguard",
-      "commits_count": 2,
-      "additions": 7,
-      "deletions": -7
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "hub",
-      "commits_count": 1,
-      "additions": 11,
-      "deletions": -8
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 60,
-      "additions": 4487,
-      "deletions": -3651
+      "commits_count": 48,
+      "additions": 4057,
+      "deletions": -3137
     },
     {
       "name": "webpack-i18n-tools",
@@ -40,9 +40,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 216,
-      "deletions": -228
+      "commits_count": 9,
+      "additions": 177,
+      "deletions": -201
     },
     {
       "name": "snark-setup",
@@ -52,9 +52,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 10,
-      "deletions": -18
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "snark-setup-coordinator",
@@ -64,9 +64,9 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 2,
-      "additions": 25,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     }
   ]
 }

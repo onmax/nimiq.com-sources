@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-12-25T03:10:47.722120",
-  "start_date": "2023-11-27T03:09:24.317406",
+  "end_date": "2023-12-28T03:10:37.404571",
+  "start_date": "2023-11-30T03:09:43.689737",
   "repos": [
     {
       "name": "keyguard",
@@ -40,9 +40,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 9,
-      "additions": 177,
-      "deletions": -201
+      "commits_count": 10,
+      "additions": 202,
+      "deletions": -226
     },
     {
       "name": "snark-setup",
@@ -58,12 +58,6 @@
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ceremony-attestations",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

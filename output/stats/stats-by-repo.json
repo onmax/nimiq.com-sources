@@ -1,6 +1,6 @@
 {
-  "end_date": "2023-12-28T03:10:37.404571",
-  "start_date": "2023-11-30T03:09:43.689737",
+  "end_date": "2023-12-30T03:10:10.966418",
+  "start_date": "2023-12-02T03:09:16.173103",
   "repos": [
     {
       "name": "keyguard",
@@ -22,9 +22,9 @@
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 3,
-      "additions": 172,
-      "deletions": -47
+      "commits_count": 8,
+      "additions": 496,
+      "deletions": -339
     },
     {
       "name": "wallet",
@@ -40,9 +40,9 @@
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 202,
-      "deletions": -226
+      "commits_count": 11,
+      "additions": 212,
+      "deletions": -242
     },
     {
       "name": "snark-setup",

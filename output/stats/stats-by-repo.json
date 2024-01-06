@@ -1,24 +1,24 @@
 {
-  "end_date": "2024-01-04T03:10:33.945424",
-  "start_date": "2023-12-07T03:09:40.028180",
+  "end_date": "2024-01-06T03:09:42.002610",
+  "start_date": "2023-12-09T03:09:04.618239",
   "repos": [
     {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 5,
+      "additions": 324,
+      "deletions": -320
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 4,
+      "additions": 28,
+      "deletions": -131
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 44,
-      "additions": 3135,
-      "deletions": -2833
+      "commits_count": 46,
+      "additions": 3177,
+      "deletions": -2854
     },
     {
       "name": "webpack-i18n-tools",
@@ -28,21 +28,15 @@
     },
     {
       "name": "wallet",
-      "commits_count": 2,
-      "additions": 148,
-      "deletions": -142
-    },
-    {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 10,
+      "additions": 887,
+      "deletions": -486
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 187,
-      "deletions": -211
+      "commits_count": 11,
+      "additions": 200,
+      "deletions": -224
     },
     {
       "name": "snark-setup",
@@ -52,12 +46,6 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "snark-setup-coordinator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

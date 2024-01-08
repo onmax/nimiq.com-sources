@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-06T03:09:42.002610",
-  "start_date": "2023-12-09T03:09:04.618239",
+  "end_date": "2024-01-08T03:10:30.385732",
+  "start_date": "2023-12-11T03:09:33.029989",
   "repos": [
     {
       "name": "keyguard",
@@ -16,27 +16,27 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 46,
-      "additions": 3177,
-      "deletions": -2854
+      "commits_count": 26,
+      "additions": 206,
+      "deletions": -172
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 7,
-      "additions": 495,
-      "deletions": -338
+      "commits_count": 5,
+      "additions": 324,
+      "deletions": -292
     },
     {
       "name": "wallet",
-      "commits_count": 10,
-      "additions": 887,
-      "deletions": -486
+      "commits_count": 8,
+      "additions": 351,
+      "deletions": -285
     },
     {
       "name": "nimiq.com-sources",
-      "commits_count": 11,
-      "additions": 200,
-      "deletions": -224
+      "commits_count": 9,
+      "additions": 152,
+      "deletions": -188
     },
     {
       "name": "snark-setup",

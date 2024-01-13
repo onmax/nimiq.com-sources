@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-11T03:10:38.843997",
-  "start_date": "2023-12-14T03:09:31.263147",
+  "end_date": "2024-01-13T03:10:11.137613",
+  "start_date": "2023-12-16T03:09:19.017936",
   "repos": [
     {
       "name": "core-js",
@@ -16,15 +16,15 @@
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 28,
-      "deletions": -131
+      "commits_count": 6,
+      "additions": 274,
+      "deletions": -236
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 35,
-      "additions": 271,
-      "deletions": -235
+      "commits_count": 37,
+      "additions": 290,
+      "deletions": -254
     },
     {
       "name": "php-xpub",
@@ -43,12 +43,6 @@
       "commits_count": 8,
       "additions": 351,
       "deletions": -285
-    },
-    {
-      "name": "nimiq.com-sources",
-      "commits_count": 10,
-      "additions": 171,
-      "deletions": -207
     },
     {
       "name": "snark-setup",

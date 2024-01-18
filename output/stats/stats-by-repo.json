@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-15T03:03:14.951870",
-  "start_date": "2023-12-18T03:02:05.271059",
+  "end_date": "2024-01-18T03:02:54.703063",
+  "start_date": "2023-12-21T03:02:05.039612",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 24,
-      "additions": 185,
-      "deletions": -199
+      "commits_count": 37,
+      "additions": 271,
+      "deletions": -329
     },
     {
       "name": "php-xpub",

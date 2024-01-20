@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-18T03:02:54.703063",
-  "start_date": "2023-12-21T03:02:05.039612",
+  "end_date": "2024-01-20T03:02:49.506065",
+  "start_date": "2023-12-23T03:01:56.332550",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 37,
-      "additions": 271,
-      "deletions": -329
+      "commits_count": 45,
+      "additions": 329,
+      "deletions": -399
     },
     {
       "name": "php-xpub",
@@ -43,6 +43,12 @@
       "commits_count": 8,
       "additions": 351,
       "deletions": -285
+    },
+    {
+      "name": "jsonrpc",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "snark-setup",

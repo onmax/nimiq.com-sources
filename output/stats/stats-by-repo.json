@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-20T03:02:49.506065",
-  "start_date": "2023-12-23T03:01:56.332550",
+  "end_date": "2024-01-22T03:02:42.836485",
+  "start_date": "2023-12-25T03:02:02.368787",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 45,
-      "additions": 329,
-      "deletions": -399
+      "commits_count": 41,
+      "additions": 283,
+      "deletions": -340
     },
     {
       "name": "php-xpub",
@@ -34,9 +34,9 @@
     },
     {
       "name": "webpack-i18n-tools",
-      "commits_count": 4,
-      "additions": 282,
-      "deletions": -240
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",

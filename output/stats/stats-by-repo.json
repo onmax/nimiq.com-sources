@@ -1,9 +1,15 @@
 {
-  "end_date": "2024-01-25T03:03:13.929908",
-  "start_date": "2023-12-28T03:02:03.196585",
+  "end_date": "2024-01-27T03:03:07.310816",
+  "start_date": "2023-12-30T03:02:01.536234",
   "repos": [
     {
       "name": "core-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "qr-creator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -22,15 +28,15 @@
     },
     {
       "name": "hub",
-      "commits_count": 6,
-      "additions": 274,
-      "deletions": -236
+      "commits_count": 8,
+      "additions": 280,
+      "deletions": -242
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 46,
-      "additions": 305,
-      "deletions": -362
+      "commits_count": 75,
+      "additions": 1826,
+      "deletions": -1399
     },
     {
       "name": "php-xpub",
@@ -39,16 +45,10 @@
       "deletions": -14
     },
     {
-      "name": "webpack-i18n-tools",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "wallet",
-      "commits_count": 8,
-      "additions": 351,
-      "deletions": -285
+      "commits_count": 10,
+      "additions": 357,
+      "deletions": -291
     },
     {
       "name": "jsonrpc",
@@ -58,9 +58,9 @@
     },
     {
       "name": "snark-setup",
-      "commits_count": 2,
-      "additions": 10,
-      "deletions": -6
+      "commits_count": 3,
+      "additions": 12,
+      "deletions": -7
     },
     {
       "name": "snark-setup-operator",

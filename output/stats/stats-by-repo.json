@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-01-29T03:03:10.513889",
-  "start_date": "2024-01-01T03:01:56.888800",
+  "end_date": "2024-02-01T03:02:57.420142",
+  "start_date": "2024-01-04T03:01:57.849736",
   "repos": [
     {
       "name": "core-js",
@@ -22,9 +22,9 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 2,
-      "additions": 4,
-      "deletions": -1
+      "commits_count": 4,
+      "additions": 11,
+      "deletions": -13
     },
     {
       "name": "hub",
@@ -33,10 +33,16 @@
       "deletions": -111
     },
     {
+      "name": "vue-components",
+      "commits_count": 1,
+      "additions": 2,
+      "deletions": 0
+    },
+    {
       "name": "core-rs-albatross",
-      "commits_count": 65,
-      "additions": 1890,
-      "deletions": -1406
+      "commits_count": 77,
+      "additions": 2041,
+      "deletions": -1534
     },
     {
       "name": "php-xpub",
@@ -46,9 +52,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 2,
-      "additions": 6,
-      "deletions": -6
+      "commits_count": 8,
+      "additions": 21,
+      "deletions": -13
     },
     {
       "name": "jsonrpc",

@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-02-03T03:03:50.745615",
-  "start_date": "2024-01-06T03:02:54.637746",
+  "end_date": "2024-02-05T03:02:32.848374",
+  "start_date": "2024-01-08T03:02:01.721265",
   "repos": [
     {
       "name": "core-js",
@@ -22,15 +22,15 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 4,
-      "additions": 11,
-      "deletions": -13
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 252,
-      "deletions": -111
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "vue-components",
@@ -40,21 +40,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 85,
-      "additions": 4067,
-      "deletions": -2455
+      "commits_count": 60,
+      "additions": 3018,
+      "deletions": -1693
     },
     {
       "name": "php-xpub",
-      "commits_count": 2,
-      "additions": 21,
-      "deletions": -14
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
-      "commits_count": 8,
-      "additions": 21,
-      "deletions": -13
+      "commits_count": 7,
+      "additions": 18,
+      "deletions": -10
     },
     {
       "name": "jsonrpc",
@@ -64,9 +64,9 @@
     },
     {
       "name": "snark-setup",
-      "commits_count": 5,
-      "additions": 240,
-      "deletions": -251
+      "commits_count": 4,
+      "additions": 231,
+      "deletions": -246
     },
     {
       "name": "snark-setup-operator",

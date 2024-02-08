@@ -1,13 +1,7 @@
 {
-  "end_date": "2024-02-05T03:02:32.848374",
-  "start_date": "2024-01-08T03:02:01.721265",
+  "end_date": "2024-02-08T03:03:12.103730",
+  "start_date": "2024-01-11T03:01:54.546525",
   "repos": [
-    {
-      "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
     {
       "name": "qr-creator",
       "commits_count": 0,
@@ -40,15 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 60,
-      "additions": 3018,
-      "deletions": -1693
-    },
-    {
-      "name": "php-xpub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 76,
+      "additions": 6755,
+      "deletions": -4399
     },
     {
       "name": "wallet",
@@ -70,8 +58,14 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
+      "commits_count": 1,
+      "additions": 166,
+      "deletions": -73
+    },
+    {
+      "name": "ceremony-attestations",
+      "commits_count": 1,
+      "additions": 24,
       "deletions": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-02-15T03:03:18.167535",
-  "start_date": "2024-01-18T03:01:57.417442",
+  "end_date": "2024-02-17T03:02:47.189716",
+  "start_date": "2024-01-20T03:01:54.459179",
   "repos": [
     {
       "name": "qr-creator",
@@ -34,21 +34,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 63,
-      "additions": 6062,
-      "deletions": -3247
+      "commits_count": 87,
+      "additions": 9176,
+      "deletions": -4669
     },
     {
       "name": "wallet",
       "commits_count": 7,
       "additions": 18,
       "deletions": -10
-    },
-    {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "snark-setup",

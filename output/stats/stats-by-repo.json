@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-02-17T03:02:47.189716",
-  "start_date": "2024-01-20T03:01:54.459179",
+  "end_date": "2024-02-19T03:03:29.257262",
+  "start_date": "2024-01-22T03:02:10.036541",
   "repos": [
     {
       "name": "qr-creator",
@@ -10,9 +10,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 5,
-      "additions": 179,
-      "deletions": -356
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -34,33 +34,33 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 87,
-      "additions": 9176,
-      "deletions": -4669
+      "commits_count": 64,
+      "additions": 6426,
+      "deletions": -3491
     },
     {
       "name": "wallet",
-      "commits_count": 7,
-      "additions": 18,
-      "deletions": -10
+      "commits_count": 6,
+      "additions": 15,
+      "deletions": -7
     },
     {
       "name": "snark-setup",
-      "commits_count": 2,
-      "additions": 218,
-      "deletions": -245
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 170,
-      "deletions": -74
+      "commits_count": 1,
+      "additions": 4,
+      "deletions": -1
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 1,
-      "additions": 24,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 26,
+      "deletions": -2
     }
   ]
 }

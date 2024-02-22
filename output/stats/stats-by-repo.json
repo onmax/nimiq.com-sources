@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-02-19T03:03:29.257262",
-  "start_date": "2024-01-22T03:02:10.036541",
+  "end_date": "2024-02-22T03:04:23.939228",
+  "start_date": "2024-01-25T03:02:08.635397",
   "repos": [
     {
       "name": "qr-creator",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 64,
-      "additions": 6426,
-      "deletions": -3491
+      "commits_count": 76,
+      "additions": 6545,
+      "deletions": -3585
     },
     {
       "name": "wallet",
@@ -45,10 +45,22 @@
       "deletions": -7
     },
     {
+      "name": "jsonrpc",
+      "commits_count": 2,
+      "additions": 5,
+      "deletions": -3
+    },
+    {
+      "name": "crypto-map",
+      "commits_count": 2,
+      "additions": 135,
+      "deletions": -25
+    },
+    {
       "name": "snark-setup",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -1
     },
     {
       "name": "snark-setup-operator",
@@ -58,8 +70,8 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 3,
-      "additions": 26,
+      "commits_count": 4,
+      "additions": 27,
       "deletions": -2
     }
   ]

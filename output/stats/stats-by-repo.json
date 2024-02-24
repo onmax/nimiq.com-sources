@@ -1,18 +1,12 @@
 {
-  "end_date": "2024-02-22T03:04:23.939228",
-  "start_date": "2024-01-25T03:02:08.635397",
+  "end_date": "2024-02-24T03:04:04.336010",
+  "start_date": "2024-01-27T03:02:43.897286",
   "repos": [
     {
-      "name": "qr-creator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 243,
+      "deletions": -123
     },
     {
       "name": "keyguard",
@@ -51,10 +45,22 @@
       "deletions": -3
     },
     {
+      "name": "fastspot-api",
+      "commits_count": 1,
+      "additions": 11,
+      "deletions": -8
+    },
+    {
+      "name": "libswap-js",
+      "commits_count": 1,
+      "additions": 7,
+      "deletions": -5
+    },
+    {
       "name": "crypto-map",
-      "commits_count": 2,
-      "additions": 135,
-      "deletions": -25
+      "commits_count": 6,
+      "additions": 3457,
+      "deletions": -3155
     },
     {
       "name": "snark-setup",

@@ -1,36 +1,36 @@
 {
-  "end_date": "2024-03-04T03:21:56.770048",
-  "start_date": "2024-02-05T03:20:32.373959",
+  "end_date": "2024-03-07T03:03:35.694198",
+  "start_date": "2024-02-08T03:01:48.067335",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 4,
-      "additions": 261,
-      "deletions": -140
+      "commits_count": 9,
+      "additions": 548,
+      "deletions": -226
     },
     {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 14,
+      "additions": 443,
+      "deletions": -273
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 10,
+      "additions": 226,
+      "deletions": -146
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 45,
-      "additions": 1315,
-      "deletions": -1410
+      "commits_count": 64,
+      "additions": 1510,
+      "deletions": -1561
     },
     {
       "name": "wallet",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 16,
+      "additions": 3440,
+      "deletions": -2392
     },
     {
       "name": "jsonrpc",

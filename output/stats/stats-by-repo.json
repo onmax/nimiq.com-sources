@@ -1,24 +1,24 @@
 {
-  "end_date": "2024-03-16T03:03:40.547251",
-  "start_date": "2024-02-17T03:02:06.132913",
+  "end_date": "2024-03-18T03:03:28.981645",
+  "start_date": "2024-02-19T03:02:15.913526",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 9,
-      "additions": 548,
-      "deletions": -226
+      "commits_count": 7,
+      "additions": 306,
+      "deletions": -104
     },
     {
       "name": "keyguard",
-      "commits_count": 15,
-      "additions": 445,
-      "deletions": -275
+      "commits_count": 10,
+      "additions": 310,
+      "deletions": -173
     },
     {
       "name": "hub",
-      "commits_count": 10,
-      "additions": 226,
-      "deletions": -146
+      "commits_count": 8,
+      "additions": 195,
+      "deletions": -128
     },
     {
       "name": "vue-components",
@@ -28,45 +28,45 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 64,
-      "additions": 1308,
-      "deletions": -1261
+      "commits_count": 48,
+      "additions": 778,
+      "deletions": -615
     },
     {
       "name": "wallet",
-      "commits_count": 36,
-      "additions": 5365,
-      "deletions": -4353
+      "commits_count": 34,
+      "additions": 5126,
+      "deletions": -4316
     },
     {
       "name": "jsonrpc",
-      "commits_count": 4,
-      "additions": 47,
-      "deletions": -42
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "fastspot-api",
-      "commits_count": 2,
-      "additions": 12,
-      "deletions": -9
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "libswap-js",
-      "commits_count": 2,
-      "additions": 8,
-      "deletions": -6
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "crypto-map",
-      "commits_count": 13,
-      "additions": 4596,
-      "deletions": -3989
+      "commits_count": 7,
+      "additions": 1139,
+      "deletions": -834
     },
     {
       "name": "snark-setup",
-      "commits_count": 1,
-      "additions": 3,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "snark-setup-operator",
@@ -76,9 +76,9 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 3,
-      "additions": 3,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     }
   ]
 }

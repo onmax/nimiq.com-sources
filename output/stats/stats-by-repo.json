@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-03-18T03:03:28.981645",
-  "start_date": "2024-02-19T03:02:15.913526",
+  "end_date": "2024-03-21T03:03:39.051471",
+  "start_date": "2024-02-22T03:01:59.259784",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 48,
-      "additions": 778,
-      "deletions": -615
+      "commits_count": 51,
+      "additions": 1048,
+      "deletions": -849
     },
     {
       "name": "wallet",
@@ -63,19 +63,7 @@
       "deletions": -834
     },
     {
-      "name": "snark-setup",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ceremony-attestations",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

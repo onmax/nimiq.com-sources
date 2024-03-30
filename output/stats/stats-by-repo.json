@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-03-28T03:03:00.669772",
-  "start_date": "2024-02-29T03:01:53.164639",
+  "end_date": "2024-03-30T03:03:28.429043",
+  "start_date": "2024-03-02T03:02:11.759974",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -34,9 +34,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 25,
-      "additions": 4002,
-      "deletions": -3753
+      "commits_count": 29,
+      "additions": 4081,
+      "deletions": -3831
     },
     {
       "name": "jsonrpc",

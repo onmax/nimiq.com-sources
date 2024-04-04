@@ -1,7 +1,13 @@
 {
-  "end_date": "2024-04-01T03:03:28.388288",
-  "start_date": "2024-03-04T03:02:08.767379",
+  "end_date": "2024-04-04T03:03:12.584507",
+  "start_date": "2024-03-07T03:01:57.050764",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
     {
       "name": "qr-scanner",
       "commits_count": 0,
@@ -40,15 +46,15 @@
     },
     {
       "name": "vote",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 3,
+      "deletions": -2
     },
     {
       "name": "wallet",
-      "commits_count": 4,
-      "additions": 79,
-      "deletions": -78
+      "commits_count": 5,
+      "additions": 109,
+      "deletions": -81
     },
     {
       "name": "jsonrpc",
@@ -70,15 +76,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 2,
-      "additions": 139,
-      "deletions": -197
+      "commits_count": 6,
+      "additions": 162,
+      "deletions": -201
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 12,
-      "additions": 2335,
-      "deletions": -1388
+      "commits_count": 13,
+      "additions": 2435,
+      "deletions": -1416
     }
   ]
 }

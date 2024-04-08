@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-06T03:03:53.750459",
-  "start_date": "2024-03-09T03:01:56.127991",
+  "end_date": "2024-04-08T03:03:44.379133",
+  "start_date": "2024-03-11T03:02:15.792298",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 34,
-      "additions": 693,
-      "deletions": -524
+      "commits_count": 21,
+      "additions": 288,
+      "deletions": -256
     },
     {
       "name": "vote",
@@ -70,15 +70,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 6,
-      "additions": 162,
-      "deletions": -201
+      "commits_count": 4,
+      "additions": 23,
+      "deletions": -4
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 13,
-      "additions": 2435,
-      "deletions": -1416
+      "commits_count": 11,
+      "additions": 2072,
+      "deletions": -1414
     },
     {
       "name": "ceremony-attestations",
@@ -88,9 +88,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 101,
-      "additions": 12506,
-      "deletions": -10419
+      "commits_count": 76,
+      "additions": 10455,
+      "deletions": -8963
     }
   ]
 }

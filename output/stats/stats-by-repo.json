@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-08T03:03:44.379133",
-  "start_date": "2024-03-11T03:02:15.792298",
+  "end_date": "2024-04-11T03:03:38.316783",
+  "start_date": "2024-03-14T03:02:02.877457",
   "repos": [
     {
       "name": "core-js",
@@ -16,27 +16,27 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 3,
+      "additions": 34,
+      "deletions": -4
     },
     {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 7,
+      "deletions": -6
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 21,
-      "additions": 288,
-      "deletions": -256
+      "commits_count": 23,
+      "additions": 295,
+      "deletions": -263
     },
     {
       "name": "vote",
@@ -46,9 +46,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 5,
-      "additions": 109,
-      "deletions": -81
+      "commits_count": 7,
+      "additions": 464,
+      "deletions": -412
     },
     {
       "name": "jsonrpc",
@@ -58,12 +58,6 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "libswap-js",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -82,15 +76,15 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 2,
-      "additions": 80,
+      "commits_count": 3,
+      "additions": 84,
       "deletions": -27
     },
     {
       "name": "developer-center",
-      "commits_count": 76,
-      "additions": 10455,
-      "deletions": -8963
+      "commits_count": 110,
+      "additions": 11758,
+      "deletions": -10223
     }
   ]
 }

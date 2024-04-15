@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-13T03:03:26.636145",
-  "start_date": "2024-03-16T03:01:52.393039",
+  "end_date": "2024-04-15T03:55:57.042258",
+  "start_date": "2024-03-18T03:54:53.480764",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 35,
-      "additions": 561,
-      "deletions": -433
+      "commits_count": 27,
+      "additions": 399,
+      "deletions": -301
     },
     {
       "name": "vote",
@@ -52,9 +52,9 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 3,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "fastspot-api",
@@ -70,9 +70,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 11,
-      "additions": 2072,
-      "deletions": -1414
+      "commits_count": 7,
+      "additions": 899,
+      "deletions": -715
     },
     {
       "name": "ceremony-attestations",
@@ -82,9 +82,15 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 124,
-      "additions": 11987,
-      "deletions": -10322
+      "commits_count": 75,
+      "additions": 6263,
+      "deletions": -7847
+    },
+    {
+      "name": "validator-registration-tool",
+      "commits_count": 5,
+      "additions": 1324,
+      "deletions": -4
     }
   ]
 }

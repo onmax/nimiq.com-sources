@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-15T03:55:57.042258",
-  "start_date": "2024-03-18T03:54:53.480764",
+  "end_date": "2024-04-18T03:03:25.131751",
+  "start_date": "2024-03-21T03:02:03.035212",
   "repos": [
     {
       "name": "core-js",
@@ -57,16 +57,10 @@
       "deletions": 0
     },
     {
-      "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "crypto-map",
-      "commits_count": 12,
-      "additions": 3062,
-      "deletions": -876
+      "commits_count": 16,
+      "additions": 3259,
+      "deletions": -1100
     },
     {
       "name": "snark-setup-operator",
@@ -82,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 75,
-      "additions": 6263,
-      "deletions": -7847
+      "commits_count": 82,
+      "additions": 6362,
+      "deletions": -7947
     },
     {
       "name": "validator-registration-tool",

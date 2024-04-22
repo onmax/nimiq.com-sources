@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-20T03:03:28.260658",
-  "start_date": "2024-03-23T03:01:57.940054",
+  "end_date": "2024-04-22T03:03:45.579484",
+  "start_date": "2024-03-25T03:02:06.767735",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 33,
-      "additions": 477,
-      "deletions": -379
+      "commits_count": 25,
+      "additions": 488,
+      "deletions": -416
     },
     {
       "name": "vote",
@@ -46,9 +46,15 @@
     },
     {
       "name": "wallet",
-      "commits_count": 42,
-      "additions": 9359,
-      "deletions": -4467
+      "commits_count": 40,
+      "additions": 9674,
+      "deletions": -4783
+    },
+    {
+      "name": "oasis-api-js",
+      "commits_count": 1,
+      "additions": 109,
+      "deletions": 0
     },
     {
       "name": "crypto-map",
@@ -58,9 +64,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 7,
-      "additions": 899,
-      "deletions": -715
+      "commits_count": 1,
+      "additions": 100,
+      "deletions": -28
     },
     {
       "name": "ceremony-attestations",
@@ -70,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 82,
-      "additions": 6362,
-      "deletions": -7947
+      "commits_count": 69,
+      "additions": 1719,
+      "deletions": -1522
     },
     {
       "name": "validator-registration-tool",

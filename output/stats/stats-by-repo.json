@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-22T03:03:45.579484",
-  "start_date": "2024-03-25T03:02:06.767735",
+  "end_date": "2024-04-25T03:04:15.404235",
+  "start_date": "2024-03-28T03:02:05.878507",
   "repos": [
     {
       "name": "core-js",
@@ -16,9 +16,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 3,
-      "additions": 34,
-      "deletions": -4
+      "commits_count": 18,
+      "additions": 1411,
+      "deletions": -1037
     },
     {
       "name": "keyguard",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 25,
-      "additions": 488,
-      "deletions": -416
+      "commits_count": 40,
+      "additions": 320050,
+      "deletions": -14727
     },
     {
       "name": "vote",
@@ -46,9 +46,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 40,
-      "additions": 9674,
-      "deletions": -4783
+      "commits_count": 47,
+      "additions": 10486,
+      "deletions": -5667
     },
     {
       "name": "oasis-api-js",
@@ -70,9 +70,9 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 3,
-      "additions": 84,
-      "deletions": -27
+      "commits_count": 6,
+      "additions": 210,
+      "deletions": -86
     },
     {
       "name": "developer-center",

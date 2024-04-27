@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-25T03:04:15.404235",
-  "start_date": "2024-03-28T03:02:05.878507",
+  "end_date": "2024-04-27T03:04:03.225359",
+  "start_date": "2024-03-30T03:02:49.124730",
   "repos": [
     {
       "name": "core-js",
@@ -16,9 +16,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 18,
-      "additions": 1411,
-      "deletions": -1037
+      "commits_count": 20,
+      "additions": 1491,
+      "deletions": -1078
     },
     {
       "name": "keyguard",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 40,
-      "additions": 320050,
-      "deletions": -14727
+      "commits_count": 42,
+      "additions": 320063,
+      "deletions": -14736
     },
     {
       "name": "vote",
@@ -46,9 +46,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 47,
-      "additions": 10486,
-      "deletions": -5667
+      "commits_count": 54,
+      "additions": 10610,
+      "deletions": -5749
     },
     {
       "name": "oasis-api-js",
@@ -76,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 69,
-      "additions": 1719,
-      "deletions": -1522
+      "commits_count": 75,
+      "additions": 1756,
+      "deletions": -1551
     },
     {
       "name": "validator-registration-tool",

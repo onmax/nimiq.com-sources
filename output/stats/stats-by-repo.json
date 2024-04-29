@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-27T03:04:03.225359",
-  "start_date": "2024-03-30T03:02:49.124730",
+  "end_date": "2024-04-29T03:03:30.429436",
+  "start_date": "2024-04-01T03:02:06.345598",
   "repos": [
     {
       "name": "core-js",
@@ -9,16 +9,10 @@
       "deletions": 0
     },
     {
-      "name": "qr-scanner",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "nimiq-utils",
-      "commits_count": 20,
-      "additions": 1491,
-      "deletions": -1078
+      "commits_count": 16,
+      "additions": 1391,
+      "deletions": -991
     },
     {
       "name": "keyguard",
@@ -34,21 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 42,
-      "additions": 320063,
-      "deletions": -14736
+      "commits_count": 38,
+      "additions": 320024,
+      "deletions": -14697
     },
     {
       "name": "vote",
-      "commits_count": 2,
-      "additions": 3,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
-      "commits_count": 54,
-      "additions": 10610,
-      "deletions": -5749
+      "commits_count": 47,
+      "additions": 10165,
+      "deletions": -5692
     },
     {
       "name": "oasis-api-js",
@@ -58,27 +52,27 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 16,
-      "additions": 3259,
-      "deletions": -1100
+      "commits_count": 12,
+      "additions": 3236,
+      "deletions": -1096
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 1,
-      "additions": 100,
-      "deletions": -28
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 6,
-      "additions": 210,
-      "deletions": -86
+      "commits_count": 4,
+      "additions": 130,
+      "deletions": -59
     },
     {
       "name": "developer-center",
-      "commits_count": 75,
-      "additions": 1756,
-      "deletions": -1551
+      "commits_count": 68,
+      "additions": 1584,
+      "deletions": -1515
     },
     {
       "name": "validator-registration-tool",

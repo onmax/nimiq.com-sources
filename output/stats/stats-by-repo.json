@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-04-29T03:03:30.429436",
-  "start_date": "2024-04-01T03:02:06.345598",
+  "end_date": "2024-05-02T03:04:02.046058",
+  "start_date": "2024-04-04T03:02:09.674607",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 38,
-      "additions": 320024,
-      "deletions": -14697
+      "commits_count": 48,
+      "additions": 320172,
+      "deletions": -14787
     },
     {
       "name": "vote",
@@ -40,14 +40,20 @@
     },
     {
       "name": "wallet",
-      "commits_count": 47,
-      "additions": 10165,
-      "deletions": -5692
+      "commits_count": 48,
+      "additions": 10201,
+      "deletions": -5724
     },
     {
       "name": "oasis-api-js",
       "commits_count": 1,
       "additions": 109,
+      "deletions": 0
+    },
+    {
+      "name": "libswap-js",
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
@@ -70,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 68,
-      "additions": 1584,
-      "deletions": -1515
+      "commits_count": 70,
+      "additions": 1607,
+      "deletions": -1541
     },
     {
       "name": "validator-registration-tool",

@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-02T03:04:02.046058",
-  "start_date": "2024-04-04T03:02:09.674607",
+  "end_date": "2024-05-04T03:03:16.903509",
+  "start_date": "2024-04-06T03:01:55.381972",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 48,
-      "additions": 320172,
-      "deletions": -14787
+      "commits_count": 57,
+      "additions": 320386,
+      "deletions": -14992
     },
     {
       "name": "vote",

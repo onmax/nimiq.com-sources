@@ -1,13 +1,7 @@
 {
-  "end_date": "2024-05-06T03:03:04.061384",
-  "start_date": "2024-04-08T03:02:02.697809",
+  "end_date": "2024-05-09T03:04:20.210557",
+  "start_date": "2024-04-11T03:02:00.797668",
   "repos": [
-    {
-      "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
     {
       "name": "nimiq-utils",
       "commits_count": 6,
@@ -28,15 +22,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 43,
-      "additions": 320113,
-      "deletions": -14815
+      "commits_count": 63,
+      "additions": 320342,
+      "deletions": -15035
     },
     {
       "name": "wallet",
       "commits_count": 28,
       "additions": 6553,
       "deletions": -5197
+    },
+    {
+      "name": "fastspot-api",
+      "commits_count": 2,
+      "additions": 2,
+      "deletions": -2
     },
     {
       "name": "oasis-api-js",
@@ -49,6 +49,12 @@
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
+    },
+    {
+      "name": "cashlink-generator",
+      "commits_count": 5,
+      "additions": 1910,
+      "deletions": -49
     },
     {
       "name": "crypto-map",
@@ -70,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 20,
-      "additions": 170,
-      "deletions": -169
+      "commits_count": 36,
+      "additions": 850,
+      "deletions": -487
     },
     {
       "name": "validator-registration-tool",

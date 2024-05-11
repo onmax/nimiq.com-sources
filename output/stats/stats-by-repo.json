@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-09T03:04:20.210557",
-  "start_date": "2024-04-11T03:02:00.797668",
+  "end_date": "2024-05-11T03:02:58.192406",
+  "start_date": "2024-04-13T03:01:53.957453",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -16,15 +16,15 @@
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 230,
+      "deletions": -253
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 63,
-      "additions": 320342,
-      "deletions": -15035
+      "commits_count": 66,
+      "additions": 320429,
+      "deletions": -15145
     },
     {
       "name": "wallet",
@@ -52,8 +52,8 @@
     },
     {
       "name": "cashlink-generator",
-      "commits_count": 5,
-      "additions": 1910,
+      "commits_count": 6,
+      "additions": 1932,
       "deletions": -49
     },
     {
@@ -76,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 36,
-      "additions": 850,
-      "deletions": -487
+      "commits_count": 51,
+      "additions": 6892,
+      "deletions": -5219
     },
     {
       "name": "validator-registration-tool",

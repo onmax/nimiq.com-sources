@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-13T03:04:10.789384",
-  "start_date": "2024-04-15T03:02:09.875302",
+  "end_date": "2024-05-16T03:03:30.249621",
+  "start_date": "2024-04-18T03:02:03.471244",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 56,
-      "additions": 320130,
-      "deletions": -14916
+      "commits_count": 68,
+      "additions": 320499,
+      "deletions": -15194
     },
     {
       "name": "wallet",
@@ -58,15 +58,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 20,
+      "additions": 15982,
+      "deletions": -14854
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 5,
+      "deletions": -2
     },
     {
       "name": "ceremony-attestations",
@@ -76,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 39,
-      "additions": 6783,
-      "deletions": -5105
+      "commits_count": 51,
+      "additions": 17885,
+      "deletions": -17374
     },
     {
       "name": "validator-registration-tool",

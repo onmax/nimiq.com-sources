@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-18T03:04:09.547680",
-  "start_date": "2024-04-20T03:01:57.686330",
+  "end_date": "2024-05-20T03:03:33.176559",
+  "start_date": "2024-04-22T03:02:25.983321",
   "repos": [
     {
       "name": "community",
@@ -10,9 +10,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 2,
-      "additions": 80,
-      "deletions": -41
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -28,27 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 83,
-      "additions": 320860,
-      "deletions": -15437
+      "commits_count": 61,
+      "additions": 1164,
+      "deletions": -1027
     },
     {
       "name": "wallet",
-      "commits_count": 16,
-      "additions": 1242,
-      "deletions": -1279
+      "commits_count": 1,
+      "additions": 36,
+      "deletions": -32
     },
     {
       "name": "fastspot-api",
       "commits_count": 2,
       "additions": 2,
       "deletions": -2
-    },
-    {
-      "name": "oasis-api-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "libswap-js",
@@ -70,21 +64,21 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 1,
-      "additions": 5,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 3,
-      "additions": 126,
-      "deletions": -59
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 52,
-      "additions": 17928,
-      "deletions": -17381
+      "commits_count": 46,
+      "additions": 17890,
+      "deletions": -17352
     }
   ]
 }

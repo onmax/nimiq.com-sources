@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-20T03:03:33.176559",
-  "start_date": "2024-04-22T03:02:25.983321",
+  "end_date": "2024-05-23T03:03:37.317267",
+  "start_date": "2024-04-25T03:02:10.276470",
   "repos": [
     {
       "name": "community",
@@ -28,15 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 61,
-      "additions": 1164,
-      "deletions": -1027
+      "commits_count": 82,
+      "additions": 1587,
+      "deletions": -1355
     },
     {
       "name": "wallet",
       "commits_count": 1,
       "additions": 36,
       "deletions": -32
+    },
+    {
+      "name": "jsonrpc",
+      "commits_count": 6,
+      "additions": 176,
+      "deletions": -81
     },
     {
       "name": "fastspot-api",
@@ -63,22 +69,34 @@
       "deletions": -14854
     },
     {
-      "name": "snark-setup-operator",
+      "name": "oasis-bank-list",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
-      "name": "ceremony-attestations",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "name": "snark-setup-operator",
+      "commits_count": 4,
+      "additions": 840,
+      "deletions": -234
+    },
+    {
+      "name": "snark-setup-coordinator",
+      "commits_count": 4,
+      "additions": 225,
+      "deletions": -27
     },
     {
       "name": "developer-center",
       "commits_count": 46,
       "additions": 17890,
       "deletions": -17352
+    },
+    {
+      "name": "postcard-bytes",
+      "commits_count": 11,
+      "additions": 6702,
+      "deletions": -6552
     }
   ]
 }

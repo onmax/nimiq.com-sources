@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-25T03:04:05.746102",
-  "start_date": "2024-04-27T03:01:58.069356",
+  "end_date": "2024-05-27T03:03:43.682944",
+  "start_date": "2024-04-29T03:02:05.842905",
   "repos": [
     {
       "name": "community",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 82,
-      "additions": 1587,
-      "deletions": -1355
+      "commits_count": 62,
+      "additions": 1223,
+      "deletions": -1083
     },
     {
       "name": "wallet",
-      "commits_count": 1,
-      "additions": 36,
-      "deletions": -32
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "jsonrpc",
@@ -82,9 +82,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 46,
-      "additions": 17890,
-      "deletions": -17352
+      "commits_count": 30,
+      "additions": 17191,
+      "deletions": -17012
     },
     {
       "name": "postcard-bytes",

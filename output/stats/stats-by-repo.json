@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-05-27T03:03:43.682944",
-  "start_date": "2024-04-29T03:02:05.842905",
+  "end_date": "2024-05-30T03:03:32.647642",
+  "start_date": "2024-05-02T03:02:04.213509",
   "repos": [
     {
       "name": "community",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 62,
-      "additions": 1223,
-      "deletions": -1083
+      "commits_count": 79,
+      "additions": 1551,
+      "deletions": -1457
     },
     {
       "name": "wallet",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 16,
+      "additions": 842,
+      "deletions": -373
     },
     {
       "name": "jsonrpc",
@@ -45,10 +45,10 @@
       "deletions": -2
     },
     {
-      "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "name": "frontend-release-notes",
+      "commits_count": 1,
+      "additions": 10,
+      "deletions": -1
     },
     {
       "name": "cashlink-generator",
@@ -70,9 +70,9 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 4,
-      "additions": 840,
-      "deletions": -234
+      "commits_count": 7,
+      "additions": 917,
+      "deletions": -268
     },
     {
       "name": "snark-setup-coordinator",
@@ -82,9 +82,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 30,
-      "additions": 17191,
-      "deletions": -17012
+      "commits_count": 61,
+      "additions": 18061,
+      "deletions": -17377
     },
     {
       "name": "postcard-bytes",

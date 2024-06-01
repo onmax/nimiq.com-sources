@@ -1,7 +1,19 @@
 {
-  "end_date": "2024-05-30T03:03:32.647642",
-  "start_date": "2024-05-02T03:02:04.213509",
+  "end_date": "2024-06-01T03:03:48.368178",
+  "start_date": "2024-05-04T03:01:58.145972",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 2,
+      "additions": 53,
+      "deletions": -23
+    },
+    {
+      "name": "jungle-db",
+      "commits_count": 2,
+      "additions": 7238,
+      "deletions": -7403
+    },
     {
       "name": "community",
       "commits_count": 0,
@@ -22,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 79,
-      "additions": 1551,
-      "deletions": -1457
+      "commits_count": 80,
+      "additions": 1554,
+      "deletions": -1459
     },
     {
       "name": "wallet",

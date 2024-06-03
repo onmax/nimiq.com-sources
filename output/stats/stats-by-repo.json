@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-01T03:03:48.368178",
-  "start_date": "2024-05-04T03:01:58.145972",
+  "end_date": "2024-06-03T03:03:33.194924",
+  "start_date": "2024-05-06T03:01:57.404888",
   "repos": [
     {
       "name": "core-js",
@@ -28,21 +28,21 @@
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 230,
-      "deletions": -253
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 80,
-      "additions": 1554,
-      "deletions": -1459
+      "commits_count": 56,
+      "additions": 1082,
+      "deletions": -907
     },
     {
       "name": "wallet",
-      "commits_count": 16,
-      "additions": 842,
-      "deletions": -373
+      "commits_count": 15,
+      "additions": 695,
+      "deletions": -371
     },
     {
       "name": "jsonrpc",
@@ -52,9 +52,9 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 2,
-      "additions": 2,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "frontend-release-notes",
@@ -64,15 +64,15 @@
     },
     {
       "name": "cashlink-generator",
-      "commits_count": 6,
-      "additions": 1932,
-      "deletions": -49
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "crypto-map",
-      "commits_count": 20,
-      "additions": 15982,
-      "deletions": -14854
+      "commits_count": 17,
+      "additions": 9764,
+      "deletions": -7947
     },
     {
       "name": "oasis-bank-list",
@@ -82,21 +82,21 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 7,
-      "additions": 917,
-      "deletions": -268
+      "commits_count": 6,
+      "additions": 473,
+      "deletions": -72
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 4,
-      "additions": 225,
-      "deletions": -27
+      "commits_count": 5,
+      "additions": 334,
+      "deletions": -37
     },
     {
       "name": "developer-center",
-      "commits_count": 61,
-      "additions": 18061,
-      "deletions": -17377
+      "commits_count": 44,
+      "additions": 12015,
+      "deletions": -12641
     },
     {
       "name": "postcard-bytes",

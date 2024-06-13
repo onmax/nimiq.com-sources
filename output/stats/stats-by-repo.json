@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-10T03:04:24.889135",
-  "start_date": "2024-05-13T03:02:02.827941",
+  "end_date": "2024-06-13T03:03:49.836717",
+  "start_date": "2024-05-16T03:02:02.967258",
   "repos": [
     {
       "name": "core-js",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 40,
-      "additions": 2316,
-      "deletions": -2322
+      "commits_count": 74,
+      "additions": 3366,
+      "deletions": -3182
     },
     {
       "name": "wallet",
-      "commits_count": 12,
-      "additions": 447,
-      "deletions": -307
+      "commits_count": 19,
+      "additions": 699,
+      "deletions": -380
     },
     {
       "name": "jsonrpc",
@@ -58,12 +58,6 @@
     },
     {
       "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "crypto-map",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

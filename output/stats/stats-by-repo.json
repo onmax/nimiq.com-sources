@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-15T03:03:38.865871",
-  "start_date": "2024-05-18T03:02:00.198338",
+  "end_date": "2024-06-17T03:03:50.167247",
+  "start_date": "2024-05-20T03:02:20.723276",
   "repos": [
     {
       "name": "core-js",
@@ -28,21 +28,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 89,
-      "additions": 3625,
-      "deletions": -3960
+      "commits_count": 70,
+      "additions": 3065,
+      "deletions": -3594
     },
     {
       "name": "wallet",
-      "commits_count": 28,
-      "additions": 1247,
-      "deletions": -708
+      "commits_count": 24,
+      "additions": 1112,
+      "deletions": -650
     },
     {
       "name": "jsonrpc",
-      "commits_count": 6,
-      "additions": 176,
-      "deletions": -81
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "fastspot-api",
@@ -76,21 +76,21 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 6,
-      "additions": 521,
-      "deletions": -80
+      "commits_count": 2,
+      "additions": 92,
+      "deletions": -23
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 5,
-      "additions": 334,
-      "deletions": -37
+      "commits_count": 1,
+      "additions": 109,
+      "deletions": -10
     },
     {
       "name": "developer-center",
-      "commits_count": 33,
-      "additions": 873,
-      "deletions": -368
+      "commits_count": 20,
+      "additions": 304,
+      "deletions": -47
     },
     {
       "name": "postcard-bytes",

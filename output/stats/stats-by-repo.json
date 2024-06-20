@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-17T03:03:50.167247",
-  "start_date": "2024-05-20T03:02:20.723276",
+  "end_date": "2024-06-20T03:03:33.868164",
+  "start_date": "2024-05-23T03:02:03.332650",
   "repos": [
     {
       "name": "core-js",
@@ -13,6 +13,12 @@
       "commits_count": 2,
       "additions": 7238,
       "deletions": -7403
+    },
+    {
+      "name": "nimiq-utils",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -28,15 +34,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 70,
-      "additions": 3065,
-      "deletions": -3594
+      "commits_count": 102,
+      "additions": 4576,
+      "deletions": -4597
     },
     {
       "name": "wallet",
-      "commits_count": 24,
-      "additions": 1112,
-      "deletions": -650
+      "commits_count": 37,
+      "additions": 1298,
+      "deletions": -719
     },
     {
       "name": "jsonrpc",
@@ -69,16 +75,16 @@
       "deletions": 0
     },
     {
-      "name": "oasis-bank-list",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "name": "crypto-map",
+      "commits_count": 6,
+      "additions": 257,
+      "deletions": -159
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 92,
-      "deletions": -23
+      "commits_count": 4,
+      "additions": 113,
+      "deletions": -31
     },
     {
       "name": "snark-setup-coordinator",
@@ -88,15 +94,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 20,
-      "additions": 304,
-      "deletions": -47
-    },
-    {
-      "name": "postcard-bytes",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 29,
+      "additions": 16027,
+      "deletions": -14919
     }
   ]
 }

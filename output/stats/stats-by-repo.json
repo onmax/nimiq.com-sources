@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-20T03:03:33.868164",
-  "start_date": "2024-05-23T03:02:03.332650",
+  "end_date": "2024-06-22T03:03:52.901598",
+  "start_date": "2024-05-25T03:02:19.697259",
   "repos": [
     {
       "name": "core-js",
@@ -34,15 +34,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 102,
-      "additions": 4576,
-      "deletions": -4597
+      "commits_count": 111,
+      "additions": 4700,
+      "deletions": -4669
     },
     {
       "name": "wallet",
-      "commits_count": 37,
-      "additions": 1298,
-      "deletions": -719
+      "commits_count": 39,
+      "additions": 1329,
+      "deletions": -734
     },
     {
       "name": "jsonrpc",

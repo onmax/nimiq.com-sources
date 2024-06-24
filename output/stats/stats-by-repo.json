@@ -1,18 +1,18 @@
 {
-  "end_date": "2024-06-22T03:03:52.901598",
-  "start_date": "2024-05-25T03:02:19.697259",
+  "end_date": "2024-06-24T03:04:07.664644",
+  "start_date": "2024-05-27T03:02:17.643425",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 2,
-      "additions": 53,
-      "deletions": -23
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "jungle-db",
-      "commits_count": 2,
-      "additions": 7238,
-      "deletions": -7403
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-utils",
@@ -34,15 +34,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 111,
-      "additions": 4700,
-      "deletions": -4669
+      "commits_count": 90,
+      "additions": 4231,
+      "deletions": -3776
     },
     {
       "name": "wallet",
-      "commits_count": 39,
-      "additions": 1329,
-      "deletions": -734
+      "commits_count": 31,
+      "additions": 1017,
+      "deletions": -485
     },
     {
       "name": "jsonrpc",
@@ -58,9 +58,9 @@
     },
     {
       "name": "frontend-release-notes",
-      "commits_count": 1,
-      "additions": 10,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "oasis-api-js",
@@ -82,21 +82,21 @@
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 4,
-      "additions": 113,
-      "deletions": -31
+      "commits_count": 3,
+      "additions": 77,
+      "deletions": -17
     },
     {
       "name": "snark-setup-coordinator",
-      "commits_count": 1,
-      "additions": 109,
-      "deletions": -10
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 29,
-      "additions": 16027,
-      "deletions": -14919
+      "commits_count": 11,
+      "additions": 15726,
+      "deletions": -14875
     }
   ]
 }

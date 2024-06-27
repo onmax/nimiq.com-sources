@@ -1,12 +1,12 @@
 {
-  "end_date": "2024-06-24T03:04:07.664644",
-  "start_date": "2024-05-27T03:02:17.643425",
+  "end_date": "2024-06-27T03:03:55.908288",
+  "start_date": "2024-05-30T03:02:07.635815",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 8,
+      "deletions": -8
     },
     {
       "name": "jungle-db",
@@ -34,15 +34,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 90,
-      "additions": 4231,
-      "deletions": -3776
+      "commits_count": 106,
+      "additions": 6043,
+      "deletions": -4959
+    },
+    {
+      "name": "webpack-i18n-tools",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "wallet",
-      "commits_count": 31,
-      "additions": 1017,
-      "deletions": -485
+      "commits_count": 34,
+      "additions": 1229,
+      "deletions": -666
     },
     {
       "name": "jsonrpc",
@@ -52,12 +58,6 @@
     },
     {
       "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "frontend-release-notes",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -76,9 +76,9 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 6,
-      "additions": 257,
-      "deletions": -159
+      "commits_count": 23,
+      "additions": 792,
+      "deletions": -654
     },
     {
       "name": "snark-setup-operator",
@@ -94,9 +94,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 11,
-      "additions": 15726,
-      "deletions": -14875
+      "commits_count": 15,
+      "additions": 20383,
+      "deletions": -20236
     }
   ]
 }

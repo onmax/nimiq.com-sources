@@ -1,18 +1,12 @@
 {
-  "end_date": "2024-06-27T03:03:55.908288",
-  "start_date": "2024-05-30T03:02:07.635815",
+  "end_date": "2024-06-29T03:03:32.817327",
+  "start_date": "2024-06-01T03:01:57.488315",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 2,
       "additions": 8,
       "deletions": -8
-    },
-    {
-      "name": "jungle-db",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "nimiq-utils",
@@ -34,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 106,
-      "additions": 6043,
-      "deletions": -4959
+      "commits_count": 120,
+      "additions": 6318,
+      "deletions": -5129
     },
     {
       "name": "webpack-i18n-tools",
@@ -76,9 +70,9 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 23,
-      "additions": 792,
-      "deletions": -654
+      "commits_count": 31,
+      "additions": 2598,
+      "deletions": -2092
     },
     {
       "name": "snark-setup-operator",
@@ -94,9 +88,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 15,
-      "additions": 20383,
-      "deletions": -20236
+      "commits_count": 17,
+      "additions": 25720,
+      "deletions": -24318
     }
   ]
 }

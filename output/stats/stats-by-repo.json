@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-06-29T03:03:32.817327",
-  "start_date": "2024-06-01T03:01:57.488315",
+  "end_date": "2024-07-01T03:03:21.513498",
+  "start_date": "2024-06-03T03:02:20.783256",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 120,
-      "additions": 6318,
-      "deletions": -5129
+      "commits_count": 103,
+      "additions": 4367,
+      "deletions": -3404
     },
     {
       "name": "webpack-i18n-tools",
@@ -79,12 +79,6 @@
       "commits_count": 3,
       "additions": 77,
       "deletions": -17
-    },
-    {
-      "name": "snark-setup-coordinator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "developer-center",

@@ -1,11 +1,11 @@
 {
-  "end_date": "2024-07-01T03:03:21.513498",
-  "start_date": "2024-06-03T03:02:20.783256",
+  "end_date": "2024-07-04T03:03:11.856206",
+  "start_date": "2024-06-06T03:02:03.012046",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 2,
-      "additions": 8,
+      "commits_count": 3,
+      "additions": 9,
       "deletions": -8
     },
     {
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 103,
-      "additions": 4367,
-      "deletions": -3404
+      "commits_count": 110,
+      "additions": 7134,
+      "deletions": -4693
     },
     {
       "name": "webpack-i18n-tools",
@@ -40,15 +40,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 34,
-      "additions": 1229,
-      "deletions": -666
-    },
-    {
-      "name": "jsonrpc",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 35,
+      "additions": 1238,
+      "deletions": -673
     },
     {
       "name": "fastspot-api",

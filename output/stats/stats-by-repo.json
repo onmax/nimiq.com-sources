@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-07-08T03:03:24.853320",
-  "start_date": "2024-06-10T03:02:19.722895",
+  "end_date": "2024-07-11T03:04:54.507115",
+  "start_date": "2024-06-13T03:03:18.878695",
   "repos": [
     {
       "name": "core-js",
@@ -22,21 +22,21 @@
     },
     {
       "name": "hub",
-      "commits_count": 3,
-      "additions": 2118,
-      "deletions": -1078
+      "commits_count": 4,
+      "additions": 2190,
+      "deletions": -1131
     },
     {
       "name": "vue-components",
-      "commits_count": 4,
-      "additions": 2467,
-      "deletions": -1470
+      "commits_count": 5,
+      "additions": 2475,
+      "deletions": -1469
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 72,
-      "additions": 5272,
-      "deletions": -3158
+      "commits_count": 92,
+      "additions": 8739,
+      "deletions": -5591
     },
     {
       "name": "webpack-i18n-tools",

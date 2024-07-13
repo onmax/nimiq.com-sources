@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-07-11T03:04:54.507115",
-  "start_date": "2024-06-13T03:03:18.878695",
+  "end_date": "2024-07-13T03:03:20.774458",
+  "start_date": "2024-06-15T03:02:01.188656",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 92,
-      "additions": 8739,
-      "deletions": -5591
+      "commits_count": 111,
+      "additions": 10842,
+      "deletions": -7636
     },
     {
       "name": "webpack-i18n-tools",
@@ -49,12 +49,6 @@
       "commits_count": 19,
       "additions": 438,
       "deletions": -272
-    },
-    {
-      "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "oasis-api-js",

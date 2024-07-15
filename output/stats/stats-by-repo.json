@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-07-13T03:03:20.774458",
-  "start_date": "2024-06-15T03:02:01.188656",
+  "end_date": "2024-07-15T03:03:31.658379",
+  "start_date": "2024-06-17T03:02:22.842527",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 111,
-      "additions": 10842,
-      "deletions": -7636
+      "commits_count": 69,
+      "additions": 9379,
+      "deletions": -7003
     },
     {
       "name": "webpack-i18n-tools",
@@ -46,9 +46,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 19,
-      "additions": 438,
-      "deletions": -272
+      "commits_count": 4,
+      "additions": 221,
+      "deletions": -188
     },
     {
       "name": "oasis-api-js",
@@ -64,21 +64,21 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 31,
-      "additions": 2598,
-      "deletions": -2092
+      "commits_count": 16,
+      "additions": 2059,
+      "deletions": -1694
     },
     {
       "name": "snark-setup-operator",
-      "commits_count": 2,
-      "additions": 21,
-      "deletions": -8
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 14,
-      "additions": 20558,
-      "deletions": -20375
+      "commits_count": 6,
+      "additions": 9994,
+      "deletions": -9443
     }
   ]
 }

@@ -1,18 +1,12 @@
 {
-  "end_date": "2024-07-15T03:03:31.658379",
-  "start_date": "2024-06-17T03:02:22.842527",
+  "end_date": "2024-07-18T03:03:24.213121",
+  "start_date": "2024-06-20T03:02:17.922033",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 3,
       "additions": 9,
       "deletions": -8
-    },
-    {
-      "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -34,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 69,
-      "additions": 9379,
-      "deletions": -7003
+      "commits_count": 91,
+      "additions": 10005,
+      "deletions": -7508
     },
     {
       "name": "webpack-i18n-tools",
@@ -51,28 +45,10 @@
       "deletions": -188
     },
     {
-      "name": "oasis-api-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "crypto-map",
       "commits_count": 16,
       "additions": 2059,
       "deletions": -1694
-    },
-    {
-      "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "developer-center",

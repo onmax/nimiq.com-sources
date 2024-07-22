@@ -1,12 +1,12 @@
 {
-  "end_date": "2024-07-20T03:03:16.999655",
-  "start_date": "2024-06-22T03:02:00.610317",
+  "end_date": "2024-07-22T03:03:53.204015",
+  "start_date": "2024-06-24T03:02:11.317808",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 3,
-      "additions": 9,
-      "deletions": -8
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": 0
     },
     {
       "name": "keyguard",
@@ -16,9 +16,9 @@
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 2190,
-      "deletions": -1131
+      "commits_count": 5,
+      "additions": 2196,
+      "deletions": -1135
     },
     {
       "name": "vue-components",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 93,
-      "additions": 10032,
-      "deletions": -7582
+      "commits_count": 38,
+      "additions": 3018,
+      "deletions": -1894
     },
     {
       "name": "webpack-i18n-tools",
@@ -40,21 +40,21 @@
     },
     {
       "name": "wallet",
-      "commits_count": 4,
-      "additions": 221,
-      "deletions": -188
+      "commits_count": 1,
+      "additions": 9,
+      "deletions": -7
     },
     {
       "name": "crypto-map",
-      "commits_count": 18,
-      "additions": 2279,
-      "deletions": -1756
+      "commits_count": 2,
+      "additions": 220,
+      "deletions": -62
     },
     {
       "name": "developer-center",
-      "commits_count": 6,
-      "additions": 9994,
-      "deletions": -9443
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     }
   ]
 }

@@ -1,12 +1,18 @@
 {
-  "end_date": "2024-07-22T03:03:53.204015",
-  "start_date": "2024-06-24T03:02:11.317808",
+  "end_date": "2024-07-25T03:03:23.400922",
+  "start_date": "2024-06-27T03:02:15.585125",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 1,
       "additions": 1,
       "deletions": 0
+    },
+    {
+      "name": "nimiq-utils",
+      "commits_count": 2,
+      "additions": 9,
+      "deletions": -7
     },
     {
       "name": "keyguard",
@@ -28,21 +34,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 38,
-      "additions": 3018,
-      "deletions": -1894
-    },
-    {
-      "name": "webpack-i18n-tools",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 47,
+      "additions": 3203,
+      "deletions": -2174
     },
     {
       "name": "wallet",
+      "commits_count": 2,
+      "additions": 17,
+      "deletions": -40
+    },
+    {
+      "name": "jsonrpc",
       "commits_count": 1,
-      "additions": 9,
-      "deletions": -7
+      "additions": 1,
+      "deletions": 0
     },
     {
       "name": "crypto-map",

@@ -1,12 +1,18 @@
 {
-  "end_date": "2024-07-25T03:03:23.400922",
-  "start_date": "2024-06-27T03:02:15.585125",
+  "end_date": "2024-07-27T03:03:20.673265",
+  "start_date": "2024-06-29T03:02:03.922935",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 1,
       "additions": 1,
       "deletions": 0
+    },
+    {
+      "name": "nimiq-demo",
+      "commits_count": 3,
+      "additions": 24,
+      "deletions": -17
     },
     {
       "name": "nimiq-utils",
@@ -34,9 +40,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 47,
-      "additions": 3203,
-      "deletions": -2174
+      "commits_count": 51,
+      "additions": 3224,
+      "deletions": -2495
     },
     {
       "name": "wallet",
@@ -51,10 +57,28 @@
       "deletions": 0
     },
     {
+      "name": "fastspot-api",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "libswap-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "crypto-map",
       "commits_count": 2,
       "additions": 220,
       "deletions": -62
+    },
+    {
+      "name": "ceremony-attestations",
+      "commits_count": 2,
+      "additions": 3,
+      "deletions": -1
     },
     {
       "name": "developer-center",

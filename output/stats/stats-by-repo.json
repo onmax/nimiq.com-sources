@@ -1,11 +1,11 @@
 {
-  "end_date": "2024-07-27T03:03:20.673265",
-  "start_date": "2024-06-29T03:02:03.922935",
+  "end_date": "2024-07-29T03:03:36.252427",
+  "start_date": "2024-07-01T03:02:14.436650",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 1,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
@@ -34,21 +34,21 @@
     },
     {
       "name": "vue-components",
-      "commits_count": 5,
-      "additions": 2475,
-      "deletions": -1469
+      "commits_count": 2,
+      "additions": 158,
+      "deletions": -152
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 51,
-      "additions": 3224,
-      "deletions": -2495
+      "commits_count": 39,
+      "additions": 994,
+      "deletions": -1372
     },
     {
       "name": "wallet",
-      "commits_count": 2,
-      "additions": 17,
-      "deletions": -40
+      "commits_count": 1,
+      "additions": 8,
+      "deletions": -33
     },
     {
       "name": "jsonrpc",

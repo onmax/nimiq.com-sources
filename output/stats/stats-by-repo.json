@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-08-05T03:03:35.892514",
-  "start_date": "2024-07-08T03:02:09.368558",
+  "end_date": "2024-08-08T03:03:52.032476",
+  "start_date": "2024-07-11T03:02:09.514692",
   "repos": [
     {
       "name": "core-js",
@@ -33,16 +33,10 @@
       "deletions": -4
     },
     {
-      "name": "vue-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "core-rs-albatross",
-      "commits_count": 45,
-      "additions": 1707,
-      "deletions": -1692
+      "commits_count": 58,
+      "additions": 1840,
+      "deletions": -1768
     },
     {
       "name": "wallet",
@@ -82,9 +76,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 2,
-      "additions": 190,
-      "deletions": 0
+      "commits_count": 11,
+      "additions": 9802,
+      "deletions": -9528
     }
   ]
 }

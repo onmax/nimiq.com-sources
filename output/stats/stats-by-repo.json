@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-08-12T03:03:37.196635",
-  "start_date": "2024-07-15T03:02:26.690814",
+  "end_date": "2024-08-15T03:03:46.501946",
+  "start_date": "2024-07-18T03:02:31.845882",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -10,9 +10,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 2,
-      "additions": 9,
-      "deletions": -7
+      "commits_count": 13,
+      "additions": 822,
+      "deletions": -224
     },
     {
       "name": "keyguard",
@@ -34,9 +34,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 1,
-      "additions": 8,
-      "deletions": -33
+      "commits_count": 10,
+      "additions": 320,
+      "deletions": -146
     },
     {
       "name": "jsonrpc",
@@ -51,6 +51,12 @@
       "deletions": 0
     },
     {
+      "name": "oasis-api-js",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "libswap-js",
       "commits_count": 0,
       "additions": 0,
@@ -58,9 +64,9 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 96,
+      "deletions": -39
     },
     {
       "name": "ceremony-attestations",

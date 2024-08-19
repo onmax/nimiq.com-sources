@@ -1,18 +1,18 @@
 {
-  "end_date": "2024-08-17T03:03:28.604640",
-  "start_date": "2024-07-20T03:02:03.250508",
+  "end_date": "2024-08-19T03:04:02.286073",
+  "start_date": "2024-07-22T03:02:10.634375",
   "repos": [
     {
       "name": "nimiq-demo",
-      "commits_count": 3,
-      "additions": 24,
-      "deletions": -17
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 17,
-      "additions": 901,
-      "deletions": -248
+      "commits_count": 14,
+      "additions": 814,
+      "deletions": -230
     },
     {
       "name": "keyguard",
@@ -22,26 +22,26 @@
     },
     {
       "name": "hub",
-      "commits_count": 1,
-      "additions": 6,
-      "deletions": -4
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 57,
-      "additions": 1672,
-      "deletions": -1492
+      "commits_count": 39,
+      "additions": 1136,
+      "deletions": -891
     },
     {
       "name": "wallet",
-      "commits_count": 10,
-      "additions": 320,
-      "deletions": -146
+      "commits_count": 9,
+      "additions": 312,
+      "deletions": -113
     },
     {
       "name": "jsonrpc",
-      "commits_count": 1,
-      "additions": 1,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
@@ -63,6 +63,12 @@
       "deletions": 0
     },
     {
+      "name": "vue3-components",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "crypto-map",
       "commits_count": 1,
       "additions": 96,
@@ -70,9 +76,9 @@
     },
     {
       "name": "ceremony-attestations",
-      "commits_count": 2,
-      "additions": 3,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",

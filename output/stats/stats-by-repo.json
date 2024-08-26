@@ -1,12 +1,12 @@
 {
-  "end_date": "2024-08-24T03:03:32.205448",
-  "start_date": "2024-07-27T03:02:05.810470",
+  "end_date": "2024-08-26T03:04:38.143389",
+  "start_date": "2024-07-29T03:03:14.086187",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 14,
-      "additions": 814,
-      "deletions": -230
+      "commits_count": 9,
+      "additions": 203,
+      "deletions": -58
     },
     {
       "name": "keyguard",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 54,
-      "additions": 2064,
-      "deletions": -1672
+      "commits_count": 35,
+      "additions": 683,
+      "deletions": -468
     },
     {
       "name": "wallet",
@@ -76,8 +76,8 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 12,
-      "additions": 9803,
+      "commits_count": 10,
+      "additions": 9613,
       "deletions": -9529
     }
   ]

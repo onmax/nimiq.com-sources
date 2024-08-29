@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-08-26T03:04:38.143389",
-  "start_date": "2024-07-29T03:03:14.086187",
+  "end_date": "2024-08-29T03:03:47.721306",
+  "start_date": "2024-08-01T03:02:05.269509",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 35,
-      "additions": 683,
-      "deletions": -468
+      "commits_count": 58,
+      "additions": 2693,
+      "deletions": -2325
     },
     {
       "name": "wallet",
-      "commits_count": 9,
-      "additions": 312,
-      "deletions": -113
+      "commits_count": 12,
+      "additions": 423,
+      "deletions": -206
     },
     {
       "name": "fastspot-api",
@@ -79,6 +79,12 @@
       "commits_count": 10,
       "additions": 9613,
       "deletions": -9529
+    },
+    {
+      "name": "validators-api",
+      "commits_count": 49,
+      "additions": 15620,
+      "deletions": -13295
     }
   ]
 }

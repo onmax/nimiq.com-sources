@@ -1,12 +1,12 @@
 {
-  "end_date": "2024-08-31T03:03:13.909449",
-  "start_date": "2024-08-03T03:01:55.846335",
+  "end_date": "2024-09-02T03:04:02.543407",
+  "start_date": "2024-08-05T03:02:38.721062",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 9,
-      "additions": 203,
-      "deletions": -58
+      "commits_count": 7,
+      "additions": 183,
+      "deletions": -54
     },
     {
       "name": "keyguard",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 76,
-      "additions": 3571,
-      "deletions": -2846
+      "commits_count": 57,
+      "additions": 3065,
+      "deletions": -2700
     },
     {
       "name": "wallet",
-      "commits_count": 18,
-      "additions": 630,
-      "deletions": -334
+      "commits_count": 11,
+      "additions": 335,
+      "deletions": -230
     },
     {
       "name": "fastspot-api",
@@ -76,15 +76,15 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 15,
-      "additions": 11952,
-      "deletions": -12137
+      "commits_count": 8,
+      "additions": 2346,
+      "deletions": -2616
     },
     {
       "name": "validators-api",
-      "commits_count": 49,
-      "additions": 15620,
-      "deletions": -13295
+      "commits_count": 64,
+      "additions": 39009,
+      "deletions": -23084
     }
   ]
 }

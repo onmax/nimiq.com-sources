@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-09-09T03:05:29.322391",
-  "start_date": "2024-08-12T03:04:03.351857",
+  "end_date": "2024-09-12T03:03:43.319598",
+  "start_date": "2024-08-15T03:02:19.386745",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -10,9 +10,9 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 6,
-      "additions": 144,
-      "deletions": -73
+      "commits_count": 16,
+      "additions": 517,
+      "deletions": -463
     },
     {
       "name": "hub",
@@ -22,33 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 58,
-      "additions": 2993,
-      "deletions": -2619
+      "commits_count": 67,
+      "additions": 3559,
+      "deletions": -3204
     },
     {
       "name": "wallet",
       "commits_count": 9,
       "additions": 318,
       "deletions": -221
-    },
-    {
-      "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "oasis-api-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "vue3-components",
@@ -76,9 +58,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 15,
-      "additions": 4266,
-      "deletions": -4027
+      "commits_count": 23,
+      "additions": 4370,
+      "deletions": -4100
     },
     {
       "name": "validators-api",

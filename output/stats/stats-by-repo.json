@@ -1,7 +1,13 @@
 {
-  "end_date": "2024-09-16T03:09:22.092696",
-  "start_date": "2024-08-19T03:08:21.939152",
+  "end_date": "2024-09-19T03:04:59.804919",
+  "start_date": "2024-08-22T03:03:57.250380",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 1,
+      "additions": 3,
+      "deletions": -3
+    },
     {
       "name": "nimiq-utils",
       "commits_count": 0,
@@ -10,27 +16,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 16,
-      "additions": 517,
+      "commits_count": 17,
+      "additions": 522,
       "deletions": -463
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 4,
+      "additions": 316,
+      "deletions": -142
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 51,
-      "additions": 2216,
-      "deletions": -2823
+      "commits_count": 52,
+      "additions": 2218,
+      "deletions": -2825
     },
     {
       "name": "wallet",
-      "commits_count": 9,
-      "additions": 318,
-      "deletions": -221
+      "commits_count": 22,
+      "additions": 774,
+      "deletions": -450
     },
     {
       "name": "crypto-map",
@@ -39,22 +45,16 @@
       "deletions": 0
     },
     {
-      "name": "snark-setup-operator",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ceremony-attestations",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "developer-center",
-      "commits_count": 23,
-      "additions": 4371,
-      "deletions": -4100
+      "commits_count": 24,
+      "additions": 4373,
+      "deletions": -4101
+    },
+    {
+      "name": "validator-registration-tool",
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "validators-api",

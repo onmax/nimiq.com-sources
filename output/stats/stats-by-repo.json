@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-09-19T03:04:59.804919",
-  "start_date": "2024-08-22T03:03:57.250380",
+  "end_date": "2024-09-21T03:03:55.801987",
+  "start_date": "2024-08-24T03:03:00.954608",
   "repos": [
     {
       "name": "core-js",
@@ -10,6 +10,12 @@
     },
     {
       "name": "nimiq-utils",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "ledger-app-nimiq",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -28,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 52,
-      "additions": 2218,
-      "deletions": -2825
+      "commits_count": 80,
+      "additions": 5104,
+      "deletions": -5808
     },
     {
       "name": "wallet",
@@ -39,16 +45,10 @@
       "deletions": -450
     },
     {
-      "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "developer-center",
-      "commits_count": 24,
-      "additions": 4373,
-      "deletions": -4101
+      "commits_count": 32,
+      "additions": 4473,
+      "deletions": -4234
     },
     {
       "name": "validator-registration-tool",

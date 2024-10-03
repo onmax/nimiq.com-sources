@@ -1,12 +1,18 @@
 {
-  "end_date": "2024-09-30T03:11:04.174384",
-  "start_date": "2024-09-02T03:10:18.104837",
+  "end_date": "2024-10-03T03:08:11.605615",
+  "start_date": "2024-09-05T03:06:37.383848",
   "repos": [
     {
       "name": "core-js",
       "commits_count": 1,
       "additions": 3,
       "deletions": -3
+    },
+    {
+      "name": "community",
+      "commits_count": 1,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-utils",
@@ -34,21 +40,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 33,
-      "additions": 2997,
-      "deletions": -2815
+      "commits_count": 44,
+      "additions": 3192,
+      "deletions": -2997
     },
     {
       "name": "wallet",
-      "commits_count": 15,
-      "additions": 673,
-      "deletions": -374
+      "commits_count": 16,
+      "additions": 684,
+      "deletions": -379
     },
     {
       "name": "developer-center",
-      "commits_count": 27,
-      "additions": 2939,
-      "deletions": -2403
+      "commits_count": 30,
+      "additions": 2962,
+      "deletions": -2420
     },
     {
       "name": "validator-registration-tool",

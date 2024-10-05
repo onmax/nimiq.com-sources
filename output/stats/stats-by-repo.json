@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-03T03:08:11.605615",
-  "start_date": "2024-09-05T03:06:37.383848",
+  "end_date": "2024-10-05T03:07:21.947749",
+  "start_date": "2024-09-07T03:05:18.849755",
   "repos": [
     {
       "name": "core-js",
@@ -40,9 +40,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 44,
-      "additions": 3192,
-      "deletions": -2997
+      "commits_count": 46,
+      "additions": 3307,
+      "deletions": -3033
     },
     {
       "name": "wallet",
@@ -51,16 +51,22 @@
       "deletions": -379
     },
     {
+      "name": "crypto-map",
+      "commits_count": 1,
+      "additions": 5,
+      "deletions": -3
+    },
+    {
       "name": "developer-center",
-      "commits_count": 30,
-      "additions": 2962,
-      "deletions": -2420
+      "commits_count": 32,
+      "additions": 2964,
+      "deletions": -2424
     },
     {
       "name": "validator-registration-tool",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 3,
+      "additions": 10,
+      "deletions": -8
     },
     {
       "name": "validators-api",

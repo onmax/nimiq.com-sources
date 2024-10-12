@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-10T03:08:30.089386",
-  "start_date": "2024-09-12T03:06:26.957632",
+  "end_date": "2024-10-12T03:06:49.257877",
+  "start_date": "2024-09-14T03:04:33.683682",
   "repos": [
     {
       "name": "core-js",
@@ -34,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 46,
-      "additions": 1648,
-      "deletions": -1126
+      "commits_count": 50,
+      "additions": 1885,
+      "deletions": -1220
     },
     {
       "name": "wallet",
@@ -46,15 +46,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 1,
-      "additions": 5,
-      "deletions": -3
+      "commits_count": 6,
+      "additions": 44,
+      "deletions": -21
     },
     {
       "name": "developer-center",
-      "commits_count": 32,
-      "additions": 4479,
-      "deletions": -3686
+      "commits_count": 33,
+      "additions": 4480,
+      "deletions": -3687
     },
     {
       "name": "validator-registration-tool",
@@ -67,6 +67,12 @@
       "commits_count": 3,
       "additions": 1759,
       "deletions": -866
+    },
+    {
+      "name": "nimiq-website",
+      "commits_count": 217,
+      "additions": 68558,
+      "deletions": -45819
     }
   ]
 }

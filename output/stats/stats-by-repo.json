@@ -1,12 +1,12 @@
 {
-  "end_date": "2024-10-12T03:06:49.257877",
-  "start_date": "2024-09-14T03:04:33.683682",
+  "end_date": "2024-10-14T03:11:29.696391",
+  "start_date": "2024-09-16T03:09:10.905257",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "community",
@@ -22,27 +22,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 5,
-      "additions": 330,
-      "deletions": -497
+      "commits_count": 3,
+      "additions": 180,
+      "deletions": -458
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 316,
-      "deletions": -142
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 50,
-      "additions": 1885,
-      "deletions": -1220
+      "commits_count": 33,
+      "additions": 1398,
+      "deletions": -803
     },
     {
       "name": "wallet",
-      "commits_count": 73,
-      "additions": 4610,
-      "deletions": -1638
+      "commits_count": 64,
+      "additions": 4293,
+      "deletions": -1520
     },
     {
       "name": "crypto-map",
@@ -52,27 +52,27 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 33,
-      "additions": 4480,
-      "deletions": -3687
+      "commits_count": 25,
+      "additions": 1867,
+      "deletions": -1668
     },
     {
       "name": "validator-registration-tool",
-      "commits_count": 3,
-      "additions": 10,
-      "deletions": -8
+      "commits_count": 2,
+      "additions": 9,
+      "deletions": -7
     },
     {
       "name": "validators-api",
-      "commits_count": 3,
-      "additions": 1759,
-      "deletions": -866
+      "commits_count": 5,
+      "additions": 2073,
+      "deletions": -868
     },
     {
       "name": "nimiq-website",
-      "commits_count": 217,
-      "additions": 68558,
-      "deletions": -45819
+      "commits_count": 183,
+      "additions": 34456,
+      "deletions": -13548
     }
   ]
 }

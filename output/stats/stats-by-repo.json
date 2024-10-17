@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-14T03:11:29.696391",
-  "start_date": "2024-09-16T03:09:10.905257",
+  "end_date": "2024-10-17T03:08:56.669401",
+  "start_date": "2024-09-19T03:06:47.672992",
   "repos": [
     {
       "name": "core-js",
@@ -13,6 +13,12 @@
       "commits_count": 1,
       "additions": 0,
       "deletions": 0
+    },
+    {
+      "name": "nimiq-utils",
+      "commits_count": 1,
+      "additions": 48,
+      "deletions": -5
     },
     {
       "name": "ledger-app-nimiq",
@@ -34,9 +40,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 33,
-      "additions": 1398,
-      "deletions": -803
+      "commits_count": 54,
+      "additions": 2379,
+      "deletions": -1394
     },
     {
       "name": "wallet",
@@ -46,9 +52,9 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 6,
-      "additions": 44,
-      "deletions": -21
+      "commits_count": 11,
+      "additions": 81,
+      "deletions": -50
     },
     {
       "name": "developer-center",
@@ -69,10 +75,16 @@
       "deletions": -868
     },
     {
+      "name": "prestaking-website",
+      "commits_count": 95,
+      "additions": 8369,
+      "deletions": -12167
+    },
+    {
       "name": "nimiq-website",
-      "commits_count": 183,
-      "additions": 34456,
-      "deletions": -13548
+      "commits_count": 184,
+      "additions": 34493,
+      "deletions": -13580
     }
   ]
 }

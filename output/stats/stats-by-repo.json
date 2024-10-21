@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-19T03:08:45.759983",
-  "start_date": "2024-09-21T03:05:52.900102",
+  "end_date": "2024-10-21T03:12:16.816310",
+  "start_date": "2024-09-23T03:09:28.717356",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 3,
-      "additions": 180,
-      "deletions": -458
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "hub",
@@ -40,15 +40,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 59,
-      "additions": 2530,
-      "deletions": -1490
+      "commits_count": 36,
+      "additions": 1359,
+      "deletions": -824
     },
     {
       "name": "wallet",
-      "commits_count": 70,
-      "additions": 5003,
-      "deletions": -1802
+      "commits_count": 67,
+      "additions": 4660,
+      "deletions": -1655
     },
     {
       "name": "crypto-map",
@@ -58,9 +58,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 30,
-      "additions": 2898,
-      "deletions": -2714
+      "commits_count": 22,
+      "additions": 2681,
+      "deletions": -2406
     },
     {
       "name": "validator-registration-tool",
@@ -76,15 +76,15 @@
     },
     {
       "name": "prestaking-website",
-      "commits_count": 96,
-      "additions": 8369,
-      "deletions": -12167
+      "commits_count": 81,
+      "additions": 7601,
+      "deletions": -11334
     },
     {
       "name": "nimiq-website",
-      "commits_count": 184,
-      "additions": 34493,
-      "deletions": -13580
+      "commits_count": 144,
+      "additions": 25928,
+      "deletions": -9543
     }
   ]
 }

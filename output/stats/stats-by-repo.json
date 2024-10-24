@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-21T03:12:16.816310",
-  "start_date": "2024-09-23T03:09:28.717356",
+  "end_date": "2024-10-24T03:08:23.485097",
+  "start_date": "2024-09-26T03:06:31.353647",
   "repos": [
     {
       "name": "core-js",
@@ -16,9 +16,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 11,
-      "additions": 175,
-      "deletions": -112
+      "commits_count": 14,
+      "additions": 235,
+      "deletions": -144
     },
     {
       "name": "ledger-app-nimiq",
@@ -28,39 +28,39 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 1,
+      "additions": 23,
+      "deletions": -5
     },
     {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 2,
+      "additions": 26,
+      "deletions": -11
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 36,
-      "additions": 1359,
-      "deletions": -824
+      "commits_count": 40,
+      "additions": 1462,
+      "deletions": -930
     },
     {
       "name": "wallet",
-      "commits_count": 67,
-      "additions": 4660,
-      "deletions": -1655
+      "commits_count": 70,
+      "additions": 4857,
+      "deletions": -1858
     },
     {
       "name": "crypto-map",
-      "commits_count": 11,
-      "additions": 81,
-      "deletions": -50
+      "commits_count": 18,
+      "additions": 203,
+      "deletions": -103
     },
     {
       "name": "developer-center",
-      "commits_count": 22,
-      "additions": 2681,
-      "deletions": -2406
+      "commits_count": 29,
+      "additions": 3366,
+      "deletions": -3073
     },
     {
       "name": "validator-registration-tool",
@@ -70,15 +70,15 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 5,
-      "additions": 2073,
-      "deletions": -868
+      "commits_count": 21,
+      "additions": 4285,
+      "deletions": -1297
     },
     {
       "name": "prestaking-website",
-      "commits_count": 81,
-      "additions": 7601,
-      "deletions": -11334
+      "commits_count": 82,
+      "additions": 7614,
+      "deletions": -11347
     },
     {
       "name": "nimiq-website",

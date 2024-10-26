@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-24T03:08:23.485097",
-  "start_date": "2024-09-26T03:06:31.353647",
+  "end_date": "2024-10-26T03:06:19.758011",
+  "start_date": "2024-09-28T03:04:45.586559",
   "repos": [
     {
       "name": "core-js",
@@ -28,27 +28,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 1,
-      "additions": 23,
-      "deletions": -5
+      "commits_count": 3,
+      "additions": 318,
+      "deletions": -42
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 26,
-      "deletions": -11
+      "commits_count": 4,
+      "additions": 52,
+      "deletions": -63
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 40,
-      "additions": 1462,
-      "deletions": -930
+      "commits_count": 41,
+      "additions": 1518,
+      "deletions": -986
     },
     {
       "name": "wallet",
-      "commits_count": 70,
-      "additions": 4857,
-      "deletions": -1858
+      "commits_count": 104,
+      "additions": 15932,
+      "deletions": -7162
     },
     {
       "name": "crypto-map",
@@ -70,9 +70,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 21,
-      "additions": 4285,
-      "deletions": -1297
+      "commits_count": 92,
+      "additions": 23596,
+      "deletions": -19316
     },
     {
       "name": "prestaking-website",

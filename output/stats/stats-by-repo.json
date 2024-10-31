@@ -1,15 +1,9 @@
 {
-  "end_date": "2024-10-28T03:12:07.448972",
-  "start_date": "2024-09-30T03:10:17.225434",
+  "end_date": "2024-10-31T03:10:25.319884",
+  "start_date": "2024-10-03T03:08:31.406369",
   "repos": [
     {
-      "name": "core-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "community",
+      "name": "identicons",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -34,27 +28,45 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 3,
-      "additions": 318,
-      "deletions": -42
+      "commits_count": 4,
+      "additions": 340,
+      "deletions": -64
     },
     {
       "name": "hub",
-      "commits_count": 4,
-      "additions": 52,
-      "deletions": -63
+      "commits_count": 6,
+      "additions": 790,
+      "deletions": -601
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 30,
-      "additions": 807,
-      "deletions": -705
+      "commits_count": 33,
+      "additions": 886,
+      "deletions": -716
     },
     {
       "name": "wallet",
-      "commits_count": 92,
-      "additions": 15455,
-      "deletions": -7048
+      "commits_count": 101,
+      "additions": 16036,
+      "deletions": -7584
+    },
+    {
+      "name": "fastspot-api",
+      "commits_count": 10,
+      "additions": 372,
+      "deletions": -119
+    },
+    {
+      "name": "oasis-api-js",
+      "commits_count": 4,
+      "additions": 239,
+      "deletions": -67
+    },
+    {
+      "name": "libswap-js",
+      "commits_count": 7,
+      "additions": 441,
+      "deletions": -280
     },
     {
       "name": "crypto-map",
@@ -76,9 +88,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 85,
-      "additions": 17229,
-      "deletions": -12134
+      "commits_count": 96,
+      "additions": 18346,
+      "deletions": -12882
     },
     {
       "name": "prestaking-website",

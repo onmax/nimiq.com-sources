@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-10-31T03:10:25.319884",
-  "start_date": "2024-10-03T03:08:31.406369",
+  "end_date": "2024-11-02T03:07:14.033697",
+  "start_date": "2024-10-05T03:05:39.246601",
   "repos": [
     {
       "name": "identicons",
@@ -40,21 +40,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 33,
-      "additions": 886,
-      "deletions": -716
+      "commits_count": 38,
+      "additions": 1159,
+      "deletions": -894
     },
     {
       "name": "wallet",
-      "commits_count": 101,
-      "additions": 16036,
-      "deletions": -7584
+      "commits_count": 103,
+      "additions": 16122,
+      "deletions": -7652
     },
     {
       "name": "fastspot-api",
-      "commits_count": 10,
-      "additions": 372,
-      "deletions": -119
+      "commits_count": 15,
+      "additions": 404,
+      "deletions": -144
     },
     {
       "name": "oasis-api-js",
@@ -64,9 +64,9 @@
     },
     {
       "name": "libswap-js",
-      "commits_count": 7,
-      "additions": 441,
-      "deletions": -280
+      "commits_count": 9,
+      "additions": 458,
+      "deletions": -288
     },
     {
       "name": "crypto-map",
@@ -79,12 +79,6 @@
       "commits_count": 20,
       "additions": 3069,
       "deletions": -2789
-    },
-    {
-      "name": "validator-registration-tool",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
     },
     {
       "name": "validators-api",

@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-11-02T03:07:14.033697",
-  "start_date": "2024-10-05T03:05:39.246601",
+  "end_date": "2024-11-04T03:12:20.447999",
+  "start_date": "2024-10-07T03:09:56.758926",
   "repos": [
     {
       "name": "identicons",
@@ -40,15 +40,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 38,
-      "additions": 1159,
-      "deletions": -894
+      "commits_count": 25,
+      "additions": 796,
+      "deletions": -630
     },
     {
       "name": "wallet",
-      "commits_count": 103,
-      "additions": 16122,
-      "deletions": -7652
+      "commits_count": 53,
+      "additions": 12106,
+      "deletions": -6145
     },
     {
       "name": "fastspot-api",
@@ -70,33 +70,33 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 17,
-      "additions": 198,
-      "deletions": -100
+      "commits_count": 12,
+      "additions": 159,
+      "deletions": -82
     },
     {
       "name": "developer-center",
-      "commits_count": 20,
-      "additions": 3069,
-      "deletions": -2789
+      "commits_count": 12,
+      "additions": 1716,
+      "deletions": -1713
     },
     {
       "name": "validators-api",
-      "commits_count": 96,
-      "additions": 18346,
-      "deletions": -12882
+      "commits_count": 78,
+      "additions": 13564,
+      "deletions": -10541
     },
     {
       "name": "prestaking-website",
-      "commits_count": 43,
-      "additions": 1289,
-      "deletions": -1188
+      "commits_count": 12,
+      "additions": 391,
+      "deletions": -560
     },
     {
       "name": "nimiq-website",
-      "commits_count": 52,
-      "additions": 19537,
-      "deletions": -4402
+      "commits_count": 1,
+      "additions": 37,
+      "deletions": -32
     }
   ]
 }

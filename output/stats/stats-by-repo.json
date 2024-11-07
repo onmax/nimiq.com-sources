@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-11-04T03:12:20.447999",
-  "start_date": "2024-10-07T03:09:56.758926",
+  "end_date": "2024-11-07T03:08:37.977708",
+  "start_date": "2024-10-10T03:06:27.278023",
   "repos": [
     {
       "name": "identicons",
@@ -21,6 +21,12 @@
       "deletions": -92
     },
     {
+      "name": "mining-pool",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
       "name": "ledger-app-nimiq",
       "commits_count": 0,
       "additions": 0,
@@ -28,27 +34,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 4,
-      "additions": 340,
-      "deletions": -64
+      "commits_count": 11,
+      "additions": 997,
+      "deletions": -200
     },
     {
       "name": "hub",
-      "commits_count": 6,
-      "additions": 790,
-      "deletions": -601
+      "commits_count": 11,
+      "additions": 1391,
+      "deletions": -1131
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 25,
-      "additions": 796,
-      "deletions": -630
+      "commits_count": 42,
+      "additions": 2132,
+      "deletions": -1631
     },
     {
       "name": "wallet",
-      "commits_count": 53,
-      "additions": 12106,
-      "deletions": -6145
+      "commits_count": 62,
+      "additions": 14254,
+      "deletions": -7607
     },
     {
       "name": "fastspot-api",
@@ -64,9 +70,9 @@
     },
     {
       "name": "libswap-js",
-      "commits_count": 9,
-      "additions": 458,
-      "deletions": -288
+      "commits_count": 11,
+      "additions": 464,
+      "deletions": -294
     },
     {
       "name": "crypto-map",
@@ -82,21 +88,21 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 78,
-      "additions": 13564,
-      "deletions": -10541
+      "commits_count": 85,
+      "additions": 13595,
+      "deletions": -10552
     },
     {
       "name": "prestaking-website",
-      "commits_count": 12,
-      "additions": 391,
-      "deletions": -560
+      "commits_count": 17,
+      "additions": 411,
+      "deletions": -574
     },
     {
       "name": "nimiq-website",
-      "commits_count": 1,
-      "additions": 37,
-      "deletions": -32
+      "commits_count": 23,
+      "additions": 20146,
+      "deletions": -10052
     }
   ]
 }

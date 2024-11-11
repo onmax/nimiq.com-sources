@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-11-09T03:07:45.550499",
-  "start_date": "2024-10-12T03:04:22.044647",
+  "end_date": "2024-11-11T03:08:39.856565",
+  "start_date": "2024-10-14T03:06:19.129756",
   "repos": [
     {
       "name": "identicons",
@@ -10,9 +10,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 14,
-      "additions": 235,
-      "deletions": -144
+      "commits_count": 5,
+      "additions": 64,
+      "deletions": -33
     },
     {
       "name": "ledger-api",
@@ -46,15 +46,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 43,
-      "additions": 2146,
-      "deletions": -1632
+      "commits_count": 28,
+      "additions": 1627,
+      "deletions": -1270
     },
     {
       "name": "wallet",
-      "commits_count": 64,
-      "additions": 14265,
-      "deletions": -7613
+      "commits_count": 52,
+      "additions": 12425,
+      "deletions": -6857
     },
     {
       "name": "fastspot-api",
@@ -76,15 +76,15 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 12,
-      "additions": 159,
-      "deletions": -82
+      "commits_count": 7,
+      "additions": 122,
+      "deletions": -53
     },
     {
       "name": "developer-center",
-      "commits_count": 12,
-      "additions": 1716,
-      "deletions": -1713
+      "commits_count": 6,
+      "additions": 647,
+      "deletions": -647
     },
     {
       "name": "validators-api",
@@ -94,15 +94,15 @@
     },
     {
       "name": "prestaking-website",
-      "commits_count": 17,
-      "additions": 411,
-      "deletions": -574
+      "commits_count": 18,
+      "additions": 289,
+      "deletions": -238
     },
     {
       "name": "nimiq-website",
-      "commits_count": 23,
-      "additions": 20146,
-      "deletions": -10052
+      "commits_count": 18,
+      "additions": 10334,
+      "deletions": -10004
     }
   ]
 }

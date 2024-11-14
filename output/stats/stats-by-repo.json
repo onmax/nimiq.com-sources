@@ -1,7 +1,19 @@
 {
-  "end_date": "2024-11-11T03:08:39.856565",
-  "start_date": "2024-10-14T03:06:19.129756",
+  "end_date": "2024-11-14T03:10:51.066966",
+  "start_date": "2024-10-17T03:06:22.617802",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 2,
+      "additions": 10,
+      "deletions": -10
+    },
+    {
+      "name": "jungle-db",
+      "commits_count": 2,
+      "additions": 34,
+      "deletions": -5
+    },
     {
       "name": "identicons",
       "commits_count": 0,
@@ -16,9 +28,9 @@
     },
     {
       "name": "ledger-api",
-      "commits_count": 9,
-      "additions": 147,
-      "deletions": -92
+      "commits_count": 10,
+      "additions": 155,
+      "deletions": -101
     },
     {
       "name": "mining-pool",
@@ -46,15 +58,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 1627,
-      "deletions": -1270
+      "commits_count": 51,
+      "additions": 2744,
+      "deletions": -1912
     },
     {
       "name": "wallet",
       "commits_count": 52,
       "additions": 12425,
       "deletions": -6857
+    },
+    {
+      "name": "jsonrpc",
+      "commits_count": 1,
+      "additions": 4,
+      "deletions": -4
     },
     {
       "name": "fastspot-api",
@@ -88,15 +106,15 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 90,
-      "additions": 13701,
-      "deletions": -10658
+      "commits_count": 92,
+      "additions": 13862,
+      "deletions": -10723
     },
     {
       "name": "prestaking-website",
-      "commits_count": 18,
-      "additions": 289,
-      "deletions": -238
+      "commits_count": 22,
+      "additions": 386,
+      "deletions": -246
     },
     {
       "name": "nimiq-website",

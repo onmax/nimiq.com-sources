@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-11-14T03:10:51.066966",
-  "start_date": "2024-10-17T03:06:22.617802",
+  "end_date": "2024-11-16T03:13:48.147690",
+  "start_date": "2024-10-19T03:10:22.586335",
   "repos": [
     {
       "name": "core-js",
@@ -29,8 +29,8 @@
     {
       "name": "ledger-api",
       "commits_count": 10,
-      "additions": 155,
-      "deletions": -101
+      "additions": 166,
+      "deletions": -106
     },
     {
       "name": "mining-pool",
@@ -58,9 +58,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 51,
-      "additions": 2744,
-      "deletions": -1912
+      "commits_count": 70,
+      "additions": 4582,
+      "deletions": -3008
     },
     {
       "name": "wallet",
@@ -100,15 +100,15 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 6,
-      "additions": 647,
-      "deletions": -647
+      "commits_count": 10,
+      "additions": 672,
+      "deletions": -675
     },
     {
       "name": "validators-api",
-      "commits_count": 92,
-      "additions": 13862,
-      "deletions": -10723
+      "commits_count": 99,
+      "additions": 13970,
+      "deletions": -10803
     },
     {
       "name": "prestaking-website",
@@ -121,6 +121,12 @@
       "commits_count": 18,
       "additions": 10334,
       "deletions": -10004
+    },
+    {
+      "name": "trustwallet-core",
+      "commits_count": 8,
+      "additions": 4561,
+      "deletions": -107
     }
   ]
 }

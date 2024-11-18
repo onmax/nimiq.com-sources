@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-11-16T03:13:48.147690",
-  "start_date": "2024-10-19T03:10:22.586335",
+  "end_date": "2024-11-18T03:18:19.271555",
+  "start_date": "2024-10-21T03:14:02.500987",
   "repos": [
     {
       "name": "core-js",
@@ -22,15 +22,15 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 5,
-      "additions": 64,
-      "deletions": -33
+      "commits_count": 2,
+      "additions": 4,
+      "deletions": -1
     },
     {
       "name": "ledger-api",
-      "commits_count": 10,
-      "additions": 166,
-      "deletions": -106
+      "commits_count": 5,
+      "additions": 57,
+      "deletions": -37
     },
     {
       "name": "mining-pool",
@@ -46,27 +46,27 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 11,
-      "additions": 997,
-      "deletions": -200
+      "commits_count": 8,
+      "additions": 679,
+      "deletions": -158
     },
     {
       "name": "hub",
-      "commits_count": 11,
-      "additions": 1391,
-      "deletions": -1131
+      "commits_count": 7,
+      "additions": 1339,
+      "deletions": -1068
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 70,
-      "additions": 4582,
-      "deletions": -3008
+      "commits_count": 76,
+      "additions": 4964,
+      "deletions": -2925
     },
     {
       "name": "wallet",
-      "commits_count": 52,
-      "additions": 12425,
-      "deletions": -6857
+      "commits_count": 24,
+      "additions": 2832,
+      "deletions": -2078
     },
     {
       "name": "jsonrpc",
@@ -94,39 +94,45 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 7,
-      "additions": 122,
-      "deletions": -53
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 10,
-      "additions": 672,
-      "deletions": -675
+      "commits_count": 5,
+      "additions": 26,
+      "deletions": -28
     },
     {
       "name": "validators-api",
-      "commits_count": 99,
-      "additions": 13970,
-      "deletions": -10803
+      "commits_count": 73,
+      "additions": 15413,
+      "deletions": -2294
     },
     {
       "name": "prestaking-website",
-      "commits_count": 22,
-      "additions": 386,
-      "deletions": -246
+      "commits_count": 21,
+      "additions": 373,
+      "deletions": -233
     },
     {
       "name": "nimiq-website",
-      "commits_count": 18,
-      "additions": 10334,
-      "deletions": -10004
+      "commits_count": 17,
+      "additions": 10209,
+      "deletions": -9973
     },
     {
       "name": "trustwallet-core",
-      "commits_count": 8,
-      "additions": 4561,
-      "deletions": -107
+      "commits_count": 7,
+      "additions": 4220,
+      "deletions": -62
+    },
+    {
+      "name": "migration-readiness-monitor",
+      "commits_count": 25,
+      "additions": 838,
+      "deletions": -373
     }
   ]
 }

@@ -1,39 +1,21 @@
 {
-  "end_date": "2024-11-18T03:18:19.271555",
-  "start_date": "2024-10-21T03:14:02.500987",
+  "end_date": "2024-12-19T03:27:34.063557",
+  "start_date": "2024-11-21T03:23:40.605708",
   "repos": [
     {
-      "name": "core-js",
-      "commits_count": 2,
-      "additions": 10,
-      "deletions": -10
+      "name": "nimiq-demo",
+      "commits_count": 1,
+      "additions": 34786,
+      "deletions": -73
     },
     {
-      "name": "jungle-db",
-      "commits_count": 2,
-      "additions": 34,
-      "deletions": -5
-    },
-    {
-      "name": "identicons",
+      "name": "nimiq-utils",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
-      "name": "nimiq-utils",
-      "commits_count": 2,
-      "additions": 4,
-      "deletions": -1
-    },
-    {
       "name": "ledger-api",
-      "commits_count": 5,
-      "additions": 57,
-      "deletions": -37
-    },
-    {
-      "name": "mining-pool",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -46,93 +28,75 @@
     },
     {
       "name": "keyguard",
-      "commits_count": 8,
-      "additions": 679,
-      "deletions": -158
+      "commits_count": 3,
+      "additions": 423,
+      "deletions": -23
     },
     {
       "name": "hub",
-      "commits_count": 7,
-      "additions": 1339,
-      "deletions": -1068
+      "commits_count": 16,
+      "additions": 17249,
+      "deletions": -8732
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 76,
-      "additions": 4964,
-      "deletions": -2925
+      "commits_count": 55,
+      "additions": 3377,
+      "deletions": -2040
     },
     {
       "name": "wallet",
-      "commits_count": 24,
-      "additions": 2832,
-      "deletions": -2078
+      "commits_count": 67,
+      "additions": 3381,
+      "deletions": -2395
     },
     {
       "name": "jsonrpc",
       "commits_count": 1,
-      "additions": 4,
-      "deletions": -4
+      "additions": 1,
+      "deletions": -5
     },
     {
       "name": "fastspot-api",
-      "commits_count": 15,
-      "additions": 404,
-      "deletions": -144
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
-      "name": "oasis-api-js",
-      "commits_count": 4,
-      "additions": 239,
-      "deletions": -67
+      "name": "frontend-release-notes",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "libswap-js",
-      "commits_count": 11,
-      "additions": 464,
-      "deletions": -294
-    },
-    {
-      "name": "crypto-map",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 5,
-      "additions": 26,
-      "deletions": -28
+      "commits_count": 12,
+      "additions": 2838,
+      "deletions": -3014
     },
     {
       "name": "validators-api",
-      "commits_count": 73,
-      "additions": 15413,
-      "deletions": -2294
-    },
-    {
-      "name": "prestaking-website",
-      "commits_count": 21,
-      "additions": 373,
-      "deletions": -233
+      "commits_count": 39,
+      "additions": 6492,
+      "deletions": -286
     },
     {
       "name": "nimiq-website",
-      "commits_count": 17,
-      "additions": 10209,
-      "deletions": -9973
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
-      "name": "trustwallet-core",
-      "commits_count": 7,
-      "additions": 4220,
-      "deletions": -62
-    },
-    {
-      "name": "migration-readiness-monitor",
-      "commits_count": 25,
-      "additions": 838,
-      "deletions": -373
+      "name": "dht-fallback-data",
+      "commits_count": 14,
+      "additions": 173,
+      "deletions": -53
     }
   ]
 }

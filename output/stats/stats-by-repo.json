@@ -1,6 +1,6 @@
 {
-  "end_date": "2024-12-19T03:27:34.063557",
-  "start_date": "2024-11-21T03:23:40.605708",
+  "end_date": "2024-12-21T03:15:24.844868",
+  "start_date": "2024-11-23T03:13:41.216232",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -10,18 +10,6 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ledger-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ledger-app-nimiq",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -57,24 +45,6 @@
       "deletions": -5
     },
     {
-      "name": "fastspot-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "frontend-release-notes",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "libswap-js",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "developer-center",
       "commits_count": 12,
       "additions": 2838,
@@ -82,9 +52,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 39,
-      "additions": 6492,
-      "deletions": -286
+      "commits_count": 40,
+      "additions": 6495,
+      "deletions": -289
     },
     {
       "name": "nimiq-website",

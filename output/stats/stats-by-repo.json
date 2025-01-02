@@ -1,13 +1,7 @@
 {
-  "end_date": "2024-12-30T03:09:33.231175",
-  "start_date": "2024-12-02T03:07:39.252629",
+  "end_date": "2025-01-02T03:06:14.493498",
+  "start_date": "2024-12-05T03:05:00.934042",
   "repos": [
-    {
-      "name": "nimiq-demo",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
     {
       "name": "nimiq-utils",
       "commits_count": 8,
@@ -58,9 +52,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 12,
-      "additions": 86,
-      "deletions": -52
+      "commits_count": 14,
+      "additions": 93,
+      "deletions": -59
     },
     {
       "name": "nimiq-website",

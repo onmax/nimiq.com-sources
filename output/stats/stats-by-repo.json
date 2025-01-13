@@ -1,12 +1,12 @@
 {
-  "end_date": "2025-01-11T03:07:33.157096",
-  "start_date": "2024-12-14T03:06:21.369361",
+  "end_date": "2025-01-13T03:11:45.813424",
+  "start_date": "2024-12-16T03:10:06.167658",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 8,
-      "additions": 579,
-      "deletions": -215
+      "commits_count": 2,
+      "additions": 92,
+      "deletions": -26
     },
     {
       "name": "ledger-api",
@@ -22,9 +22,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 17,
-      "additions": 643,
-      "deletions": -607
+      "commits_count": 13,
+      "additions": 567,
+      "deletions": -561
     },
     {
       "name": "wallet",
@@ -46,15 +46,15 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 5,
-      "additions": 48,
-      "deletions": -11
+      "commits_count": 4,
+      "additions": 40,
+      "deletions": -8
     },
     {
       "name": "nimiq-website",
-      "commits_count": 32,
-      "additions": 8834,
-      "deletions": -4901
+      "commits_count": 21,
+      "additions": 7124,
+      "deletions": -4561
     }
   ]
 }

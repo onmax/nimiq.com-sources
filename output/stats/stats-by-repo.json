@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-01-13T03:11:45.813424",
-  "start_date": "2024-12-16T03:10:06.167658",
+  "end_date": "2025-01-16T03:04:13.529940",
+  "start_date": "2024-12-19T03:03:07.994374",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -15,34 +15,40 @@
       "deletions": 0
     },
     {
+      "name": "keyguard",
+      "commits_count": 10,
+      "additions": 62,
+      "deletions": -617
+    },
+    {
       "name": "hub",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 7,
+      "additions": 270,
+      "deletions": -281
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 13,
-      "additions": 567,
-      "deletions": -561
+      "commits_count": 16,
+      "additions": 663,
+      "deletions": -665
     },
     {
       "name": "wallet",
-      "commits_count": 3,
-      "additions": 66,
-      "deletions": -63
+      "commits_count": 11,
+      "additions": 285,
+      "deletions": -8548
     },
     {
       "name": "jsonrpc",
-      "commits_count": 2,
-      "additions": 7,
-      "deletions": -7
+      "commits_count": 3,
+      "additions": 56,
+      "deletions": -9
     },
     {
       "name": "developer-center",
-      "commits_count": 3,
-      "additions": 95,
-      "deletions": -74
+      "commits_count": 10,
+      "additions": 3290,
+      "deletions": -2870
     },
     {
       "name": "validators-api",

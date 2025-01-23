@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-01-20T03:06:13.807554",
-  "start_date": "2024-12-23T03:04:10.391831",
+  "end_date": "2025-01-23T03:05:29.022776",
+  "start_date": "2024-12-26T03:03:17.815215",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -40,9 +40,9 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 2,
-      "additions": 54,
-      "deletions": -7
+      "commits_count": 3,
+      "additions": 177,
+      "deletions": -157
     },
     {
       "name": "developer-center",
@@ -57,10 +57,16 @@
       "deletions": -8
     },
     {
+      "name": "prestaking-website",
+      "commits_count": 5,
+      "additions": 2138,
+      "deletions": -1645
+    },
+    {
       "name": "nimiq-website",
-      "commits_count": 22,
-      "additions": 7128,
-      "deletions": -5678
+      "commits_count": 24,
+      "additions": 7206,
+      "deletions": -5715
     }
   ]
 }

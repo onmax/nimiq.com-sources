@@ -1,7 +1,13 @@
 {
-  "end_date": "2025-01-23T03:05:29.022776",
-  "start_date": "2024-12-26T03:03:17.815215",
+  "end_date": "2025-01-25T03:05:08.019734",
+  "start_date": "2024-12-28T03:02:15.580078",
   "repos": [
+    {
+      "name": "core-js",
+      "commits_count": 1,
+      "additions": 2,
+      "deletions": 0
+    },
     {
       "name": "nimiq-utils",
       "commits_count": 0,
@@ -28,9 +34,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 17,
-      "additions": 510,
-      "deletions": -754
+      "commits_count": 25,
+      "additions": 1477,
+      "deletions": -812
     },
     {
       "name": "wallet",
@@ -40,9 +46,9 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 3,
-      "additions": 177,
-      "deletions": -157
+      "commits_count": 5,
+      "additions": 195,
+      "deletions": -175
     },
     {
       "name": "developer-center",

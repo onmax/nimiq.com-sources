@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-01-25T03:05:08.019734",
-  "start_date": "2024-12-28T03:02:15.580078",
+  "end_date": "2025-01-27T03:05:51.780559",
+  "start_date": "2024-12-30T03:03:53.976310",
   "repos": [
     {
       "name": "core-js",
@@ -10,15 +10,9 @@
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "ledger-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
+      "commits_count": 5,
+      "additions": 219,
+      "deletions": -95
     },
     {
       "name": "keyguard",
@@ -41,8 +35,8 @@
     {
       "name": "wallet",
       "commits_count": 9,
-      "additions": 222,
-      "deletions": -8488
+      "additions": 234,
+      "deletions": -8523
     },
     {
       "name": "jsonrpc",
@@ -58,9 +52,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 3,
-      "additions": 8,
-      "deletions": -8
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "prestaking-website",
@@ -70,9 +64,9 @@
     },
     {
       "name": "nimiq-website",
-      "commits_count": 24,
-      "additions": 7206,
-      "deletions": -5715
+      "commits_count": 19,
+      "additions": 4747,
+      "deletions": -4471
     }
   ]
 }

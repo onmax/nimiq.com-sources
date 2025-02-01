@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-01-30T03:04:33.741426",
-  "start_date": "2025-01-02T03:02:28.768396",
+  "end_date": "2025-02-01T03:07:33.632661",
+  "start_date": "2025-01-04T03:05:32.195476",
   "repos": [
     {
       "name": "core-js",
@@ -28,15 +28,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 28,
-      "additions": 1781,
-      "deletions": -857
+      "commits_count": 30,
+      "additions": 1955,
+      "deletions": -1015
     },
     {
       "name": "wallet",
-      "commits_count": 13,
-      "additions": 490,
-      "deletions": -8630
+      "commits_count": 19,
+      "additions": 938,
+      "deletions": -8911
     },
     {
       "name": "jsonrpc",
@@ -64,9 +64,9 @@
     },
     {
       "name": "prestaking-website",
-      "commits_count": 5,
-      "additions": 2138,
-      "deletions": -1645
+      "commits_count": 13,
+      "additions": 5539,
+      "deletions": -3234
     },
     {
       "name": "nimiq-website",

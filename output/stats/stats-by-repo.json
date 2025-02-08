@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-02-06T03:07:05.520442",
-  "start_date": "2025-01-09T03:04:35.770709",
+  "end_date": "2025-02-08T03:06:00.351148",
+  "start_date": "2025-01-11T03:03:41.188856",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 23,
-      "additions": 1104,
-      "deletions": -841
+      "commits_count": 29,
+      "additions": 1257,
+      "deletions": -899
     },
     {
       "name": "wallet",
@@ -64,9 +64,9 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 1,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 2,
+      "additions": 5,
+      "deletions": -5
     },
     {
       "name": "prestaking-website",

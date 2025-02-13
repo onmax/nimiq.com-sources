@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-02-10T03:08:21.813054",
-  "start_date": "2025-01-13T03:06:14.963602",
+  "end_date": "2025-02-13T03:06:30.221196",
+  "start_date": "2025-01-16T03:05:09.261862",
   "repos": [
     {
       "name": "core-js",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 16,
-      "additions": 797,
-      "deletions": -463
+      "commits_count": 21,
+      "additions": 810,
+      "deletions": -479
     },
     {
       "name": "wallet",
@@ -58,8 +58,8 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 2,
-      "additions": 6,
+      "commits_count": 3,
+      "additions": 530,
       "deletions": -8
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "name": "prestaking-giveaway-script",
-      "commits_count": 3,
-      "additions": 2197,
-      "deletions": -1082
+      "commits_count": 4,
+      "additions": 3229,
+      "deletions": -1083
     }
   ]
 }

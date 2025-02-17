@@ -1,18 +1,18 @@
 {
-  "end_date": "2025-02-15T03:06:19.270595",
-  "start_date": "2025-01-18T03:04:27.863128",
+  "end_date": "2025-02-17T03:10:11.733127",
+  "start_date": "2025-01-20T03:07:43.881649",
   "repos": [
     {
       "name": "core-js",
-      "commits_count": 1,
-      "additions": 2,
+      "commits_count": 0,
+      "additions": 0,
       "deletions": 0
     },
     {
       "name": "nimiq-utils",
-      "commits_count": 5,
-      "additions": 219,
-      "deletions": -95
+      "commits_count": 2,
+      "additions": 15,
+      "deletions": -13
     },
     {
       "name": "hub",
@@ -22,21 +22,21 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 22,
-      "additions": 820,
-      "deletions": -489
+      "commits_count": 15,
+      "additions": 666,
+      "deletions": -424
     },
     {
       "name": "wallet",
-      "commits_count": 11,
-      "additions": 719,
-      "deletions": -426
+      "commits_count": 7,
+      "additions": 463,
+      "deletions": -319
     },
     {
       "name": "jsonrpc",
-      "commits_count": 8,
-      "additions": 235,
-      "deletions": -87
+      "commits_count": 4,
+      "additions": 22,
+      "deletions": -18
     },
     {
       "name": "cashlink-generator",
@@ -52,8 +52,8 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 3,
-      "additions": 530,
+      "commits_count": 2,
+      "additions": 6,
       "deletions": -8
     },
     {
@@ -64,15 +64,15 @@
     },
     {
       "name": "prestaking-website",
-      "commits_count": 16,
-      "additions": 5637,
-      "deletions": -3265
+      "commits_count": 11,
+      "additions": 3499,
+      "deletions": -1620
     },
     {
       "name": "nimiq-website",
-      "commits_count": 6,
-      "additions": 907,
-      "deletions": -1388
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "prestaking-giveaway-script",

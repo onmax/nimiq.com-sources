@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-02-17T03:10:11.733127",
-  "start_date": "2025-01-20T03:07:43.881649",
+  "end_date": "2025-02-20T03:08:18.519770",
+  "start_date": "2025-01-23T03:05:55.710222",
   "repos": [
     {
       "name": "core-js",
@@ -22,15 +22,15 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 15,
-      "additions": 666,
-      "deletions": -424
+      "commits_count": 17,
+      "additions": 681,
+      "deletions": -439
     },
     {
       "name": "wallet",
-      "commits_count": 7,
-      "additions": 463,
-      "deletions": -319
+      "commits_count": 8,
+      "additions": 464,
+      "deletions": -320
     },
     {
       "name": "jsonrpc",
@@ -40,6 +40,12 @@
     },
     {
       "name": "cashlink-generator",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "vue3-components",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
@@ -76,9 +82,9 @@
     },
     {
       "name": "prestaking-giveaway-script",
-      "commits_count": 4,
-      "additions": 3229,
-      "deletions": -1083
+      "commits_count": 5,
+      "additions": 3273,
+      "deletions": -1084
     }
   ]
 }

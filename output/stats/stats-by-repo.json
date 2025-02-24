@@ -1,12 +1,12 @@
 {
-  "end_date": "2025-02-22T03:06:10.829078",
-  "start_date": "2025-01-25T03:04:09.214120",
+  "end_date": "2025-02-24T03:10:24.391679",
+  "start_date": "2025-01-27T03:08:55.920673",
   "repos": [
     {
       "name": "nimiq-utils",
-      "commits_count": 3,
-      "additions": 16,
-      "deletions": -14
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "hub",
@@ -16,27 +16,27 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 19,
-      "additions": 691,
-      "deletions": -449
+      "commits_count": 15,
+      "additions": 302,
+      "deletions": -280
     },
     {
       "name": "wallet",
-      "commits_count": 8,
-      "additions": 464,
-      "deletions": -320
+      "commits_count": 1,
+      "additions": 1,
+      "deletions": -1
     },
     {
       "name": "jsonrpc",
-      "commits_count": 4,
-      "additions": 22,
-      "deletions": -18
-    },
-    {
-      "name": "cashlink-generator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
+    },
+    {
+      "name": "cashlink-generator",
+      "commits_count": 25,
+      "additions": 7219,
+      "deletions": -4275
     },
     {
       "name": "vue3-components",
@@ -58,15 +58,15 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 2,
-      "additions": 5,
-      "deletions": -5
+      "commits_count": 1,
+      "additions": 2,
+      "deletions": -2
     },
     {
       "name": "prestaking-website",
-      "commits_count": 11,
-      "additions": 3499,
-      "deletions": -1620
+      "commits_count": 3,
+      "additions": 98,
+      "deletions": -31
     },
     {
       "name": "nimiq-website",
@@ -76,9 +76,9 @@
     },
     {
       "name": "prestaking-giveaway-script",
-      "commits_count": 5,
-      "additions": 3273,
-      "deletions": -1084
+      "commits_count": 3,
+      "additions": 2140,
+      "deletions": -3
     }
   ]
 }

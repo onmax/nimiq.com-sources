@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-02-24T03:10:24.391679",
-  "start_date": "2025-01-27T03:08:55.920673",
+  "end_date": "2025-02-27T03:10:17.542554",
+  "start_date": "2025-01-30T03:08:32.342421",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -16,9 +16,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 15,
-      "additions": 302,
-      "deletions": -280
+      "commits_count": 16,
+      "additions": 310,
+      "deletions": -288
     },
     {
       "name": "wallet",
@@ -52,9 +52,9 @@
     },
     {
       "name": "developer-center",
-      "commits_count": 6,
-      "additions": 1634,
-      "deletions": -1938
+      "commits_count": 8,
+      "additions": 1637,
+      "deletions": -1941
     },
     {
       "name": "validators-api",

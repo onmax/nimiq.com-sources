@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-01T03:14:05.661065",
-  "start_date": "2025-02-01T03:12:17.988118",
+  "end_date": "2025-03-03T03:12:33.341672",
+  "start_date": "2025-02-03T03:10:24.915010",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -16,9 +16,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 17,
-      "additions": 314,
-      "deletions": -292
+      "commits_count": 12,
+      "additions": 60,
+      "deletions": -63
     },
     {
       "name": "wallet",
@@ -46,27 +46,27 @@
     },
     {
       "name": "crypto-map",
-      "commits_count": 2,
-      "additions": 2,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 8,
-      "additions": 1637,
-      "deletions": -1941
+      "commits_count": 6,
+      "additions": 1631,
+      "deletions": -1933
     },
     {
       "name": "validators-api",
-      "commits_count": 1,
-      "additions": 2,
-      "deletions": -2
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "prestaking-website",
-      "commits_count": 3,
-      "additions": 98,
-      "deletions": -31
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "nimiq-website",
@@ -76,9 +76,9 @@
     },
     {
       "name": "prestaking-giveaway-script",
-      "commits_count": 3,
-      "additions": 2140,
-      "deletions": -3
+      "commits_count": 2,
+      "additions": 1076,
+      "deletions": -2
     }
   ]
 }

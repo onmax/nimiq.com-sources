@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-03T03:12:33.341672",
-  "start_date": "2025-02-03T03:10:24.915010",
+  "end_date": "2025-03-06T03:11:40.523117",
+  "start_date": "2025-02-06T03:09:58.239775",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -45,12 +45,6 @@
       "deletions": 0
     },
     {
-      "name": "crypto-map",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "developer-center",
       "commits_count": 6,
       "additions": 1631,
@@ -58,12 +52,6 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "prestaking-website",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-08T03:03:26.599460",
-  "start_date": "2025-02-08T03:02:08.098135",
+  "end_date": "2025-03-10T03:03:33.071982",
+  "start_date": "2025-02-10T03:02:17.839597",
   "repos": [
     {
       "name": "nimiq-utils",
@@ -16,9 +16,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 12,
-      "additions": 60,
-      "deletions": -63
+      "commits_count": 6,
+      "additions": 37,
+      "deletions": -37
     },
     {
       "name": "wallet",
@@ -58,15 +58,15 @@
     },
     {
       "name": "nimiq-website",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -1
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
     },
     {
       "name": "prestaking-giveaway-script",
-      "commits_count": 2,
-      "additions": 1076,
-      "deletions": -2
+      "commits_count": 1,
+      "additions": 44,
+      "deletions": -1
     }
   ]
 }

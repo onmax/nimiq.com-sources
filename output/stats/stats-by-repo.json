@@ -1,7 +1,13 @@
 {
-  "end_date": "2025-03-17T03:14:50.892856",
-  "start_date": "2025-02-17T03:12:57.702279",
+  "end_date": "2025-03-20T03:13:30.953129",
+  "start_date": "2025-02-20T03:11:10.895695",
   "repos": [
+    {
+      "name": "nimiq-demo",
+      "commits_count": 3,
+      "additions": 12036,
+      "deletions": -12455
+    },
     {
       "name": "nimiq-utils",
       "commits_count": 2,
@@ -9,16 +15,28 @@
       "deletions": -2
     },
     {
+      "name": "keyguard",
+      "commits_count": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    {
+      "name": "hub",
+      "commits_count": 2,
+      "additions": 237,
+      "deletions": -8485
+    },
+    {
       "name": "core-rs-albatross",
-      "commits_count": 16,
-      "additions": 829,
-      "deletions": -730
+      "commits_count": 24,
+      "additions": 1012,
+      "deletions": -872
     },
     {
       "name": "wallet",
-      "commits_count": 2,
-      "additions": 13,
-      "deletions": -12
+      "commits_count": 6,
+      "additions": 1573,
+      "deletions": -1548
     },
     {
       "name": "jsonrpc",
@@ -33,16 +51,10 @@
       "deletions": 0
     },
     {
-      "name": "vue3-components",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
       "name": "developer-center",
-      "commits_count": 2,
-      "additions": 3,
-      "deletions": -3
+      "commits_count": 3,
+      "additions": 115,
+      "deletions": -99
     },
     {
       "name": "validators-api",
@@ -52,12 +64,6 @@
     },
     {
       "name": "nimiq-website",
-      "commits_count": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    {
-      "name": "prestaking-giveaway-script",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0

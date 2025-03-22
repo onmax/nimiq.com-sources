@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-20T03:13:30.953129",
-  "start_date": "2025-02-20T03:11:10.895695",
+  "end_date": "2025-03-22T03:13:58.832024",
+  "start_date": "2025-02-22T03:11:46.756712",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -34,9 +34,9 @@
     },
     {
       "name": "wallet",
-      "commits_count": 6,
-      "additions": 1573,
-      "deletions": -1548
+      "commits_count": 8,
+      "additions": 1632,
+      "deletions": -1634
     },
     {
       "name": "jsonrpc",
@@ -58,8 +58,8 @@
     },
     {
       "name": "validators-api",
-      "commits_count": 0,
-      "additions": 0,
+      "commits_count": 1,
+      "additions": 15,
       "deletions": 0
     },
     {

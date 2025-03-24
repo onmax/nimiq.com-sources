@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-22T03:13:58.832024",
-  "start_date": "2025-02-22T03:11:46.756712",
+  "end_date": "2025-03-24T03:17:11.820335",
+  "start_date": "2025-02-24T03:15:43.143829",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -28,9 +28,9 @@
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 24,
-      "additions": 1012,
-      "deletions": -872
+      "commits_count": 21,
+      "additions": 997,
+      "deletions": -856
     },
     {
       "name": "wallet",
@@ -40,21 +40,15 @@
     },
     {
       "name": "jsonrpc",
-      "commits_count": 1,
-      "additions": 1,
-      "deletions": -5
-    },
-    {
-      "name": "cashlink-generator",
       "commits_count": 0,
       "additions": 0,
       "deletions": 0
     },
     {
       "name": "developer-center",
-      "commits_count": 3,
-      "additions": 115,
-      "deletions": -99
+      "commits_count": 1,
+      "additions": 112,
+      "deletions": -96
     },
     {
       "name": "validators-api",

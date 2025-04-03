@@ -1,6 +1,6 @@
 {
-  "end_date": "2025-03-31T03:18:37.092195",
-  "start_date": "2025-03-03T03:17:13.436994",
+  "end_date": "2025-04-03T03:16:09.251147",
+  "start_date": "2025-03-06T03:14:15.358391",
   "repos": [
     {
       "name": "nimiq-demo",
@@ -22,21 +22,21 @@
     },
     {
       "name": "hub",
-      "commits_count": 2,
-      "additions": 237,
-      "deletions": -8485
+      "commits_count": 3,
+      "additions": 245,
+      "deletions": -8493
     },
     {
       "name": "core-rs-albatross",
-      "commits_count": 23,
-      "additions": 890,
-      "deletions": -741
+      "commits_count": 29,
+      "additions": 1424,
+      "deletions": -1206
     },
     {
       "name": "wallet",
-      "commits_count": 16,
-      "additions": 2060,
-      "deletions": -2007
+      "commits_count": 18,
+      "additions": 2067,
+      "deletions": -2024
     },
     {
       "name": "jsonrpc",
